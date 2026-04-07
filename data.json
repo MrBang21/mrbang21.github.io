@@ -1,0 +1,251 @@
+{
+	"projects": [
+		{
+			"name": "Human Anatomy Database",
+			"desc": "An interactive database and visual exploration of human anatomy.",
+			"tags": ["anatomy", "biology", "interactive"],
+			"link": "/human/",
+			"glyphs": ["H", "A", "D"],
+			"class": ["large"]
+		}
+	],
+	"social": [
+		{
+			"name": "X",
+			"desc": "Follow me on X for the latest updates and social content.",
+			"tags": ["x", "social media", "networking"],
+			"link": "https://x.com/MrBang21",
+			"glyphs": ["X"],
+			"class": []
+		}
+	],
+	"pro-intact sources": [
+		{
+			"name": "The sensory penis",
+			"desc": "Comprehensive immunohistological and ontogenetic exploration of penile innervation",
+			"tags": ["sensory", "penis", "innervation"],
+			"link": "https://doi.org/10.1111/andr.70118",
+			"glyphs": ["S", "P"],
+			"class": []
+		},
+		{
+			"name": "Fine-touch pressure thresholds in the adult penis",
+			"desc": "Study showing highest sensitivity in foreskin regions",
+			"tags": ["sensitivity", "foreskin", "neuroanatomy"],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/17378847/",
+			"glyphs": ["F", "T"],
+			"class": []
+		},
+		{
+			"name": "The prepuce: specialized mucosa of the penis",
+			"desc": "Describes structure and functions of the foreskin",
+			"tags": ["foreskin", "anatomy", "function"],
+			"link": "https://www.cirp.org/library/anatomy/cold-taylor/",
+			"glyphs": ["P", "M"],
+			"class": []
+		},
+		{
+			"name": "Anatomical basis of male circumcision",
+			"desc": "Highlights structures removed during circumcision",
+			"tags": ["anatomy", "circumcision", "loss"],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/8800902/",
+			"glyphs": ["A", "B"],
+			"class": []
+		},
+		{
+			"name": "Male circumcision decreases penile sensitivity",
+			"desc": "Large-scale study comparing intact vs circumcised sensitivity",
+			"tags": ["sensitivity", "sexual function", "evidence"],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/23374102/",
+			"glyphs": ["M", "C"],
+			"class": []
+		},
+		{
+			"name": "O'Hara & O'Hara study",
+			"desc": "Female partners report reduced sexual satisfaction with circumcised men",
+			"tags": ["female experience", "sexual satisfaction", "BJUI"],
+			"link": "https://www.cirp.org/library/anatomy/ohara/",
+			"glyphs": ["O", "H"],
+			"class": []
+		},
+
+		{
+			"name": "SSI: Circumcision does not protect against STDs",
+			"desc": "Danish Statens Serum Institut concludes no protective effect later in life",
+			"tags": ["denmark", "ssi", "std", "evidence"],
+			"link": "https://www.ssi.dk/aktuelt/nyheder/2021/omskaring-beskytter-ikke-drenge-mod-sexsygdomme-senere-i-livet",
+			"glyphs": ["S", "S"],
+			"class": []
+		},
+		{
+			"name": "Danish Medical Association ethics statement",
+			"desc": "Opposes non-therapeutic circumcision of boys",
+			"tags": ["denmark", "ethics", "doctors"],
+			"link": "https://laeger.dk/foreninger/laegeforeningen/etik/omskaering-af-drenge-uden-medicinsk-indikation",
+			"glyphs": ["D", "M"],
+			"class": []
+		},
+		{
+			"name": "STPS guideline on non-therapeutic circumcision",
+			"desc": "Official Danish health authority guidance",
+			"tags": ["denmark", "policy", "health"],
+			"link": "https://stps.dk/sundhedsfaglig/ansvar-og-retningslinjer/sundhedsfaglig-vejledning/ikke-terapeutisk-omskaering-af-drenge",
+			"glyphs": ["S", "T"],
+			"class": []
+		},
+		{
+			"name": "Danish doctors call circumcision mutilation",
+			"desc": "Public statements from Danish physicians",
+			"tags": ["denmark", "doctors", "debate"],
+			"link": "https://www.dr.dk/nyheder/indland/laeger-kalder-omskaering-lemlaestelse",
+			"glyphs": ["D", "R"],
+			"class": []
+		},
+		{
+			"name": "Videnskab.dk: No HIV protection",
+			"desc": "Danish science coverage rejecting HIV protection claim",
+			"tags": ["denmark", "science", "hiv"],
+			"link": "https://videnskab.dk/krop-sundhed/dansk-studie-nej-omskaering-af-drengeboern-beskytter-ikke-mod-hiv-og-sexsygdomme/",
+			"glyphs": ["V", "D"],
+			"class": []
+		},
+		{
+			"name": "Ugeskriftet: Circumcision is mutilation",
+			"desc": "Danish medical journal debate",
+			"tags": ["denmark", "journal", "ethics"],
+			"link": "https://ugeskriftet.dk/nyhed/laeger-omskaering-er-lemlaestelse",
+			"glyphs": ["U", "J"],
+			"class": []
+		},
+
+		{
+			"name": "Guttmacher: No direct HIV reduction",
+			"desc": "Finds no direct protection male-to-female",
+			"tags": ["hiv", "epidemiology"],
+			"link": "https://www.guttmacher.org/journals/ipsrh/2009/09/circumcision-does-not-directly-reduce-likelihood-male-female-hiv-transmission",
+			"glyphs": ["G", "H"],
+			"class": []
+		},
+		{
+			"name": "Reuters: No effect in US men",
+			"desc": "Circumcision does not affect HIV rates",
+			"tags": ["hiv", "usa"],
+			"link": "https://www.reuters.com/article/us-aids-circumcision/circumcision-does-not-affect-hiv-in-u-s-men-study-idUSN0345545120071204/",
+			"glyphs": ["R", "H"],
+			"class": []
+		},
+
+		{
+			"name": "JAMA Pediatrics complications study",
+			"desc": "Documents risks in infant circumcision",
+			"tags": ["complications", "infant"],
+			"link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/1870232",
+			"glyphs": ["J", "P"],
+			"class": []
+		},
+		{
+			"name": "Circumcision urinary tract damage",
+			"desc": "Danish research findings",
+			"tags": ["urinary", "damage"],
+			"link": "https://cphpost.dk/2017-01-04/news/danish-research-circumcision-can-damage-male-urinary-tract/",
+			"glyphs": ["U", "D"],
+			"class": []
+		},
+
+		{
+			"name": "BBC: Circumcision debate Europe",
+			"desc": "Coverage of European controversy",
+			"tags": ["media", "europe"],
+			"link": "https://www.bbc.com/news/world-europe-43111800",
+			"glyphs": ["B", "B"],
+			"class": []
+		},
+		{
+			"name": "Guardian: Possible child abuse classification",
+			"desc": "Draft CPS document coverage",
+			"tags": ["uk", "policy"],
+			"link": "https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document",
+			"glyphs": ["G", "U"],
+			"class": []
+		},
+
+		{
+			"name": "Doctors Opposing Circumcision",
+			"desc": "Medical advocacy organization",
+			"tags": ["activism", "medical"],
+			"link": "https://www.doctorsopposingcircumcision.org/",
+			"glyphs": ["D", "O"],
+			"class": []
+		},
+		{
+			"name": "Intact America",
+			"desc": "Advocacy group against infant circumcision",
+			"tags": ["activism", "usa"],
+			"link": "https://intactamerica.org/",
+			"glyphs": ["I", "A"],
+			"class": []
+		},
+		{
+			"name": "CIRP library",
+			"desc": "Extensive archive of circumcision research",
+			"tags": ["library", "research"],
+			"link": "https://www.cirp.org/",
+			"glyphs": ["C", "L"],
+			"class": []
+		}
+	],
+
+	"danish_politics_and_pressure": [
+		{
+			"name": "DR: International pressure on Denmark",
+			"desc": "Coverage of foreign pressure regarding circumcision policy",
+			"tags": ["denmark", "politics", "pressure"],
+			"link": "https://www.dr.dk/nyheder/politik/tungt-internationalt-pres-paa-danmark-foer-mette-frederiksens-afgoerende-beslutning",
+			"glyphs": ["D", "R"],
+			"class": []
+		},
+		{
+			"name": "DR: Parties condemn US and Israel pressure",
+			"desc": "Political reactions in Denmark",
+			"tags": ["denmark", "politics"],
+			"link": "https://www.dr.dk/nyheder/politik/partier-fordoemmer-pres-fra-usa-og-israel-om-omskaering-upassende-utilstedeligt-og",
+			"glyphs": ["D", "P"],
+			"class": []
+		},
+		{
+			"name": "CPH Post: Foreign interference debate",
+			"desc": "Discussion of international involvement",
+			"tags": ["denmark", "media"],
+			"link": "https://cphpost.dk/2021-04-20/news/foreign-interference-evidence-points-at-us-and-israeli-meddling-in-danish-circumcision-debate/",
+			"glyphs": ["C", "P"],
+			"class": []
+		}
+	],
+
+	"additional_research_and_meta": [
+		{
+			"name": "AAP cultural bias critique",
+			"desc": "Criticism of American Academy of Pediatrics stance",
+			"tags": ["aap", "bias"],
+			"link": "https://publications.aap.org/pediatrics/article-abstract/131/4/796/31907/Cultural-Bias-in-the-AAP-s-2012-Technical-Report",
+			"glyphs": ["A", "A"],
+			"class": []
+		},
+		{
+			"name": "Evidence-based critique of CDC",
+			"desc": "Analysis of CDC circumcision recommendations",
+			"tags": ["cdc", "critique"],
+			"link": "https://www.researchgate.net/publication/271841897_A_CDC-requested_Evidence-based_Critique_of_the_Centers_for_Disease_Control_and_Prevention_2014_Draft_on_Male_Circumcision",
+			"glyphs": ["C", "D"],
+			"class": []
+		},
+		{
+			"name": "Circumcision policies need rethink",
+			"desc": "Recent academic reassessment",
+			"tags": ["policy", "research"],
+			"link": "https://www.researchgate.net/publication/396776580_As_controversies_mount_circumcision_policies_need_a_rethink",
+			"glyphs": ["R", "P"],
+			"class": []
+		}
+	]
+}
