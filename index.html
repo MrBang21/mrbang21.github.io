@@ -116,14 +116,14 @@ ul.cards {
 	grid-template-columns: repeat(
 		auto-fill,
 		minmax(
-			15em,
+			25em,
 			1fr
 		)
 	);
 	align-items: stretch;
 	gap: 1em;
 	>li {
-		aspect-ratio: 63 / 88;
+		aspect-ratio: 16 / 9;
 		--width: 100%;
 		position: relative;
 		z-index: 1;
@@ -134,7 +134,7 @@ ul.cards {
 		z-index: 1;
 		&.wide {
 			grid-column: span 2;
-			aspect-ratio: 128 / 88;
+			aspect-ratio: 21 / 9;
 		}
 		&.forced {
 			z-index: 10;
