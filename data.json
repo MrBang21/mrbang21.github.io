@@ -1,15 +1,13 @@
 {
-	"projects": [
+	"personal": [
 		{
-			"name": "Human Anatomy Database",
-			"desc": "An interactive database and visual exploration of human anatomy.",
-			"tags": ["anatomy", "biology", "interactive"],
+			"name": "Human Sensory Atlas",
+			"desc": "An interactive database and visual exploration of human sensory anatomy.",
+			"tags": ["anatomy", "biology", "sensory"],
 			"link": "/human/",
-			"glyphs": ["H", "A", "D"],
-			"class": ["large"]
-		}
-	],
-	"social": [
+			"glyphs": ["H", "S", "A"],
+			"class": []
+		},
 		{
 			"name": "X",
 			"desc": "Follow me on X for the latest updates and social content.",
@@ -19,7 +17,7 @@
 			"class": []
 		}
 	],
-	"stay intact": [
+	"medical": [
 		{
 			"name": "The sensory penis",
 			"desc": "Comprehensive immunohistological and ontogenetic exploration of penile innervation",
@@ -63,8 +61,16 @@
 		{
 			"name": "O'Hara & O'Hara study",
 			"desc": "Female partners report reduced sexual satisfaction with circumcised men",
-			"tags": ["female experience", "sexual satisfaction", "BJUI"],
+			"tags": ["female experience", "sexual satisfaction", "bjui"],
 			"link": "https://www.cirp.org/library/anatomy/ohara/",
+			"glyphs": ["O", "H", "O", "S"],
+			"class": []
+		},
+		{
+			"name": "O'Hara & O'Hara study (Scribd)",
+			"desc": "Female partners report reduced sexual satisfaction with circumcised men (Scribd PDF)",
+			"tags": ["female experience", "sexual satisfaction", "bjui", "pdf"],
+			"link": "https://www.scribd.com/document/337531260/O-Hara-O-Hara-The-effect-of-male-circumcision-on-the-sexual-enjoyment-of-the-female-partner-pdf",
 			"glyphs": ["O", "H", "O", "S"],
 			"class": []
 		},
@@ -81,7 +87,7 @@
 			"desc": "Opposes non-therapeutic circumcision of boys",
 			"tags": ["denmark", "ethics", "doctors"],
 			"link": "https://laeger.dk/foreninger/laegeforeningen/etik/omskaering-af-drenge-uden-medicinsk-indikation",
-			"glyphs": ["D", "M", "A", "E"],
+			"glyphs": ["D", "M", "A"],
 			"class": []
 		},
 		{
@@ -165,22 +171,6 @@
 			"class": []
 		},
 		{
-			"name": "Doctors Opposing Circumcision",
-			"desc": "Medical advocacy organization",
-			"tags": ["activism", "medical"],
-			"link": "https://www.doctorsopposingcircumcision.org/",
-			"glyphs": ["D", "O", "C"],
-			"class": []
-		},
-		{
-			"name": "Intact America",
-			"desc": "Advocacy group against infant circumcision",
-			"tags": ["activism", "usa"],
-			"link": "https://intactamerica.org/",
-			"glyphs": ["I", "A"],
-			"class": []
-		},
-		{
 			"name": "CIRP library",
 			"desc": "Extensive archive of circumcision research",
 			"tags": ["library", "research"],
@@ -259,9 +249,65 @@
 			"link": "https://dsr.dk/sygeplejeetisk-raad/sygeplejeetiske-dilemmaer-og-holdninger/omskaering-af-drenge/",
 			"glyphs": ["D", "N", "C"],
 			"class": []
+		},
+		{
+			"name": "Nordic Ombudsmen & Pediatricians Statement",
+			"desc": "Joint statement from Nordic Ombudsmen for Children and pediatric experts arguing for the right of boys to decide for themselves.",
+			"tags": ["nordic", "ethics", "childrens rights", "policy"],
+			"link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3883017/",
+			"glyphs": ["N", "O", "P", "S"],
+			"class": []
+		},
+		{
+			"name": "Belgian Medical Academies' View",
+			"desc": "The Royal Belgian Medical Academies advise against non-therapeutic circumcision, citing a lack of medical benefits and potential for complications.",
+			"tags": ["belgium", "policy", "ethics", "medical academies"],
+			"link": "https://www.romb.be/wp-content/uploads/2021/04/2017.05.16-Circoncision-non-therapeutique-AVIS-commun-FR.pdf",
+			"glyphs": ["B", "M", "A", "V"],
+			"class": []
+		},
+		{
+			"name": "CPS of British Columbia Standard",
+			"desc": "The College of Physicians and Surgeons of British Columbia does not support the routine circumcision of newborn male infants.",
+			"tags": ["canada", "policy", "cpsbc", "medical standard"],
+			"link": "https://www.cpsbc.ca/files/pdf/PSG-Circumcision-Infant-Male.pdf",
+			"glyphs": ["C", "P", "S", "B"],
+			"class": []
+		},
+		{
+			"name": "Swedish Medical Association on Circumcision",
+			"desc": "The Swedish Medical Association strongly advises against non-therapeutic circumcision of boys.",
+			"tags": ["sweden", "policy", "medical", "ethics"],
+			"link": "https://slf.se/rad-och-riktlinjer/etik/omskarelse-av-pojkar/",
+			"glyphs": ["S", "M", "A"],
+			"class": []
+		},
+		{
+			"name": "Finnish Medical Association (FMA) Stance",
+			"desc": "The FMA demands an end to non-medical circumcision of boys, aligning with Nordic consensus.",
+			"tags": ["finland", "policy", "medical", "ethics"],
+			"link": "https://yle.fi/a/3-6056588",
+			"glyphs": ["F", "M", "A"],
+			"class": []
+		},
+		{
+			"name": "Norwegian Medical Association",
+			"desc": "Norway's doctors' union formally opposes routine circumcision of boys, advocating age limits.",
+			"tags": ["norway", "policy", "medical", "ethics"],
+			"link": "https://legeforeningen.no/",
+			"glyphs": ["N", "M", "A"],
+			"class": []
+		},
+		{
+			"name": "RACP 2010 Policy Statement",
+			"desc": "The Royal Australasian College of Physicians statement concluding there is no medical justification for routine infant circumcision.",
+			"tags": ["australia", "policy", "racp", "pediatrics"],
+			"link": "https://www.cirp.org/library/statements/racp2010/",
+			"glyphs": ["R", "A", "C", "P"],
+			"class": []
 		}
 	],
-	"danish politics and pressure": [
+	"politics pressure": [
 		{
 			"name": "DR: International pressure on Denmark",
 			"desc": "Coverage of foreign pressure regarding circumcision policy",
@@ -285,6 +331,54 @@
 			"link": "https://cphpost.dk/2021-04-20/news/foreign-interference-evidence-points-at-us-and-israeli-meddling-in-danish-circumcision-debate/",
 			"glyphs": ["C", "P"],
 			"class": []
+		},
+		{
+			"name": "US Lawmakers pressure Iceland",
+			"desc": "Bipartisan letter from US congress warning Iceland over a proposed 2018 ban on non-medical circumcision.",
+			"tags": ["iceland", "usa", "congress"],
+			"link": "https://www.reuters.com/article/us-iceland-circumcision-idUSKCN1GE2A9",
+			"glyphs": ["U", "S", "L"],
+			"class": []
+		},
+		{
+			"name": "Iceland ban unites Jewish and Muslim groups",
+			"desc": "Intense international religious backlash forced Iceland's parliament to eventually drop the popular bill.",
+			"tags": ["iceland", "religious", "pressure"],
+			"link": "https://www.nytimes.com/2018/02/21/world/europe/iceland-circumcision-ban.html",
+			"glyphs": ["I", "B", "U", "R"],
+			"class": []
+		},
+		{
+			"name": "ADL condemns Norway Progress Party",
+			"desc": "The Anti-Defamation League pressured Norway when a ruling party voted to pursue a ban on circumcision in 2017.",
+			"tags": ["norway", "adl", "pressure"],
+			"link": "https://www.adl.org/resources/press-release/adl-deeply-troubled-norwegian-progress-party-vote-ban-circumcision",
+			"glyphs": ["A", "D", "L"],
+			"class": []
+		},
+		{
+			"name": "Germany Legalizes Circumcision After Outcry",
+			"desc": "After a Cologne court ruled circumcision as bodily harm in 2012, international pressure forced the rapid passage of secular protections.",
+			"tags": ["germany", "law", "pressure"],
+			"link": "https://www.bbc.com/news/world-europe-20695191",
+			"glyphs": ["G", "L", "C", "A"],
+			"class": []
+		},
+		{
+			"name": "Council of Europe 2013 Resolution Backlash",
+			"desc": "PACE resolution calling circumcision a violation of physical integrity met immediate denunciation by religious leaders worldwide.",
+			"tags": ["europe", "coe", "backlash"],
+			"link": "https://www.bbc.com/news/world-europe-24385155",
+			"glyphs": ["P", "A", "C", "E"],
+			"class": []
+		},
+		{
+			"name": "WJC pressures Finland over child rights",
+			"desc": "European and World Jewish Congress sent strong warnings to Finland's government amid proposals for stricter regulations.",
+			"tags": ["finland", "wjc", "pressure"],
+			"link": "https://www.worldjewishcongress.org/en/news/wjc-urges-finland-to-reject-proposal-to-ban-circumcision",
+			"glyphs": ["W", "J", "C"],
+			"class": []
 		}
 	],
 	"additional research and meta": [
@@ -293,7 +387,7 @@
 			"desc": "Criticism of American Academy of Pediatrics stance",
 			"tags": ["aap", "bias"],
 			"link": "https://publications.aap.org/pediatrics/article-abstract/131/4/796/31907/Cultural-Bias-in-the-AAP-s-2012-Technical-Report",
-			"glyphs": ["A", "A"],
+			"glyphs": ["A", "A", "P"],
 			"class": []
 		},
 		{
@@ -301,7 +395,7 @@
 			"desc": "Analysis of CDC circumcision recommendations",
 			"tags": ["cdc", "critique"],
 			"link": "https://www.researchgate.net/publication/271841897_A_CDC-requested_Evidence-based_Critique_of_the_Centers_for_Disease_Control_and_Prevention_2014_Draft_on_Male_Circumcision",
-			"glyphs": ["C", "D"],
+			"glyphs": ["C", "D", "C"],
 			"class": []
 		},
 		{
@@ -310,6 +404,248 @@
 			"tags": ["policy", "research"],
 			"link": "https://www.researchgate.net/publication/396776580_As_controversies_mount_circumcision_policies_need_a_rethink",
 			"glyphs": ["R", "P"],
+			"class": []
+		},
+		{
+			"name": "German Circumcision Law",
+			"desc": "Following a court ruling classifying non-therapeutic circumcision as bodily harm, the German parliament passed a law permitting it under specific conditions.",
+			"tags": ["germany", "law", "ethics", "politics"],
+			"link": "https://www.gesetze-im-internet.de/bgb/__1631d.html",
+			"glyphs": ["G", "C", "L"],
+			"class": []
+		}
+	],
+	"intactivist groups": [
+		{
+			"name": "Intact America",
+			"desc": "The largest national advocacy group working to end involuntary child genital cutting in the United States.",
+			"tags": ["activism", "usa", "advocacy"],
+			"link": "https://intactamerica.org/",
+			"glyphs": ["I", "A"],
+			"class": []
+		},
+		{
+			"name": "Doctors Opposing Circumcision",
+			"desc": "An international group of physicians who oppose non-therapeutic circumcision of infants and children.",
+			"tags": ["activism", "medical", "doctors"],
+			"link": "https://www.doctorsopposingcircumcision.org/",
+			"glyphs": ["D", "O", "C"],
+			"class": []
+		},
+		{
+			"name": "Intact Denmark",
+			"desc": "Danish organization working for the right of children to keep their genitals intact.",
+			"tags": ["activism", "denmark", "europe"],
+			"link": "https://intactdenmark.dk/",
+			"glyphs": ["I", "D", "K"],
+			"class": []
+		},
+		{
+			"name": "Intact Australia",
+			"desc": "Australian non-profit community organisation for the protection of children from genital cutting.",
+			"tags": ["activism", "australia", "advocacy"],
+			"link": "https://www.intactaustralia.org/",
+			"glyphs": ["I", "A", "U"],
+			"class": []
+		},
+		{
+			"name": "Intaction",
+			"desc": "An educational and activist group dedicated to protecting boys and men from circumcision.",
+			"tags": ["activism", "usa", "education"],
+			"link": "https://www.intaction.org/",
+			"glyphs": ["I", "N", "T"],
+			"class": []
+		},
+		{
+			"name": "NOHARMM",
+			"desc": "National Organization to Halt the Abuse and Routine Mutilation of Males.",
+			"tags": ["activism", "usa", "protest"],
+			"link": "http://www.noharmm.org/",
+			"glyphs": ["N", "H", "R", "M"],
+			"class": []
+		},
+		{
+			"name": "Attorneys for the Rights of the Child",
+			"desc": "A legal advocacy organization dedicated to securing the legal rights of children, including the right to bodily integrity.",
+			"tags": ["legal", "activism", "childrens rights"],
+			"link": "https://arclaw.org/",
+			"glyphs": ["A", "R", "C"],
+			"class": []
+		},
+		{
+			"name": "Bloodstained Men & Their Friends",
+			"desc": "A protest group that demonstrates against non-consensual infant circumcision.",
+			"tags": ["protest", "activism", "usa"],
+			"link": "https://bloodstainedmen.org/",
+			"glyphs": ["B", "S", "M"],
+			"class": []
+		},
+		{
+			"name": "Your Whole Baby",
+			"desc": "A non-profit organization providing comprehensive information on the foreskin and circumcision to parents.",
+			"tags": ["education", "parents", "resources"],
+			"link": "https://www.yourwholebaby.org/",
+			"glyphs": ["Y", "W", "B"],
+			"class": []
+		},
+		{
+			"name": "GALDEF",
+			"desc": "Genital Autonomy Legal Defense and Education Fund, pursuing litigation to protect children's bodily integrity.",
+			"tags": ["legal", "activism", "litigation"],
+			"link": "https://www.galdef.org/",
+			"glyphs": ["G", "A", "L", "D"],
+			"class": []
+		},
+		{
+			"name": "intaktiv e.V.",
+			"desc": "A German voice for genital self-determination, advocating against non-therapeutic circumcision of children.",
+			"tags": ["activism", "germany", "europe"],
+			"link": "https://www.intaktiv.de/",
+			"glyphs": ["I", "N", "T", "V"],
+			"class": []
+		},
+		{
+			"name": "Jews Against Circumcision",
+			"desc": "Provides a space for Jewish people who question or oppose the practice of ritual circumcision.",
+			"tags": ["jewish", "activism", "ethics"],
+			"link": "https://www.jewsagainstcircumcision.org/",
+			"glyphs": ["J", "A", "C"],
+			"class": []
+		},
+		{
+			"name": "Men Do Complain",
+			"desc": "A UK-based platform for men to share their negative experiences with circumcision.",
+			"tags": ["uk", "activism", "testimony"],
+			"link": "https://www.mendocomplain.com/",
+			"glyphs": ["M", "D", "C"],
+			"class": []
+		},
+		{
+			"name": "15Square (NORM-UK)",
+			"desc": "A UK charity supporting men with foreskin issues and promoting non-surgical solutions.",
+			"tags": ["uk", "support", "restoration"],
+			"link": "https://15square.org.uk/",
+			"glyphs": ["15", "S", "Q"],
+			"class": []
+		},
+		{
+			"name": "IntactiWiki",
+			"desc": "A wiki-based information resource covering all aspects of genital integrity and circumcision.",
+			"tags": ["wiki", "resources", "information"],
+			"link": "https://intactiwiki.org/wiki/Main_Page",
+			"glyphs": ["I", "W"],
+			"class": []
+		},
+		{
+			"name": "Intact Global",
+			"desc": "International framework to unite and assist protective organizations worldwide.",
+			"tags": ["activism", "international", "collaboration"],
+			"link": "https://intactglobal.org/",
+			"glyphs": ["I", "G"],
+			"class": []
+		},
+		{
+			"name": "Genital Autonomy America",
+			"desc": "Advocacy group working to end non-therapeutic infant circumcision in America.",
+			"tags": ["activism", "usa", "gaa"],
+			"link": "https://gaamerica.org/",
+			"glyphs": ["G", "A", "A"],
+			"class": []
+		},
+		{
+			"name": "National Organization of Restoring Men",
+			"desc": "A nonprofit support network for men undergoing foreskin restoration.",
+			"tags": ["restoration", "support", "norm"],
+			"link": "https://www.norm.org/",
+			"glyphs": ["N", "O", "R", "M"],
+			"class": []
+		},
+		{
+			"name": "Canadian Foreskin Awareness Project",
+			"desc": "Street activism and awareness project advocating for genital autonomy in Canada.",
+			"tags": ["activism", "canada", "awareness"],
+			"link": "https://canfap.net/",
+			"glyphs": ["C", "F", "A", "P"],
+			"class": []
+		},
+		{
+			"name": "The Darbon Institute",
+			"desc": "Educational think tank promoting human rights and genital autonomy.",
+			"tags": ["education", "think tank", "human rights"],
+			"link": "https://www.darboninstitute.org/",
+			"glyphs": ["T", "D", "I"],
+			"class": []
+		},
+		{
+			"name": "VMMC Experience Project",
+			"desc": "Documenting the negative outcomes of Voluntary Medical Male Circumcision in Africa.",
+			"tags": ["africa", "vmmc", "testimony"],
+			"link": "https://www.vmmcexperience.com/",
+			"glyphs": ["V", "E", "P"],
+			"class": []
+		},
+		{
+			"name": "Bay Area Intactivists",
+			"desc": "Regional group hosting protests and raising awareness in the San Francisco Bay Area.",
+			"tags": ["activism", "california", "local"],
+			"link": "https://bayareaintactivists.org/",
+			"glyphs": ["B", "A", "I"],
+			"class": []
+		},
+		{
+			"name": "Foreskin Pride",
+			"desc": "Advocacy focusing on body positivity and normalising intact bodies.",
+			"tags": ["awareness", "pride"],
+			"link": "https://foreskinpride.org/",
+			"glyphs": ["F", "S", "P"],
+			"class": []
+		},
+		{
+			"name": "Foregen",
+			"desc": "Medical research organization dedicated to regenerating the human foreskin.",
+			"tags": ["research", "restoration", "medical"],
+			"link": "https://www.foregen.org/",
+			"glyphs": ["F", "R", "G", "N"],
+			"class": []
+		},
+		{
+			"name": "Circumstitions",
+			"desc": "Extensive online archive of arguments, research, and history opposing circumcision.",
+			"tags": ["archive", "research", "history"],
+			"link": "https://www.circumstitions.com/",
+			"glyphs": ["C", "S", "C"],
+			"class": []
+		},
+		{
+			"name": "NOCIRC",
+			"desc": "The National Organization of Circumcision Information Resource Centers, one of the oldest anti-circumcision groups.",
+			"tags": ["activism", "information", "usa"],
+			"link": "https://nocirc.org/",
+			"glyphs": ["N", "O", "C"],
+			"class": []
+		},
+		{
+			"name": "Saving Sons",
+			"desc": "Resources to educate parents about the risks of circumcision and how to properly care for an intact son.",
+			"tags": ["education", "parents", "care"],
+			"link": "https://www.savingsons.org/",
+			"glyphs": ["S", "S"],
+			"class": []
+		},
+		{
+			"name": "The Whole Network",
+			"desc": "Parenting network promoting intact care, natural birth, and children's bodily boundaries.",
+			"tags": ["parenting", "education", "care"],
+			"link": "https://thewholenetwork.org/",
+			"glyphs": ["T", "W", "N"],
+			"class": []
+		},
+		{
+			"name": "Dr. Momma",
+			"desc": "Research and evidence-based articles regarding intact bodies, breastfeeding, and gentle parenting.",
+			"tags": ["research", "parenting", "health"],
+			"link": "https://www.drmomma.org/",
+			"glyphs": ["D", "M"],
 			"class": []
 		}
 	]
