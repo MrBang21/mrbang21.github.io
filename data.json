@@ -261,6 +261,30 @@
 	],
 	"politics pressure": [
 		{
+			"name": "Economics of Circumcision",
+			"desc": "Analysis of the financial and economic impact of circumcision in the US healthcare system.",
+			"tags": ["economics", "circumcision", "healthcare"],
+			"link": "https://intactamerica.org/economics-of-circumcision/",
+			"glyphs": ["E", "C"],
+			"class": []
+		},
+		{
+			"name": "US Male Circumcision: Trends and Costs",
+			"desc": "Research article on trends and costs of male circumcision in the United States (PubMed 37343682).",
+			"tags": ["economics", "circumcision", "usa", "costs"],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/37343682/",
+			"glyphs": ["U", "S", "C"],
+			"class": []
+		},
+		{
+			"name": "How Much Does Circumcision Cost?",
+			"desc": "Guide for parents on the costs of circumcision procedures in the US healthcare system.",
+			"tags": ["costs", "circumcision", "parents", "guide"],
+			"link": "https://www.safecirc.com/education-and-articles/how-much-does-circumcision-cost-a-guide-for-parents",
+			"glyphs": ["C", "C", "G"],
+			"class": []
+		},
+		{
 			"name": "DR: International pressure on Denmark",
 			"desc": "Coverage of foreign pressure regarding circumcision policy",
 			"tags": ["denmark", "politics", "pressure"],
