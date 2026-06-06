@@ -9,6 +9,14 @@
 			"class": []
 		},
 		{
+			"name": "Testimonies Against Circumcision",
+			"desc": "A collection of real stories, personal accounts, and statements from men and parents speaking out against circumcision.",
+			"tags": ["testimonies", "people", "circumcision"],
+			"link": "/testimonies/",
+			"glyphs": ["T", "A", "C"],
+			"class": []
+		},
+		{
 			"name": "@MrBang21",
 			"desc": "Follow me on X for the latest updates and social content.",
 			"tags": ["x", "social media", "networking"],
