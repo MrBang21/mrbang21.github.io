@@ -86,6 +86,7 @@ body {
 		font-size: 0.8em;
 		color: var(--text-muted);
 		text-align: right;
+		margin: 1em auto 10em;
 	}
 }
 a {
@@ -98,13 +99,12 @@ a {
 h1, h2, h3 {
 	font-weight: 600;
 	color: var(--text);
-	letter-spacing: 0.25em;
+	letter-spacing: 0.125em;
 	margin: .5em 0 0.25em;
 }
 h1 { font-size: 3em; }
 h2 { font-size: 2.5em; }
 h3 { font-size: 2em; }
-
 
 p {
 	line-height: 1.5;
@@ -125,7 +125,7 @@ ul.cards {
 	grid-template-columns: repeat(
 		auto-fill,
 		minmax(
-			25em,
+			min(100%, 22em),
 			1fr
 		)
 	);
@@ -144,6 +144,12 @@ ul.cards {
 		&.wide {
 			grid-column: span 2;
 			aspect-ratio: 32 / 9;
+		}
+		@media (max-width: 48em) {
+			&.wide {
+				grid-column: span 1;
+				aspect-ratio: 16 / 9;
+			}
 		}
 		&.forced {
 			z-index: 10;
@@ -349,16 +355,38 @@ ul.tags {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	&:not([open]) {
+		display: flex;
+	}
+	&[open] {
+		opacity: 1;
+		pointer-events: auto;
+		transform: translateY(0);
+	}
+	.close {
+		background: none;
+		border: none;
+		color: var(--text-muted);
+		font-size: 2em;
+		aspect-ratio: 1;
+		width: 1em;
+		cursor: pointer;
+		line-height: 1;
+		transition: color .2s var(--snap);
+		&:hover,
+		&:focus {
+			color: var(--accent);
+			outline: none;
+		}
+	}
 }
-dialog#filter:not([open]) {
-	display: flex;
+.status-line {
+	margin-top: .75em;
+	font-size: .9em;
+	color: var(--text-muted);
+	letter-spacing: 0.04em;
 }
-#filter[open] {
-	opacity: 1;
-	pointer-events: auto;
-	transform: translateY(0);
-}
-#filter #search {
+#search {
 	font-size: 1.5em;
 	color: var(--accent);
 	font-weight: 600;
@@ -366,21 +394,7 @@ dialog#filter:not([open]) {
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
-#filter .close {
-	background: none;
-	border: none;
-	color: var(--text-muted);
-	font-size: 2em;
-	aspect-ratio: 1;
-	width: 1em;
-	cursor: pointer;
-	line-height: 1;
-	transition: color .2s var(--snap);
-}
-#filter .close:hover, #filter .close:focus {
-	color: var(--accent);
-	outline: none;
-}
+
 .hide {
 	display: none !important;
 }
@@ -398,7 +412,12 @@ dialog#filter:not([open]) {
 	<h1><span>MrBang21</span> / research more, learn more.</h1>
 	<p>This is a collection of research and resources related to the evil of infant circumcision. The information presented here is based on scientific studies, medical literature, and expert opinions. It is intended to educate and raise awareness about the harms and risks associated with this practice. Please explore the sections below for more details and references.</p>
 	<p>Type anywhere to search through the data, or click on the cards to learn more. The glyphs on the back of each card represent key themes or categories related to the topic, while the tags on the front provide additional context and information.</p>
+	<p id="status" class="status-line">Loading sources…</p>
 </div>
+	<dialog id="filter" open>
+		<div id="search" class="text">Type anywhere to search...</div>
+		<button id="filter-close" class="close" title="Clear search (Esc)">&times;</button>
+	</dialog>
 </header>
 
 <template id="card-template">
@@ -435,10 +454,7 @@ dialog#filter:not([open]) {
 </template>
 
 <main>
-	<dialog id="filter">
-		<div id="search" class="text">Type anywhere to search...</div>
-		<button id="filter-close" class="close" title="Clear search (Esc)">&times;</button>
-	</dialog>
+
 	<section id="data-links"></section>
 </main>
 
@@ -460,7 +476,13 @@ const addCardsToElement = (element, items) => {
 	items.forEach(item => {
 		const _card = cardTemplate.content.cloneNode(true);
 		_card.querySelector('li').classList.add(...(item.class || []));
-		_card.querySelector('a').href = item.link || '#';
+		const href = item.link || '#';
+		const a = _card.querySelector('a');
+		a.href = href;
+		if (href.startsWith('/') && !href.startsWith('//')) {
+			a.removeAttribute('target');
+			a.removeAttribute('rel');
+		}
 		_card.querySelectorAll('.name').forEach(el => {
 			el.textContent = item.name;
 		});
@@ -529,6 +551,8 @@ document.addEventListener('DOMContentLoaded', () => {
 			});
 
 			Filter.updateCards();
+			const status = document.getElementById('status');
+			if (status) status.textContent = Filter.cards.length + ' sources';
 		})
 		.catch(error => console.error('Error loading data:', error));
 });
@@ -566,8 +590,9 @@ const Filter = {
 	async apply() {
 		if (!this.search) return this.reset();
 
-		let freg = new RegExp('^'+this.search, 'i'),
-			areg = new RegExp(this.search, 'i'),
+		const escaped = this.search.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+		let freg = new RegExp('^'+escaped, 'i'),
+			areg = new RegExp(escaped, 'i'),
 			visibleCount = 0;
 
 		this.cards.forEach(card => {
@@ -593,6 +618,8 @@ const Filter = {
 			article.style.display = hasVisibleCards ? '' : 'none';
 		});
 
+		const status = document.getElementById('status');
+		if (status) status.textContent = visibleCount + ' of ' + this.cards.length + ' sources matching “' + this.search + '”';
 		this.show();
 		this.select(0);
 	},
@@ -633,12 +660,14 @@ const Filter = {
 		document.querySelectorAll('#data-links article').forEach(article => {
 			article.style.display = '';
 		});
+		const status = document.getElementById('status');
+		if (status) status.textContent = this.cards.length + ' sources';
 	},
 	show() {
 		if (!this.element.open) this.element.show();
 	},
 	hide() {
-		if (this.element.open) this.element.close();
+		// if (this.element.open) this.element.close();
 	}
 };
 
