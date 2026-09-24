@@ -49,6 +49,58 @@
 			"class": []
 		},
 		{
+			"name": "The sensory penis (PMC)",
+			"desc": "Open access article detailing immunohistological exploration of human penile innervation.",
+			"tags": [
+				"sensory",
+				"penis",
+				"innervation",
+				"pmc"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919687/",
+			"glyphs": [
+				"S",
+				"P",
+				"I"
+			],
+			"class": []
+		},
+		{
+			"name": "The sensory penis (Wiley)",
+			"desc": "Publisher page for Cepeda-Emiliani et al. 2026 in Andrology: immunohistological and ontogenetic exploration of human penile innervation.",
+			"tags": [
+				"sensory",
+				"penis",
+				"innervation",
+				"wiley",
+				"andrology"
+			],
+			"link": "https://onlinelibrary.wiley.com/doi/10.1111/andr.70118",
+			"glyphs": [
+				"W",
+				"S",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Meissner's corpuscles in male prepuce",
+			"desc": "Histological study confirming high density of tactile receptors in the human foreskin.",
+			"tags": [
+				"sensory",
+				"meissner",
+				"prepuce",
+				"histology"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8450466/",
+			"glyphs": [
+				"M",
+				"C",
+				"P"
+			],
+			"class": []
+		},
+		{
 			"name": "Fine-touch pressure thresholds in the adult penis",
 			"desc": "Study showing highest sensitivity in foreskin regions",
 			"tags": [
@@ -83,6 +135,38 @@
 			"class": []
 		},
 		{
+			"name": "The prepuce: specialized mucosa (PubMed)",
+			"desc": "PubMed listing describing the anatomy, histology, and functions of the prepuce.",
+			"tags": [
+				"prepuce",
+				"anatomy",
+				"pubmed"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/8800902/",
+			"glyphs": [
+				"P",
+				"S",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Anatomy and histology of prepuce in primates",
+			"desc": "Comparative anatomical study of penile and clitoral prepuce histology.",
+			"tags": [
+				"anatomy",
+				"histology",
+				"primates"
+			],
+			"link": "https://cirp.org/library/anatomy/cold-mcgrath/?form=MG0AV3",
+			"glyphs": [
+				"A",
+				"H",
+				"P"
+			],
+			"class": []
+		},
+		{
 			"name": "Anatomical basis of male circumcision",
 			"desc": "Highlights structures removed during circumcision",
 			"tags": [
@@ -96,6 +180,38 @@
 				"B",
 				"M",
 				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "16+ Functions of the Foreskin",
+			"desc": "Detailed breakdown of immunological, erogenous, and mechanical functions of the foreskin.",
+			"tags": [
+				"foreskin",
+				"functions",
+				"anatomy"
+			],
+			"link": "https://lakeerieintact.org/16functions.html",
+			"glyphs": [
+				"16",
+				"F",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Saving Sons: 16+ Functions of Foreskin",
+			"desc": "Educational article explaining that the foreskin is a complex functional organ, not 'just skin'.",
+			"tags": [
+				"foreskin",
+				"functions",
+				"education"
+			],
+			"link": "http://www.savingsons.org/2015/09/foreskin-and-its-16-functions-not-just.html?m=1",
+			"glyphs": [
+				"S",
+				"S",
+				"F"
 			],
 			"class": []
 		},
@@ -117,6 +233,89 @@
 			"class": []
 		},
 		{
+			"name": "Male circumcision decreases sensitivity (BJU)",
+			"desc": "BJU International study measuring touch thresholds in circumcised vs intact men.",
+			"tags": [
+				"sensitivity",
+				"bju",
+				"evidence"
+			],
+			"link": "https://www.ovid.com/journals/bjui/abstract/10.1111/j.1464-410x.2012.11761.x~male-circumcision-decreases-penile-sensitivity-as-measured",
+			"glyphs": [
+				"B",
+				"J",
+				"U",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "DMJ: Circumcision and perceived sexual function",
+			"desc": "2016 Danish Medical Journal systematic review of 38 studies (Shabanzadeh, Düring & Frimodt-Møller). Authors conclude the hypothesis of inferior perceived male sexual function after circumcision was not supported.",
+			"tags": [
+				"denmark",
+				"dmj",
+				"sexual function",
+				"systematic review"
+			],
+			"link": "https://ugeskriftet.dk/dmj/male-circumcision-does-not-result-inferior-perceived-male-sexual-function-systematic-review",
+			"glyphs": [
+				"D",
+				"M",
+				"J",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Physical Effects of Circumcision",
+			"desc": "ResearchGate publication reviewing physical changes and tissue loss following circumcision.",
+			"tags": [
+				"physical",
+				"tissue loss",
+				"researchgate"
+			],
+			"link": "https://www.researchgate.net/publication/227011336_Physical_Effects_of_Circumcision",
+			"glyphs": [
+				"P",
+				"E",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Physical Effects of Circumcision (Springer)",
+			"desc": "Springer chapter examining anatomical changes and long-term physical outcomes.",
+			"tags": [
+				"physical",
+				"springer",
+				"anatomy"
+			],
+			"link": "https://link.springer.com/chapter/10.1007/978-90-481-9446-9_7",
+			"glyphs": [
+				"S",
+				"P",
+				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "Glans Ischemia after Circumcision",
+			"desc": "Case analysis and review of ischemic complications of the glans penis post-circumcision.",
+			"tags": [
+				"complications",
+				"ischemia",
+				"glans"
+			],
+			"link": "https://www.mdpi.com/2563-6499/4/3/231",
+			"glyphs": [
+				"G",
+				"I",
+				"C"
+			],
+			"class": []
+		},
+		{
 			"name": "O'Hara & O'Hara study",
 			"desc": "Female partners report reduced sexual satisfaction with circumcised men",
 			"tags": [
@@ -134,13 +333,28 @@
 			"class": []
 		},
 		{
+			"name": "O'Hara & O'Hara study (Wiley)",
+			"desc": "Original BJU International article on female partner sexual enjoyment.",
+			"tags": [
+				"female experience",
+				"wiley",
+				"sexual function"
+			],
+			"link": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1046/j.1464-410x.1999.0830s1079.x",
+			"glyphs": [
+				"W",
+				"O",
+				"H"
+			],
+			"class": []
+		},
+		{
 			"name": "O'Hara & O'Hara study (Scribd)",
 			"desc": "Female partners report reduced sexual satisfaction with circumcised men (Scribd PDF)",
 			"tags": [
 				"female experience",
 				"sexual satisfaction",
-				"bjui",
-				"pdf"
+				"bjui"
 			],
 			"link": "https://www.scribd.com/document/337531260/O-Hara-O-Hara-The-effect-of-male-circumcision-on-the-sexual-enjoyment-of-the-female-partner-pdf",
 			"glyphs": [
@@ -148,6 +362,87 @@
 				"H",
 				"O",
 				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Disadvantages of Male Circumcision to a Woman",
+			"desc": "Article outlining the physiological and lubricative impact of male circumcision on female partners.",
+			"tags": [
+				"female experience",
+				"lubrication",
+				"sexual health"
+			],
+			"link": "https://karetrip.com/blogs/disadvantages-of-male-circumcision-to-a-woman",
+			"glyphs": [
+				"D",
+				"M",
+				"W"
+			],
+			"class": []
+		},
+		{
+			"name": "Effects of circumcision on female arousal and orgasm",
+			"desc": "Academia study investigating sexual function and pleasure in female partners of circumcised men.",
+			"tags": [
+				"female experience",
+				"orgasm",
+				"arousal"
+			],
+			"link": "https://www.academia.edu/11851529/Effects_of_male_circumcision_on_female_arousal_and_orgasm",
+			"glyphs": [
+				"E",
+				"F",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Effects of circumcision on female arousal (CIRP)",
+			"desc": "CIRP library entry detailing findings on female sexual satisfaction and discomfort during intercourse.",
+			"tags": [
+				"female experience",
+				"cirp",
+				"orgasm"
+			],
+			"link": "https://www.cirp.org/library/sex_function/bensley1/",
+			"glyphs": [
+				"C",
+				"F",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Impact of male circumcision status on sexual partners",
+			"desc": "ResearchGate study assessing partner perception, pain, and sexual quality of life.",
+			"tags": [
+				"female experience",
+				"partners",
+				"researchgate"
+			],
+			"link": "https://www.researchgate.net/publication/279958426_You_either_have_it_or_you_don't_The_impact_of_male_circumcision_status_on_sexual_partners",
+			"glyphs": [
+				"I",
+				"M",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Women's preferences across cultures (Oxford)",
+			"desc": "Systematic review in Sexual Medicine on sexual preferences and outcomes across cultures.",
+			"tags": [
+				"female experience",
+				"oxford",
+				"systematic review"
+			],
+			"link": "https://academic.oup.com/smoa/article/7/2/145/6956488?login=false",
+			"glyphs": [
+				"W",
+				"P",
+				"S",
+				"M"
 			],
 			"class": []
 		},
@@ -203,6 +498,23 @@
 			"class": []
 		},
 		{
+			"name": "STPS non-therapeutic circumcision document (PDF)",
+			"desc": "Danish Patient Safety Authority clinical and regulatory guideline for male circumcision.",
+			"tags": [
+				"denmark",
+				"stps",
+				"guidelines"
+			],
+			"link": "https://cdn1.gopublic.dk/stps/media/9093/C08D154EE830415BBEA6EB17669979BC.pdf",
+			"glyphs": [
+				"S",
+				"T",
+				"P",
+				"D"
+			],
+			"class": []
+		},
+		{
 			"name": "Danish doctors call circumcision mutilation",
 			"desc": "Public statements from Danish physicians",
 			"tags": [
@@ -237,6 +549,22 @@
 			"class": []
 		},
 		{
+			"name": "Videnskab.dk: Circumcision impairs sex life",
+			"desc": "Danish report on national cohort data linking male circumcision to higher rates of sexual dysfunction.",
+			"tags": [
+				"denmark",
+				"sexuality",
+				"dysfunction"
+			],
+			"link": "https://videnskab.dk/krop-sundhed/omskaering-af-maend-giver-daarligt-sexliv/",
+			"glyphs": [
+				"V",
+				"D",
+				"S"
+			],
+			"class": []
+		},
+		{
 			"name": "Ugeskriftet: Circumcision is mutilation",
 			"desc": "Danish medical journal debate",
 			"tags": [
@@ -250,6 +578,189 @@
 				"C",
 				"I",
 				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Jordemoderforeningen: Ritual circumcision",
+			"desc": "Danish Midwives Association position paper on infant male circumcision.",
+			"tags": [
+				"denmark",
+				"midwives",
+				"ethics"
+			],
+			"link": "https://jordemoderforeningen.dk/tidsskriftsartikel/rituel-omskaring-af-drenge/",
+			"glyphs": [
+				"J",
+				"R",
+				"O"
+			],
+			"class": []
+		},
+		{
+			"name": "Denmark nationwide cohort study on HIV & STIs",
+			"desc": "European Journal of Epidemiology national study showing no protection against HIV/STIs in Denmark.",
+			"tags": [
+				"denmark",
+				"epidemiology",
+				"hiv",
+				"sti"
+			],
+			"link": "https://link.springer.com/article/10.1007/s10654-021-00809-6",
+			"glyphs": [
+				"E",
+				"J",
+				"E",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Meatal stenosis and urethral strictures in Denmark",
+			"desc": "ScienceDirect nationwide register study demonstrating increased urethral risk following non-therapeutic circumcision.",
+			"tags": [
+				"denmark",
+				"meatal stenosis",
+				"urethral"
+			],
+			"link": "https://www.sciencedirect.com/science/article/pii/S1479666X16301792",
+			"glyphs": [
+				"S",
+				"D",
+				"M",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Aalborg University urethral stricture research portal",
+			"desc": "Research repository listing for two nationwide cohort studies on non-therapeutic circumcision risks.",
+			"tags": [
+				"denmark",
+				"aalborg",
+				"urethral"
+			],
+			"link": "https://vbn.aau.dk/da/publications/cultural-background-non-therapeutic-circumcision-and-the-risk-of-",
+			"glyphs": [
+				"A",
+				"A",
+				"U"
+			],
+			"class": []
+		},
+		{
+			"name": "Denmark survey on circumcision & sexual function (Oxford)",
+			"desc": "Cross-sectional survey in IJE analyzing male and female sexual parameters in Denmark.",
+			"tags": [
+				"denmark",
+				"oxford",
+				"sexual function"
+			],
+			"link": "https://academic.oup.com/ije/article-abstract/40/5/1367/658163",
+			"glyphs": [
+				"I",
+				"J",
+				"E",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Authors' Response: Denmark survey on sexual function",
+			"desc": "International Journal of Epidemiology response defending study methodology and findings.",
+			"tags": [
+				"oxford",
+				"ije",
+				"denmark"
+			],
+			"link": "https://academic.oup.com/ije/article-abstract/41/1/312/647866?redirectedFrom=fulltext",
+			"glyphs": [
+				"I",
+				"J",
+				"E",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "PubMed: Male circumcision & sexual function (Frisch)",
+			"desc": "PubMed reference for Morten Frisch's Danish cross-sectional population study.",
+			"tags": [
+				"pubmed",
+				"frisch",
+				"sexual function"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/21672947/",
+			"glyphs": [
+				"P",
+				"M",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Medscape: Male circumcision & sexual function (Part 1)",
+			"desc": "Medscape article reviewing clinical evidence on circumcision and male/female sexual function.",
+			"tags": [
+				"medscape",
+				"sexual function",
+				"review"
+			],
+			"link": "https://www.medscape.com/viewarticle/753060",
+			"glyphs": [
+				"M",
+				"S",
+				"P",
+				"1"
+			],
+			"class": []
+		},
+		{
+			"name": "Medscape: Male circumcision & sexual function (Part 3)",
+			"desc": "Page 3 of Medscape's comprehensive review on sexual sensitivity and satisfaction.",
+			"tags": [
+				"medscape",
+				"sexual function",
+				"review"
+			],
+			"link": "https://www.medscape.com/viewarticle/753060_3",
+			"glyphs": [
+				"M",
+				"S",
+				"P",
+				"3"
+			],
+			"class": []
+		},
+		{
+			"name": "Danish research debunks circumcision myth",
+			"desc": "Copenhagen Post article covering Danish studies refuting protective claims.",
+			"tags": [
+				"denmark",
+				"cph post",
+				"myths"
+			],
+			"link": "https://cphpost.dk/2021-10-13/news/danish-research-debunks-widespread-circumcision-myth/",
+			"glyphs": [
+				"C",
+				"P",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Denmark doctors declare circumcision ethically unacceptable",
+			"desc": "HuffPost article on 29,000 Danish physicians condemning non-therapeutic infant circumcision.",
+			"tags": [
+				"denmark",
+				"ethics",
+				"huffpost"
+			],
+			"link": "https://www.huffpost.com/entry/denmarks-29000-doctors-declare-circumcision-of-healthy_b_58753ec1e4b08052400ee6b3",
+			"glyphs": [
+				"H",
+				"P",
+				"D"
 			],
 			"class": []
 		},
@@ -286,6 +797,278 @@
 			"class": []
 		},
 		{
+			"name": "HIV acquisition risk during heterosexual intercourse: Meta-analysis",
+			"desc": "PubMed meta-analysis examining HIV acquisition risks for both males and females.",
+			"tags": [
+				"hiv",
+				"meta-analysis",
+				"heterosexual"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/25942703/",
+			"glyphs": [
+				"M",
+				"A",
+				"H",
+				"I"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision and HIV risk in Ontario, Canada",
+			"desc": "Journal of Urology study showing no significant HIV reduction associated with circumcision in Canada.",
+			"tags": [
+				"hiv",
+				"canada",
+				"urology"
+			],
+			"link": "https://www.auajournals.org/doi/10.1097/JU.0000000000002234",
+			"glyphs": [
+				"J",
+				"U",
+				"O",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision & HIV in Ontario (PubMed)",
+			"desc": "PubMed entry for Ontario cohort analysis on circumcision and HIV risk.",
+			"tags": [
+				"hiv",
+				"canada",
+				"pubmed"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/34551593/",
+			"glyphs": [
+				"P",
+				"M",
+				"O",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "HIV prevalence in Lesotho & circumcision",
+			"desc": "PubMed analysis showing changing or non-protective relationships between HIV and circumcision in Lesotho.",
+			"tags": [
+				"lesotho",
+				"hiv",
+				"africa"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/35373731/",
+			"glyphs": [
+				"P",
+				"M",
+				"L",
+				"H"
+			],
+			"class": []
+		},
+		{
+			"name": "Age-incidence and prevalence of HIV in Southern Africa",
+			"desc": "Journal of Biosocial Science PHIA survey analysis comparing intact vs circumcised men.",
+			"tags": [
+				"hiv",
+				"africa",
+				"phia"
+			],
+			"link": "https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/ageincidence-and-prevalence-of-hiv-among-intact-and-circumcised-men-an-analysis-of-phia-surveys-in-southern-africa/CAA7E7BD5A9844F41C6B7CC3573B9E50",
+			"glyphs": [
+				"C",
+				"U",
+				"P",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Voluntary male circumcision & HIV in Zambia",
+			"desc": "Cambridge study evaluating expectations versus observational data on VMMC programs in Zambia.",
+			"tags": [
+				"zambia",
+				"hiv",
+				"vmmc"
+			],
+			"link": "https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/voluntary-medical-male-circumcision-and-hiv-in-zambia-expectations-and-observations/D606CCCCF1CE606D2AFD606A91A5F662",
+			"glyphs": [
+				"C",
+				"U",
+				"V",
+				"Z"
+			],
+			"class": []
+		},
+		{
+			"name": "Malawian circumcised men most likely infected by HIV",
+			"desc": "Malawi 24 report on local research demonstrating higher HIV infection rates in circumcised men.",
+			"tags": [
+				"malawi",
+				"hiv",
+				"africa"
+			],
+			"link": "https://malawi24.com/2015/07/25/malawian-circumcised-men-most-likely-to-be-infected-by-hiv-research-shows/",
+			"glyphs": [
+				"M",
+				"2",
+				"4",
+				"H"
+			],
+			"class": []
+		},
+		{
+			"name": "Uganda: Circumcision promoting risky behavior",
+			"desc": "AllAfrica report highlighting risk compensation following circumcision campaigns in Uganda.",
+			"tags": [
+				"uganda",
+				"risk compensation",
+				"africa"
+			],
+			"link": "https://allafrica.com/stories/201409030508.html",
+			"glyphs": [
+				"A",
+				"A",
+				"U",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Uganda risky behavior report (Wayback Archive)",
+			"desc": "Archived news report detailing behavioral risk compensation post-circumcision in Uganda.",
+			"tags": [
+				"archive",
+				"uganda",
+				"risk compensation"
+			],
+			"link": "https://web.archive.org/web/20140912165512/http://allafrica.com/stories/201409030508.html",
+			"glyphs": [
+				"W",
+				"A",
+				"U",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Death and deformity caused by circumcision in Africa",
+			"desc": "Guardian article by Ally Fogg addressing severe injuries and fatalities from ritual circumcision.",
+			"tags": [
+				"africa",
+				"deformity",
+				"guardian"
+			],
+			"link": "https://www.theguardian.com/commentisfree/2014/aug/25/male-circumcision-ceremonies-death-deformity-africa",
+			"glyphs": [
+				"G",
+				"A",
+				"D",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "How the circumcision solution in Africa increases HIV",
+			"desc": "PMC paper arguing that mass VMMC campaigns lead to increased transmission through risk compensation and surgical transmission.",
+			"tags": [
+				"africa",
+				"hiv",
+				"pmc"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5345479/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Doctors Opposing Circumcision: HIV/AIDS position",
+			"desc": "DOC assessment refuting claims that circumcision is an effective HIV prevention strategy.",
+			"tags": [
+				"doc",
+				"hiv",
+				"analysis"
+			],
+			"link": "https://www.doctorsopposingcircumcision.org/for-professionals/alleged-medical-benefits/hivaids/",
+			"glyphs": [
+				"D",
+				"O",
+				"C",
+				"H"
+			],
+			"class": []
+		},
+		{
+			"name": "New HIV cases in Israel hit record high",
+			"desc": "Haaretz report documenting rising HIV infection rates in a universally circumcised population.",
+			"tags": [
+				"israel",
+				"hiv",
+				"haaretz"
+			],
+			"link": "https://www.haaretz.com/2013-06-10/ty-article/.premium/hiv-cases-in-israel-hit-record-high/0000017f-f5cc-d47e-a37f-fdfc1cd10000",
+			"glyphs": [
+				"H",
+				"I",
+				"R",
+				"H"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision among MSM in Scotland",
+			"desc": "PubMed study demonstrating no HIV prevention benefit of circumcision among men who have sex with men.",
+			"tags": [
+				"msm",
+				"scotland",
+				"hiv"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/20595141/",
+			"glyphs": [
+				"P",
+				"M",
+				"S",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision among MSM in London",
+			"desc": "PubMed UK study concluding circumcision is an unlikely strategy for MSM HIV prevention.",
+			"tags": [
+				"msm",
+				"london",
+				"hiv"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/21934567/",
+			"glyphs": [
+				"P",
+				"M",
+				"L",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision status & HIV among MSM (Vaccine Trial Reanalysis)",
+			"desc": "PubMed reanalysis of Phase III HIV vaccine clinical trial data showing no protection for MSM.",
+			"tags": [
+				"msm",
+				"vaccine",
+				"hiv"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/20168206/",
+			"glyphs": [
+				"P",
+				"M",
+				"V",
+				"T"
+			],
+			"class": []
+		},
+		{
 			"name": "JAMA Pediatrics complications study",
 			"desc": "Documents risks in infant circumcision",
 			"tags": [
@@ -298,6 +1081,74 @@
 				"P",
 				"C",
 				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Systematic review of circumcision complications (PubMed)",
+			"desc": "Meta-regression and systematic review quantifying surgical, post-operative, and anatomical complications.",
+			"tags": [
+				"complications",
+				"meta-analysis",
+				"pubmed"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/33545206/",
+			"glyphs": [
+				"P",
+				"M",
+				"S",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision complications review (ScienceDirect)",
+			"desc": "ScienceDirect publication analyzing complication rates across surgical techniques.",
+			"tags": [
+				"complications",
+				"sciencedirect",
+				"urology"
+			],
+			"link": "https://www.sciencedirect.com/science/article/abs/pii/S0090429521001138",
+			"glyphs": [
+				"S",
+				"D",
+				"C",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Penile adhesions after neonatal circumcision",
+			"desc": "PubMed study documenting high incidence of post-circumcision skin bridges and adhesions.",
+			"tags": [
+				"adhesions",
+				"neonatal",
+				"complications"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/10893633/",
+			"glyphs": [
+				"P",
+				"A",
+				"N",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Evaluation of antibiotic use post-circumcision",
+			"desc": "Study in International Journal of Medical Sciences on antibiotic practices and infection complications.",
+			"tags": [
+				"antibiotics",
+				"infection",
+				"complications"
+			],
+			"link": "https://www.internationaljournalssrg.org/IJMS/paper-details?Id=120",
+			"glyphs": [
+				"I",
+				"J",
+				"M",
+				"A"
 			],
 			"class": []
 		},
@@ -318,11 +1169,149 @@
 			"class": []
 		},
 		{
+			"name": "UTI diagnosis and treatment in children (AAFP)",
+			"desc": "American Academy of Family Physicians guide addressing pediatric urinary tract health.",
+			"tags": [
+				"aafp",
+				"uti",
+				"children"
+			],
+			"link": "https://www.aafp.org/pubs/afp/issues/2011/0215/p409.html",
+			"glyphs": [
+				"A",
+				"A",
+				"F",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Atoms | Archives of Disease in Childhood",
+			"desc": "BMJ article evaluating clinical claims regarding UTI prevention and foreskin care.",
+			"tags": [
+				"bmj",
+				"uti",
+				"pediatrics"
+			],
+			"link": "https://adc.bmj.com/content/90/8/771.2",
+			"glyphs": [
+				"A",
+				"D",
+				"C",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Systematic review of circumcision for UTI prevention",
+			"desc": "PubMed review assessing randomized trials and observational studies on UTI claims.",
+			"tags": [
+				"uti",
+				"systematic review",
+				"pubmed"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/15890696/",
+			"glyphs": [
+				"P",
+				"M",
+				"U",
+				"T"
+			],
+			"class": []
+		},
+		{
+			"name": "Phimosis and Paraphimosis: Symptoms and Treatment",
+			"desc": "Patient.info medical guide advocating conservative non-surgical treatments for tight foreskins.",
+			"tags": [
+				"phimosis",
+				"treatment",
+				"conservative"
+			],
+			"link": "https://patient.info/mens-health/penis-problems/phimosis-and-paraphimosis",
+			"glyphs": [
+				"P",
+				"I",
+				"P",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Tight foreskin (phimosis) - NHS",
+			"desc": "Official NHS guidance explaining normal foreskin development and non-surgical options.",
+			"tags": [
+				"nhs",
+				"phimosis",
+				"uk"
+			],
+			"link": "https://www.nhs.uk/conditions/phimosis/",
+			"glyphs": [
+				"N",
+				"H",
+				"S",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Top Doctors: Foreskin problems expert guide",
+			"desc": "Medical guide discussing physiological phimosis vs pathological conditions and modern treatments.",
+			"tags": [
+				"foreskin",
+				"phimosis",
+				"top doctors"
+			],
+			"link": "https://www.topdoctors.co.uk/medical-articles/foreskin-problems-an-expert-s-guide/",
+			"glyphs": [
+				"T",
+				"D",
+				"F",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Fact Based Urology: Circumcision anatomical differences",
+			"desc": "Detailed anatomical overview comparing circumcised and uncircumcised penile structures.",
+			"tags": [
+				"anatomy",
+				"urology",
+				"comparison"
+			],
+			"link": "https://factbasedurology.com/penis-anatomy/circumcision-difference/",
+			"glyphs": [
+				"F",
+				"B",
+				"U",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "German hospital routine data on circumcision & alternatives",
+			"desc": "PubMed analysis of German nationwide hospital data regarding non-surgical management of phimosis.",
+			"tags": [
+				"germany",
+				"phimosis",
+				"hospital data"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/33678182/",
+			"glyphs": [
+				"G",
+				"H",
+				"D",
+				"P"
+			],
+			"class": []
+		},
+		{
 			"name": "BBC: Circumcision debate Europe",
 			"desc": "Coverage of European controversy",
 			"tags": [
 				"media",
-				"europe"
+				"europe",
+				"iceland",
+				"politics"
 			],
 			"link": "https://www.bbc.com/news/world-europe-43111800",
 			"glyphs": [
@@ -410,6 +1399,381 @@
 				"C",
 				"S",
 				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision & sexual difficulties (Morten Frisch Video)",
+			"desc": "YouTube lecture by Dr. Morten Frisch on epidemiological findings regarding sexual function.",
+			"tags": [
+				"video",
+				"frisch",
+				"sexual function"
+			],
+			"link": "https://www.youtube.com/watch?v=mEoJKCOGjho",
+			"glyphs": [
+				"Y",
+				"T",
+				"M",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Is Circumcision Healthy? (YouTube)",
+			"desc": "Educational video analysis reviewing the medical literature on male circumcision.",
+			"tags": [
+				"video",
+				"education",
+				"health"
+			],
+			"link": "https://www.youtube.com/watch?v=qJd--9xvenE",
+			"glyphs": [
+				"Y",
+				"T",
+				"I",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Effect of neonatal circumcision on vaccination pain",
+			"desc": "PubMed study demonstrating altered infant pain response during vaccinations post-circumcision.",
+			"tags": [
+				"pain",
+				"trauma",
+				"vaccination"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/9057731/",
+			"glyphs": [
+				"P",
+				"M",
+				"N",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Neonatal circumcision & adult socio-affective processing",
+			"desc": "PMC study linking infant circumcision trauma to long-term neurological and affective changes.",
+			"tags": [
+				"trauma",
+				"neurology",
+				"affective"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7702013/",
+			"glyphs": [
+				"P",
+				"M",
+				"S",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Ritual circumcision & autism spectrum disorder risk",
+			"desc": "National Danish cohort study in PMC exploring early stress response and ASD risk.",
+			"tags": [
+				"denmark",
+				"autism",
+				"trauma"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4530408/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Pain, trauma and psychosexual sequelae of circumcision",
+			"desc": "PubMed article detailing immediate surgical pain, psychological trauma, and adult sequelae.",
+			"tags": [
+				"pain",
+				"trauma",
+				"psychosexual"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/22114254/",
+			"glyphs": [
+				"P",
+				"M",
+				"P",
+				"T"
+			],
+			"class": []
+		},
+		{
+			"name": "Psychological and sexual effects in adult males (PubMed)",
+			"desc": "PubMed study investigating long-term psychological impacts and erectile function.",
+			"tags": [
+				"psychology",
+				"erectile function",
+				"pubmed"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/27790295/",
+			"glyphs": [
+				"P",
+				"M",
+				"P",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Psychological and sexual effects in adult males (PMC)",
+			"desc": "PMC full text analyzing psychological sequelae and satisfaction in circumcised men.",
+			"tags": [
+				"psychology",
+				"pmc",
+				"trauma"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5065403/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision & glucocorticoids accumulation study",
+			"desc": "PMC research assessing long-term biological stress markers and trauma symptoms.",
+			"tags": [
+				"stress",
+				"cortisol",
+				"trauma"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5416669/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"G"
+			],
+			"class": []
+		},
+		{
+			"name": "Effect of male circumcision on sexuality (Kim 2007)",
+			"desc": "BJU International study on post-circumcision decreased masturbatory pleasure and sensitivity.",
+			"tags": [
+				"bju",
+				"kim",
+				"sexuality"
+			],
+			"link": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2006.06646.x",
+			"glyphs": [
+				"B",
+				"J",
+				"U",
+				"K"
+			],
+			"class": []
+		},
+		{
+			"name": "Effect of male circumcision on sexuality (PubMed)",
+			"desc": "PubMed entry for Kim et al. investigating sexual function changes post-circumcision.",
+			"tags": [
+				"pubmed",
+				"sexuality",
+				"sensitivity"
+			],
+			"link": "https://pubmed.ncbi.nlm.nih.gov/17155977/",
+			"glyphs": [
+				"P",
+				"M",
+				"E",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Short-Term Trauma and Long-Term Psychosexual Harm",
+			"desc": "SCIRP paper analyzing surgical shock, infant pain perception, and psychosexual outcomes.",
+			"tags": [
+				"scirp",
+				"trauma",
+				"psychosexual"
+			],
+			"link": "https://www.scirp.org/journal/paperinformation?paperid=55727",
+			"glyphs": [
+				"S",
+				"C",
+				"I",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Critical Comment on Morris and Krieger (2013)",
+			"desc": "SCIRP critique challenging flawed meta-analyses that downplay sexual harm.",
+			"tags": [
+				"scirp",
+				"critique",
+				"sensitivity"
+			],
+			"link": "https://www.scirp.org/journal/paperinformation?paperid=55256",
+			"glyphs": [
+				"S",
+				"C",
+				"C",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision Permanently Alters the Brain",
+			"desc": "Archived article from Circumcision Resource Center on MRI evidence of altered brain responses to pain.",
+			"tags": [
+				"brain",
+				"neurology",
+				"pain"
+			],
+			"link": "https://archive.md/2022.08.02-211456/https://circumcision.org/circumcision-permanently-alters-the-brain/",
+			"glyphs": [
+				"C",
+				"P",
+				"A",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Psychological Effects – Circumcision Resource Center",
+			"desc": "Resource overview covering post-traumatic stress, trust issues, and emotional impact.",
+			"tags": [
+				"psychology",
+				"ptsd",
+				"crc"
+			],
+			"link": "https://circumcision.org/psychological-effects/",
+			"glyphs": [
+				"P",
+				"E",
+				"C",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Erectile Dysfunction from Circumcision (Academia.edu)",
+			"desc": "Academic paper investigating vascular and mechanical mechanisms linking circumcision to ED.",
+			"tags": [
+				"erectile dysfunction",
+				"academia",
+				"mechanisms"
+			],
+			"link": "https://www.academia.edu/6395137/Adding_Insult_to_Injury_Acquisition_of_Erectile_Dysfunction_from_Circumcision?rhid=38720237973&swp=rr-rw-wc-25577623&nav_from=32f5e6e8-402a-4e4a-902b-b2b687834867",
+			"glyphs": [
+				"A",
+				"I",
+				"E",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Evidence and Ethics on: Circumcision (EBB)",
+			"desc": "Evidence Based Birth meta-summary reviewing medical evidence, pain management, and parental choice.",
+			"tags": [
+				"evidence",
+				"ethics",
+				"birth"
+			],
+			"link": "https://evidencebasedbirth.com/evidence-and-ethics-on-circumcision/",
+			"glyphs": [
+				"E",
+				"B",
+				"B",
+				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "Male circumcision & penile cancer: systematic review",
+			"desc": "PMC meta-analysis evaluating hygiene vs surgical interventions in penile cancer epidemiology.",
+			"tags": [
+				"penile cancer",
+				"meta-analysis",
+				"pmc"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3139859/",
+			"glyphs": [
+				"P",
+				"M",
+				"P",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Cancer Statistics Center - American Cancer Society",
+			"desc": "ACS statistical database tracking cancer incidence, including penile and genitourinary cancers.",
+			"tags": [
+				"cancer",
+				"statistics",
+				"acs"
+			],
+			"link": "https://cancerstatisticscenter.cancer.org/",
+			"glyphs": [
+				"A",
+				"C",
+				"S",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "CDC STI Surveillance Report 2024",
+			"desc": "Provisional CDC epidemiological surveillance data on STI prevalence in the United States.",
+			"tags": [
+				"cdc",
+				"sti",
+				"surveillance"
+			],
+			"link": "https://www.cdc.gov/sti-statistics/annual/",
+			"glyphs": [
+				"C",
+				"D",
+				"C",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "ECDC: Sexually transmitted infections in Europe",
+			"desc": "European Centre for Disease Prevention and Control surveillance portal for STI trends.",
+			"tags": [
+				"ecdc",
+				"sti",
+				"europe"
+			],
+			"link": "https://www.ecdc.europa.eu/en/sexually-transmitted-infections",
+			"glyphs": [
+				"E",
+				"C",
+				"D",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Prevalence of STDs Across US and Europe (Superdrug)",
+			"desc": "Comparative analysis of STD rates between highly circumcised (US) and largely intact (European) populations.",
+			"tags": [
+				"std",
+				"comparison",
+				"europe",
+				"usa"
+			],
+			"link": "https://onlinedoctor.superdrug.com/std-us-eu.html",
+			"glyphs": [
+				"S",
+				"D",
+				"U",
+				"E"
 			],
 			"class": []
 		},
@@ -530,6 +1894,40 @@
 				"A"
 			],
 			"class": []
+		},
+		{
+			"name": "Public health measure assessment in developed countries",
+			"desc": "Critical assessment of recent evidence in Taylor & Francis regarding infant circumcision in developed nations.",
+			"tags": [
+				"public health",
+				"developed countries",
+				"critique"
+			],
+			"link": "https://www.tandfonline.com/doi/full/10.1080/17441692.2016.1184292",
+			"glyphs": [
+				"T",
+				"F",
+				"P",
+				"H"
+			],
+			"class": []
+		},
+		{
+			"name": "Revaluating Neonatal Circumcision as Preventive Treatment",
+			"desc": "ResearchGate policy paper questioning the preventive rationale for routine neonatal circumcision.",
+			"tags": [
+				"policy paper",
+				"preventive",
+				"reevaluation"
+			],
+			"link": "https://www.researchgate.net/publication/398878232_Policy_Paper_Revaluating_Neonatal_Circumcision_as_a_Preventive_Treatment",
+			"glyphs": [
+				"P",
+				"P",
+				"R",
+				"N"
+			],
+			"class": []
 		}
 	],
 	"politics pressure": [
@@ -624,6 +2022,536 @@
 				"P"
 			],
 			"class": []
+		},
+		{
+			"name": "Nord News: US and Israeli interference in Denmark",
+			"desc": "Detailed reporting on external political pressure exerted on Danish parliamentarians.",
+			"tags": [
+				"denmark",
+				"interference",
+				"israel",
+				"usa"
+			],
+			"link": "https://nord.news/2021/04/20/foreign-interference-evidence-points-to-american-and-israeli-interference-in-the-danish-circumcision-debate/",
+			"glyphs": [
+				"N",
+				"N",
+				"F",
+				"I"
+			],
+			"class": []
+		},
+		{
+			"name": "POV International: Open letter to Mette Frederiksen",
+			"desc": "Open letter from US human rights advocates emphasizing child rights and Jewish opposition to forced circumcision.",
+			"tags": [
+				"denmark",
+				"human rights",
+				"open letter"
+			],
+			"link": "https://pov.international/borgerforslag-omskaering-abent-brev-statsminister/",
+			"glyphs": [
+				"P",
+				"O",
+				"V",
+				"L"
+			],
+			"class": []
+		},
+		{
+			"name": "The Eternally Rescued (CBS Paper)",
+			"desc": "Academic paper analyzing political discourse and foreign pressure surrounding the Danish circumcision debate.",
+			"tags": [
+				"denmark",
+				"cbs",
+				"discourse"
+			],
+			"link": "https://research-api.cbs.dk/ws/files/101255799/maja_gildin_zuckerman_et_al_the_eternally_rescued_acceptedversion.pdf",
+			"glyphs": [
+				"C",
+				"B",
+				"S",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Avisen.dk: Folketinget to look at ban",
+			"desc": "Danish news coverage on parliamentary citizen proposals seeking a ban on non-consensual circumcision.",
+			"tags": [
+				"denmark",
+				"folketinget",
+				"ban"
+			],
+			"link": "https://www.avisen.dk/folketinget-skal-kigge-paa-forbud-mod-omskaering_517927.aspx",
+			"glyphs": [
+				"A",
+				"V",
+				"F",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Retsinformation: Omskæringsvejledningen",
+			"desc": "Official Danish government legal text setting requirements for non-therapeutic circumcision.",
+			"tags": [
+				"denmark",
+				"law",
+				"regulation"
+			],
+			"link": "https://www.retsinformation.dk/eli/retsinfo/2020/9813",
+			"glyphs": [
+				"R",
+				"E",
+				"T",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Danish Parliament Bill L102 Hearing Document",
+			"desc": "Official Danish Parliament hearing responses regarding proposed statutory age limits.",
+			"tags": [
+				"denmark",
+				"parliament"
+			],
+			"link": "https://www.ft.dk/samling/20222/lovforslag/L102/bilag/1/2685462.pdf",
+			"glyphs": [
+				"F",
+				"T",
+				"L",
+				"102"
+			],
+			"class": []
+		},
+		{
+			"name": "Altinget: Legal mutilation of young boys",
+			"desc": "Political commentary on Altinget discussing legal consistency and equal protection under Danish law.",
+			"tags": [
+				"denmark",
+				"altinget",
+				"law"
+			],
+			"link": "https://www.altinget.dk/christiansborg/artikel/lovlig-lemlaestelse-af-drengeboern",
+			"glyphs": [
+				"A",
+				"L",
+				"T",
+				"L"
+			],
+			"class": []
+		},
+		{
+			"name": "Danish Criminal Code Section 245 (Straffeloven)",
+			"desc": "Danish penal code regulating bodily harm and aggravated assault.",
+			"tags": [
+				"denmark",
+				"law",
+				"straffeloven"
+			],
+			"link": "https://danskelove.dk/straffeloven#245",
+			"glyphs": [
+				"S",
+				"T",
+				"R",
+				"245"
+			],
+			"class": []
+		},
+		{
+			"name": "Iceland Parliament Bill 148-787 Document",
+			"desc": "Official legislative filing submitted to the Althingi during Iceland's proposed circumcision ban.",
+			"tags": [
+				"iceland",
+				"althingi",
+				"law"
+			],
+			"link": "https://www.althingi.is/altext/erindi/148/148-787.pdf",
+			"glyphs": [
+				"A",
+				"L",
+				"T",
+				"148"
+			],
+			"class": []
+		},
+		{
+			"name": "CPS draft guidance: Circumcision as potential child abuse",
+			"desc": "Guardian article on UK Crown Prosecution Service draft guidance classifying non-therapeutic cutting as potential abuse.",
+			"tags": [
+				"uk",
+				"cps",
+				"guardian",
+				"child abuse",
+				"europe"
+			],
+			"link": "https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document",
+			"glyphs": [
+				"G",
+				"U",
+				"C",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "GB News: CPS classes circumcision as potentially harmful",
+			"desc": "GB News report on Crown Prosecution Service guidance for England and Wales describing circumcision as a potentially harmful practice when performed unsafely, with scrutiny under child cruelty or assault law.",
+			"tags": [
+				"uk",
+				"cps",
+				"gb news",
+				"europe",
+				"child protection"
+			],
+			"link": "https://www.gbnews.com/news/circumcision-harmful-practice-cps",
+			"glyphs": [
+				"G",
+				"B",
+				"C",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "National Secular Society: CPS draft guidance",
+			"desc": "NSS report supporting UK Crown Prosecution Service draft guidance on male circumcision.",
+			"tags": [
+				"uk",
+				"nss",
+				"cps"
+			],
+			"link": "https://www.secularism.org.uk/news/2026/01/cps-draft-guidance-classes-circumcision-as-potential-child-abuse",
+			"glyphs": [
+				"N",
+				"S",
+				"S",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "National Secular Society: Call for government action",
+			"desc": "NSS response following a infant circumcision fatality in the UK calling for legislative action.",
+			"tags": [
+				"uk",
+				"nss",
+				"fatality"
+			],
+			"link": "https://www.secularism.org.uk/news/2026/01/nss-calls-for-government-action-after-latest-circumcision-death",
+			"glyphs": [
+				"N",
+				"S",
+				"S",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Northern Ireland Regional Guidance on Male Circumcision",
+			"desc": "HSC Public Health Agency guidance on non-therapeutic male circumcision practices.",
+			"tags": [
+				"uk",
+				"northern ireland",
+				"hsc"
+			],
+			"link": "https://www.publichealth.hscni.net/sites/default/files/2024-09/Regional%20Guidance%20re%20Non%20Therapeutic%20Male%20Circumcision%20Aug%202024%20Final.pdf",
+			"glyphs": [
+				"H",
+				"S",
+				"C",
+				"N"
+			],
+			"class": []
+		},
+		{
+			"name": "CQC Guidance on non-therapeutic male circumcision",
+			"desc": "Care Quality Commission guidance prompts for clinics performing male circumcision in England.",
+			"tags": [
+				"uk",
+				"cqc",
+				"guidelines"
+			],
+			"link": "https://www.cqc.org.uk/sites/default/files/20190325%20Additional%20guidance%20and%20prompts_non-therapeutic%20male%20circumcision.pdf",
+			"glyphs": [
+				"C",
+				"Q",
+				"C",
+				"G"
+			],
+			"class": []
+		},
+		{
+			"name": "US Circumcision Lawsuit Advances as Doctors Backtrack",
+			"desc": "Times of Israel blog reporting on US lawsuits challenging AAP policy statements.",
+			"tags": [
+				"usa",
+				"lawsuit",
+				"aap"
+			],
+			"link": "https://blogs.timesofisrael.com/u-s-circumcision-lawsuit-advances-as-doctors-behind-policy-backtrack/",
+			"glyphs": [
+				"T",
+				"O",
+				"I",
+				"L"
+			],
+			"class": []
+		},
+		{
+			"name": "US intervenes in Europe's circumcision wars",
+			"desc": "Jewish Journal article documenting diplomatic intervention by US officials in European debates.",
+			"tags": [
+				"usa",
+				"europe",
+				"diplomacy"
+			],
+			"link": "https://jewishjournal.com/news/united-states/130605/#.U70GU6SV9w8.twitter",
+			"glyphs": [
+				"J",
+				"J",
+				"U",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Johns Hopkins Study: US Circumcision Rates Dropped (2012-2022)",
+			"desc": "Johns Hopkins Medicine release detailing significant decline in US newborn circumcision rates.",
+			"tags": [
+				"usa",
+				"johns hopkins",
+				"decline"
+			],
+			"link": "https://www.hopkinsmedicine.org/news/newsroom/news-releases/2025/09/johns-hopkins-study-newborn-male-circumcision-rates-in-us-dropped-between-2012-and-2022",
+			"glyphs": [
+				"J",
+				"H",
+				"U",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "Trends in Circumcision Among Newborn Males in US (JAMA)",
+			"desc": "JAMA Pediatrics national trends study documenting declining circumcision rates across American hospitals.",
+			"tags": [
+				"jama",
+				"usa",
+				"statistics"
+			],
+			"link": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2838312?guestAccessKey=70b44e9e-2664-44ac-8af7-56a0d1fcfd0b",
+			"glyphs": [
+				"J",
+				"A",
+				"M",
+				"A"
+			],
+			"class": []
+		},
+		{
+			"name": "Less Than Half of U.S. Boys Now Circumcised",
+			"desc": "MedPage Today analysis showing nationwide drop in circumcision rates below 50%.",
+			"tags": [
+				"usa",
+				"statistics",
+				"medpage"
+			],
+			"link": "https://www.medpagetoday.com/pediatrics/generalpediatrics/117464",
+			"glyphs": [
+				"M",
+				"P",
+				"T",
+				"U"
+			],
+			"class": []
+		},
+		{
+			"name": "StudyFinds: Circumcision in decline in US",
+			"desc": "Report analyzing why fewer American parents choose infant circumcision despite medical group statements.",
+			"tags": [
+				"usa",
+				"decline",
+				"parents"
+			],
+			"link": "https://studyfinds.org/circumcision-rates-decline-despite-medical-support/",
+			"glyphs": [
+				"S",
+				"F",
+				"C",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision by Country 2025 (World Population Review)",
+			"desc": "Global demographic data mapping circumcision prevalence rates country by country.",
+			"tags": [
+				"demographics",
+				"global",
+				"statistics"
+			],
+			"link": "https://worldpopulationreview.com/country-rankings/circumcision-by-country",
+			"glyphs": [
+				"W",
+				"P",
+				"R",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Global prevalence estimation of male circumcision",
+			"desc": "Population Health Metrics data table detailing country-specific global prevalence estimates.",
+			"tags": [
+				"global",
+				"statistics",
+				"prevalence"
+			],
+			"link": "https://link.springer.com/article/10.1186/s12963-016-0073-5/tables/1",
+			"glyphs": [
+				"P",
+				"H",
+				"M",
+				"G"
+			],
+			"class": []
+		},
+		{
+			"name": "Countries that Regulate Circumcision (ARC Law)",
+			"desc": "ARC Law legislative repository cataloging international regulations and legal restrictions.",
+			"tags": [
+				"arc law",
+				"legal",
+				"international"
+			],
+			"link": "https://www.arclaw.org/countries-that-regulate-circumcision",
+			"glyphs": [
+				"A",
+				"R",
+				"C",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision and law (Wikipedia)",
+			"desc": "Wikipedia summary covering constitutional, criminal, and human rights law perspectives globally.",
+			"tags": [
+				"wikipedia",
+				"law",
+				"human rights"
+			],
+			"link": "https://en.wikipedia.org/wiki/Circumcision_and_law",
+			"glyphs": [
+				"W",
+				"K",
+				"C",
+				"L"
+			],
+			"class": []
+		},
+		{
+			"name": "Male circumcision as a democratic boundary issue",
+			"desc": "Oagal civil rights paper analyzing child rights versus freedom of religion in democratic law.",
+			"tags": [
+				"civil rights",
+				"democracy",
+				"ethics"
+			],
+			"link": "https://www.oagal.com/en/civil-rights/omskjaring-gutter-demokratisk-grensesporsmal/",
+			"glyphs": [
+				"O",
+				"A",
+				"G",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "Omskjæring av gutter (Tidsskriftet Norway)",
+			"desc": "Norwegian Medical Journal discussion on child bodily integrity and legal regulation.",
+			"tags": [
+				"norway",
+				"journal",
+				"ethics"
+			],
+			"link": "https://tidsskriftet.no/2015/11/kommentar-og-debatt/omskjaering-av-gutter",
+			"glyphs": [
+				"T",
+				"N",
+				"O",
+				"G"
+			],
+			"class": []
+		},
+		{
+			"name": "Non-therapeutic male circumcision permits (Verksamt Sweden)",
+			"desc": "Swedish government portal detailing statutory healthcare permits required for procedures.",
+			"tags": [
+				"sweden",
+				"permits",
+				"law"
+			],
+			"link": "https://verksamt.se/en/industry/find-permits/permit/omskarelse-av-pojkar-UKR1982",
+			"glyphs": [
+				"V",
+				"S",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision and Human Rights (Springer Book)",
+			"desc": "Monograph examining male circumcision under international human rights treaties and child law.",
+			"tags": [
+				"springer",
+				"human rights",
+				"law"
+			],
+			"link": "https://link.springer.com/book/10.1007/978-1-4020-9167-4",
+			"glyphs": [
+				"S",
+				"C",
+				"H",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Ultra-Orthodox Jews criticised over circumcision practice",
+			"desc": "PMC report on public health and legal controversies surrounding metzitzah b'peh.",
+			"tags": [
+				"pmc",
+				"metzitzah",
+				"public health"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1336756/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"U"
+			],
+			"class": []
+		},
+		{
+			"name": "Åkesson: Allow Jewish circumcision but not Muslim",
+			"desc": "Omni report on political debates in Sweden regarding religious circumcision exemptions.",
+			"tags": [
+				"sweden",
+				"politics",
+				"omni"
+			],
+			"link": "https://omni.se/akesson-lat-judar-omskara-men-inte-muslimer/a/16M9EM",
+			"glyphs": [
+				"O",
+				"M",
+				"N",
+				"I"
+			],
+			"class": []
 		}
 	],
 	"additional research and meta": [
@@ -653,6 +2581,23 @@
 			"glyphs": [
 				"C",
 				"D",
+				"C"
+			],
+			"class": []
+		},
+		{
+			"name": "Critique of Proposed CDC Guidelines (PMC)",
+			"desc": "PMC full text analyzing ethical and methodological flaws in CDC circumcision recommendations.",
+			"tags": [
+				"cdc",
+				"pmc",
+				"critique"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4364150/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
 				"C"
 			],
 			"class": []
@@ -712,7 +2657,7 @@
 				"expose",
 				"circumcision"
 			],
-			"link": "https://antimisandry1505.wordpress.com/2025/04/03/studies-exposing-the-harm-of-circumcision/ ",
+			"link": "https://antimisandry1505.wordpress.com/2025/04/03/studies-exposing-the-harm-of-circumcision/",
 			"glyphs": [
 				"C",
 				"E"
@@ -748,6 +2693,362 @@
 				"M",
 				"F",
 				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "Reply to Morris et al. (PMC10159837)",
+			"desc": "PMC paper dismantling flawed claims in pro-circumcision advocacy literature.",
+			"tags": [
+				"pmc",
+				"reply",
+				"morris",
+				"critique"
+			],
+			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10159837/",
+			"glyphs": [
+				"P",
+				"M",
+				"C",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Circumcision: A Bioethical Challenge (ARC Law)",
+			"desc": "ARC Law bioethical analysis reviewing infant autonomy and parental decision limits.",
+			"tags": [
+				"arc law",
+				"bioethics",
+				"autonomy"
+			],
+			"link": "https://www.arclaw.org/letters/circumcision-a-bioethical-challenge",
+			"glyphs": [
+				"A",
+				"R",
+				"C",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Medical & Ethical Positions (ARC Law)",
+			"desc": "Compilation of official statements from international medical associations opposing routine circumcision.",
+			"tags": [
+				"arc law",
+				"medical",
+				"ethics",
+				"statements"
+			],
+			"link": "https://www.arclaw.org/medical-and-ethical-positions",
+			"glyphs": [
+				"A",
+				"R",
+				"C",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "The troubled history of the foreskin (Mosaic)",
+			"desc": "Medium / Mosaic article examining historical motives and puritanical origins of modern circumcision.",
+			"tags": [
+				"history",
+				"mosaic",
+				"medium"
+			],
+			"link": "https://medium.com/mosaic-science/the-troubled-history-of-the-foreskin-ace394b7ffcb",
+			"glyphs": [
+				"M",
+				"S",
+				"H",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Uitgeverij Paris Reader on Circumcision",
+			"desc": "Academic reader covering legal and bioethical dimensions of bodily integrity.",
+			"tags": [
+				"reader",
+				"legal",
+				"ethics"
+			],
+			"link": "https://www.uitgeverijparis.nl/nl/reader/205341/1001427265",
+			"glyphs": [
+				"U",
+				"P",
+				"R"
+			],
+			"class": []
+		},
+		{
+			"name": "Fatal irony: The 'circumcision solution' to AIDS",
+			"desc": "Oxford Practical Ethics blog analyzing why mass circumcision campaigns can increase HIV spread.",
+			"tags": [
+				"oxford",
+				"ethics",
+				"hiv",
+				"africa"
+			],
+			"link": "https://blog.uehiro.ox.ac.uk/2012/05/when-bad-science-kills-or-how-to-spread-aids/",
+			"glyphs": [
+				"O",
+				"P",
+				"E",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Informal Norms of HIV Prevention: Condom Code",
+			"desc": "Journal of Law, Medicine & Ethics paper on how circumcision messaging erodes condom usage.",
+			"tags": [
+				"hiv",
+				"condoms",
+				"ethics"
+			],
+			"link": "https://www.cambridge.org/core/journals/journal-of-law-medicine-and-ethics/article/abs/informal-norms-of-hiv-prevention-the-emergence-and-erosion-of-the-condom-code/48E6950A6CD3E429ED241B370993C57C",
+			"glyphs": [
+				"J",
+				"L",
+				"M",
+				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "Journalists: The AAP Has No Circumcision Policy Statement",
+			"desc": "Medium article by Brendon Marotta pointing out that the AAP's 2012 policy expired in 2017.",
+			"tags": [
+				"aap",
+				"medium",
+				"policy",
+				"journalism"
+			],
+			"link": "https://medium.com/@bdmarotta/journalists-the-aap-has-no-circumcision-policy-statement-36647821cd6a",
+			"glyphs": [
+				"M",
+				"A",
+				"A",
+				"P"
+			],
+			"class": []
+		},
+		{
+			"name": "Gender bias in medical nomenclature",
+			"desc": "Taylor & Francis paper comparing 'male circumcision' and 'female genital mutilation' terminologies.",
+			"tags": [
+				"nomenclature",
+				"gender bias",
+				"fgm"
+			],
+			"link": "https://www.tandfonline.com/doi/full/10.1080/13642987.2023.2199202",
+			"glyphs": [
+				"T",
+				"F",
+				"G",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Peter Gøtzsche: Ritual circumcision of boys must be banned",
+			"desc": "Substack article by Prof. Peter Gøtzsche arguing for equal protection under child safety laws.",
+			"tags": [
+				"gotzsche",
+				"substack",
+				"ethics"
+			],
+			"link": "https://pgtzsche1.substack.com/p/ritual-circumcision-of-boys-must",
+			"glyphs": [
+				"P",
+				"G",
+				"S",
+				"B"
+			],
+			"class": []
+		},
+		{
+			"name": "Morten Frisch: Portrait in Ugeskriftet",
+			"desc": "Ugeskriftet portrait of Dr. Morten Frisch and his decades of research on circumcision.",
+			"tags": [
+				"denmark",
+				"frisch",
+				"portrait"
+			],
+			"link": "https://ugeskriftet.dk/nyhed/kompromislos-forsker-og-debattor",
+			"glyphs": [
+				"U",
+				"M",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "Hearing on circumcision of boys - Gøtzsche",
+			"desc": "Deadly Medicines & Organised Crime hearing materials on infant male circumcision.",
+			"tags": [
+				"gotzsche",
+				"hearing",
+				"ethics"
+			],
+			"link": "https://www.deadlymedicines.dk/horing-om-omskaering-af-drenge/",
+			"glyphs": [
+				"D",
+				"M",
+				"H",
+				"G"
+			],
+			"class": []
+		},
+		{
+			"name": "Goldstein speaks as religious individual, not doctor",
+			"desc": "Ugeskriftet debate response addressing religious bias in medical commentary.",
+			"tags": [
+				"denmark",
+				"ugeskriftet",
+				"debate"
+			],
+			"link": "https://ugeskriftet.dk/debat/goldstein-udtaler-sig-ikke-som-laege-men-som-religiost-menneske-i-sporgsmalet-om-rituel",
+			"glyphs": [
+				"U",
+				"G",
+				"D"
+			],
+			"class": []
+		},
+		{
+			"name": "WHO Manual for Male Circumcision",
+			"desc": "WHO manual detailing surgical protocols, anesthesia, and acknowledged complication risks.",
+			"tags": [
+				"who",
+				"manual",
+				"surgical"
+			],
+			"link": "https://iris.who.int/server/api/core/bitstreams/c2119732-ba8d-4eda-8ad2-81e8378ffd37/content",
+			"glyphs": [
+				"W",
+				"H",
+				"O",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "Only Male Genital Modification is Control (Steve Moxon)",
+			"desc": "Essay exploring evolutionary psychology and gendered framing of genital modification.",
+			"tags": [
+				"essay",
+				"moxon",
+				"evolutionary"
+			],
+			"link": "https://stevemoxon.co.uk/only-male-genital-modification-is-control-female-is-competitive-ploy/",
+			"glyphs": [
+				"S",
+				"M",
+				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "The Foreskin Industry (Acroposthion)",
+			"desc": "Investigation into commercial applications and procurement of foreskin tissue.",
+			"tags": [
+				"industry",
+				"tissue",
+				"acroposthion"
+			],
+			"link": "https://acroposthion.com/the-foreskin-industry/",
+			"glyphs": [
+				"A",
+				"F",
+				"I"
+			],
+			"class": []
+		},
+		{
+			"name": "Foreskin in Beauty Products (American Cosmetic Association)",
+			"desc": "Industry overview on the use of neonatal foreskin fibroblast cultures in cosmetics.",
+			"tags": [
+				"cosmetics",
+				"fibroblasts",
+				"industry"
+			],
+			"link": "https://www.cosmeticassociation.org/foreskin-in-beauty-products/",
+			"glyphs": [
+				"A",
+				"C",
+				"A",
+				"F"
+			],
+			"class": []
+		},
+		{
+			"name": "A Sex Educator's Guide to Foreskins",
+			"desc": "Global Protection Corp guide on intact anatomy, function, and condom usage.",
+			"tags": [
+				"sex education",
+				"foreskin",
+				"guide"
+			],
+			"link": "https://www.globalprotection.com/blog/news-1/a-sex-educator-s-guide-to-foreskins-16",
+			"glyphs": [
+				"G",
+				"P",
+				"S",
+				"E"
+			],
+			"class": []
+		},
+		{
+			"name": "QuranicPath: How male circumcision harms women",
+			"desc": "Theological and physical analysis of intact sex from an Islamic perspective.",
+			"tags": [
+				"quranicpath",
+				"religion",
+				"intercourse"
+			],
+			"link": "https://www.quranicpath.com/misconceptions/intact_sex.html",
+			"glyphs": [
+				"Q",
+				"P",
+				"I",
+				"S"
+			],
+			"class": []
+		},
+		{
+			"name": "The Lost List (NORM)",
+			"desc": "Comprehensive list of anatomical structures and nerves permanently lost to circumcision.",
+			"tags": [
+				"norm",
+				"anatomy",
+				"loss"
+			],
+			"link": "https://norm.org/the-lost-list/",
+			"glyphs": [
+				"N",
+				"O",
+				"R",
+				"M"
+			],
+			"class": []
+		},
+		{
+			"name": "How to Care for Your Baby After Circumcision (Banner Health)",
+			"desc": "Clinical instructions highlighting wound care, bleeding monitoring, and infection signs.",
+			"tags": [
+				"care",
+				"infant",
+				"banner health"
+			],
+			"link": "https://www.bannerhealth.com/healthcareblog/better-me/how-to-care-for-your-baby-after-circumcision",
+			"glyphs": [
+				"B",
+				"H",
+				"B",
+				"C"
 			],
 			"class": []
 		}
@@ -1059,6 +3360,22 @@
 			"class": []
 		},
 		{
+			"name": "Circumcision is a Fraud",
+			"desc": "Educational website compiling research, history, and anatomical facts opposing circumcision.",
+			"tags": [
+				"education",
+				"archive",
+				"activism"
+			],
+			"link": "https://www.circumcisionisafraud.com/",
+			"glyphs": [
+				"C",
+				"I",
+				"F"
+			],
+			"class": []
+		},
+		{
 			"name": "NOCIRC",
 			"desc": "The National Organization of Circumcision Information Resource Centers, one of the oldest anti-circumcision groups.",
 			"tags": [
@@ -1139,5 +3456,3 @@
 		}
 	]
 }
-
-
