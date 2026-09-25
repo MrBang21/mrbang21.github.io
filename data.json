@@ -49,41 +49,6 @@
 			"class": []
 		},
 		{
-			"name": "The sensory penis (PMC)",
-			"desc": "Open access article detailing immunohistological exploration of human penile innervation.",
-			"tags": [
-				"sensory",
-				"penis",
-				"innervation",
-				"pmc"
-			],
-			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12919687/",
-			"glyphs": [
-				"S",
-				"P",
-				"I"
-			],
-			"class": []
-		},
-		{
-			"name": "The sensory penis (Wiley)",
-			"desc": "Publisher page for Cepeda-Emiliani et al. 2026 in Andrology: immunohistological and ontogenetic exploration of human penile innervation.",
-			"tags": [
-				"sensory",
-				"penis",
-				"innervation",
-				"wiley",
-				"andrology"
-			],
-			"link": "https://onlinelibrary.wiley.com/doi/10.1111/andr.70118",
-			"glyphs": [
-				"W",
-				"S",
-				"P"
-			],
-			"class": []
-		},
-		{
 			"name": "Meissner's corpuscles in male prepuce",
 			"desc": "Histological study confirming high density of tactile receptors in the human foreskin.",
 			"tags": [
@@ -114,23 +79,6 @@
 				"T",
 				"P",
 				"T"
-			],
-			"class": []
-		},
-		{
-			"name": "The prepuce: specialized mucosa of the penis",
-			"desc": "Describes structure and functions of the foreskin",
-			"tags": [
-				"foreskin",
-				"anatomy",
-				"function"
-			],
-			"link": "https://www.cirp.org/library/anatomy/cold-taylor/",
-			"glyphs": [
-				"T",
-				"P",
-				"S",
-				"M"
 			],
 			"class": []
 		},
@@ -233,23 +181,6 @@
 			"class": []
 		},
 		{
-			"name": "Male circumcision decreases sensitivity (BJU)",
-			"desc": "BJU International study measuring touch thresholds in circumcised vs intact men.",
-			"tags": [
-				"sensitivity",
-				"bju",
-				"evidence"
-			],
-			"link": "https://www.ovid.com/journals/bjui/abstract/10.1111/j.1464-410x.2012.11761.x~male-circumcision-decreases-penile-sensitivity-as-measured",
-			"glyphs": [
-				"B",
-				"J",
-				"U",
-				"S"
-			],
-			"class": []
-		},
-		{
 			"name": "DMJ: Circumcision and perceived sexual function",
 			"desc": "2016 Danish Medical Journal systematic review of 38 studies (Shabanzadeh, Düring & Frimodt-Møller). Authors conclude the hypothesis of inferior perceived male sexual function after circumcision was not supported.",
 			"tags": [
@@ -284,22 +215,6 @@
 			"class": []
 		},
 		{
-			"name": "Physical Effects of Circumcision (Springer)",
-			"desc": "Springer chapter examining anatomical changes and long-term physical outcomes.",
-			"tags": [
-				"physical",
-				"springer",
-				"anatomy"
-			],
-			"link": "https://link.springer.com/chapter/10.1007/978-90-481-9446-9_7",
-			"glyphs": [
-				"S",
-				"P",
-				"E"
-			],
-			"class": []
-		},
-		{
 			"name": "Glans Ischemia after Circumcision",
 			"desc": "Case analysis and review of ischemic complications of the glans penis post-circumcision.",
 			"tags": [
@@ -317,23 +232,6 @@
 		},
 		{
 			"name": "O'Hara & O'Hara study",
-			"desc": "Female partners report reduced sexual satisfaction with circumcised men",
-			"tags": [
-				"female experience",
-				"sexual satisfaction",
-				"bjui"
-			],
-			"link": "https://www.cirp.org/library/anatomy/ohara/",
-			"glyphs": [
-				"O",
-				"H",
-				"O",
-				"S"
-			],
-			"class": []
-		},
-		{
-			"name": "O'Hara & O'Hara study (Wiley)",
 			"desc": "Original BJU International article on female partner sexual enjoyment.",
 			"tags": [
 				"female experience",
@@ -831,23 +729,6 @@
 			"class": []
 		},
 		{
-			"name": "Circumcision & HIV in Ontario (PubMed)",
-			"desc": "PubMed entry for Ontario cohort analysis on circumcision and HIV risk.",
-			"tags": [
-				"hiv",
-				"canada",
-				"pubmed"
-			],
-			"link": "https://pubmed.ncbi.nlm.nih.gov/34551593/",
-			"glyphs": [
-				"P",
-				"M",
-				"O",
-				"C"
-			],
-			"class": []
-		},
-		{
 			"name": "HIV prevalence in Lesotho & circumcision",
 			"desc": "PubMed analysis showing changing or non-protective relationships between HIV and circumcision in Lesotho.",
 			"tags": [
@@ -887,6 +768,7 @@
 			"tags": [
 				"zambia",
 				"hiv",
+				"africa",
 				"vmmc"
 			],
 			"link": "https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/voluntary-medical-male-circumcision-and-hiv-in-zambia-expectations-and-observations/D606CCCCF1CE606D2AFD606A91A5F662",
@@ -1339,20 +1221,6 @@
 			"class": []
 		},
 		{
-			"name": "CIRP library",
-			"desc": "Extensive archive of circumcision research",
-			"tags": [
-				"library",
-				"research"
-			],
-			"link": "https://www.cirp.org/",
-			"glyphs": [
-				"C",
-				"L"
-			],
-			"class": []
-		},
-		{
 			"name": "CPS statement on newborn male circumcision",
 			"desc": "Canadian Paediatric Society finds no medical need for routine circumcision",
 			"tags": [
@@ -1505,7 +1373,7 @@
 			"class": []
 		},
 		{
-			"name": "Psychological and sexual effects in adult males (PubMed)",
+			"name": "Psychological and sexual effects in adult males",
 			"desc": "PubMed study investigating long-term psychological impacts and erectile function.",
 			"tags": [
 				"psychology",
@@ -1518,23 +1386,6 @@
 				"M",
 				"P",
 				"S"
-			],
-			"class": []
-		},
-		{
-			"name": "Psychological and sexual effects in adult males (PMC)",
-			"desc": "PMC full text analyzing psychological sequelae and satisfaction in circumcised men.",
-			"tags": [
-				"psychology",
-				"pmc",
-				"trauma"
-			],
-			"link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5065403/",
-			"glyphs": [
-				"P",
-				"M",
-				"C",
-				"P"
 			],
 			"class": []
 		},
@@ -1556,24 +1407,7 @@
 			"class": []
 		},
 		{
-			"name": "Effect of male circumcision on sexuality (Kim 2007)",
-			"desc": "BJU International study on post-circumcision decreased masturbatory pleasure and sensitivity.",
-			"tags": [
-				"bju",
-				"kim",
-				"sexuality"
-			],
-			"link": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2006.06646.x",
-			"glyphs": [
-				"B",
-				"J",
-				"U",
-				"K"
-			],
-			"class": []
-		},
-		{
-			"name": "Effect of male circumcision on sexuality (PubMed)",
+			"name": "Effect of male circumcision on sexuality",
 			"desc": "PubMed entry for Kim et al. investigating sexual function changes post-circumcision.",
 			"tags": [
 				"pubmed",
@@ -3419,6 +3253,20 @@
 				"T",
 				"W",
 				"N"
+			],
+			"class": []
+		},
+		{
+			"name": "CIRP library",
+			"desc": "Extensive archive of circumcision research",
+			"tags": [
+				"library",
+				"research"
+			],
+			"link": "https://www.cirp.org/",
+			"glyphs": [
+				"C",
+				"L"
 			],
 			"class": []
 		},
