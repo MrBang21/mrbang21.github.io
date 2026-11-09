@@ -17,6 +17,21 @@
 			"class": []
 		},
 		{
+			"link": "/testimonies/",
+			"name": "Circumcision Testimonies",
+			"desc": "A collection of testimonies from people who have been circumcised or affected by circumcision.",
+			"glyphs": [
+				"C",
+				"T"
+			],
+			"tags": [
+				"circumcision",
+				"testimonies",
+				"networking"
+			],
+			"class": []
+		},
+		{
 			"link": "/beskyt-barnet/",
 			"name": "Beskyt Barnet",
 			"desc": "Privat udarbejdet lovforslag om beskyttelse af mindreåriges kønsorganer mod ikke-terapeutiske irreversible indgreb.",
