@@ -2,6 +2,8 @@
 
 This document compiles every sovereign state, regional jurisdiction, and supranational body that has formally introduced, debated, litigated, or codified bans, moratoria, public health exclusions, or statutory age minimums on infant and non-therapeutic male circumcision. It details the legislative initiatives, judicial rulings, and medical policy papers alongside the specific legal, theological, and civil rights objections raised by Jewish and Muslim communities, complete with documented primary quotes and verified deep source links.  
 
+No country currently maintains a nationwide criminal ban on non-therapeutic infant male circumcision. All major proposals either failed, were reversed by clarifying legislation, or resulted only in regulation, hospital policy changes, or non-binding recommendations.  
+
 ---  
 
 ## Iceland  
@@ -24,12 +26,14 @@ Jewish organizations globally condemned the measure, emphasizing that an outrigh
 *Pro-Ban / State Debates:*  
 - [Alþingi Bill 183 (148th Session): Bann við umskurði drengja](https://www.althingi.is/altext/148/s/0183.html)  
 - [Alþingi Parliamentary Proceedings & 1st Reading Debate Records](https://www.althingi.is/altext/148/02/l08184709.sgml)  
-- [Alþingi Committee Case File 413: Official Parliamentary Dossier](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/148/413/?ltg=148&mnr=413)  
+- [The Guardian: Iceland Law to Outlaw Male Circumcision Sparks Row over Religious Freedom](https://www.theguardian.com/society/2018/feb/18/iceland-ban-male-circumcision-first-european-country)  
+- [Alþingi Committee Case 183 Formal Submission: Intact Iceland Opinion (PDF)](https://www.althingi.is/altext/erindi/148/148-1089.pdf)  
 
 *Counter-Ban / Opposition Statements:*  
 - [European Jewish Association: Bill to Ban Circumcision Introduced in Iceland's Parliament](https://ejassociation.eu/eja/bill-to-ban-circumcision-introduced-in-icelands-parliament/)  
 - [European Jewish Congress: Joint Statement of Nordic Jewish Communities on Iceland](https://eurojewcong.org/news/communities-news/joint-statement-nordic-jewish-communities-concerning-proposed-anti-circumcision-legislation-iceland/)  
-- [Anti-Defamation League: ADL Calls on Icelandic Parliament to Reject Proposed Ban on Male Circumcision](https://www.adl.org/resources/press-release/adl-calls-icelandic-parliament-reject-proposed-ban-male-circumcision)  
+- [The Times of Israel: Circumcision Ban Will Prevent Jewish Life in Iceland, Leaders Warn](https://www.timesofisrael.com/circumcision-ban-will-prevent-jewish-life-in-iceland-leaders-warn/)  
+- [The Times of Israel: Rabbi, Imam Defend Circumcision in Face of Iceland Bill to Ban It](https://www.timesofisrael.com/rabbi-imam-defend-circumcision-in-face-of-iceland-bill-to-ban-it/)  
 
 ---  
 
@@ -52,11 +56,14 @@ The Danish Jewish Community (*Det Jødiske Samfund i Danmark*) and prominent Dan
 ### Documentation & Deep Source Links  
 *Pro-Ban / State Debates:*  
 - [Borgerforslag FT-00124: Indførelse af 18 års mindstealder for omskæring af raske børn](https://www.borgerforslag.dk/se-og-stoet-forslag/?Id=FT-00124)  
-- [Folketinget Resolution B 7: Official Parliamentary Case File](https://www.ft.dk/samling/20201/beslutningsforslag/B7/baggrund.htm)  
-- [Folketinget Resolution B 272 (2020-21 Session): Decision Dossier](https://www.ft.dk/samling/20201/beslutningsforslag/B272/index.htm)  
+- [Folketinget Resolution B 7: Official Parliamentary Case File](https://www.ft.dk/samling/20201/beslutningsforslag/b7/index.htm)  
+- [Folketinget Resolution B 7 Debate Record: BEH1-21 Forhandling](https://www.ft.dk/samling/20201/beslutningsforslag/B7/BEH1-21/forhandling.htm)  
+- [Lægeforeningen: Omskæring af drenge uden medicinsk indikation er etisk uacceptabelt](https://laeger.dk/foreninger/laegeforeningen/etik/omskaering-af-drenge-uden-medicinsk-indikation)  
 
 *Counter-Ban / Opposition Statements:*  
 - [European Jewish Association: Danish Parliament to Consider Becoming First Country to Ban Circumcision of Boys](https://ejassociation.eu/eja/danish-parliament-to-consider-becoming-first-country-to-ban-circumcision-of-boys/)  
+- [Det Jødiske Samfund i Danmark: Omskæring – Hvorfor er det vigtigt for jøder?](https://mosaiske.dk/omskaering-hvorfor-er-det-vigtigt-for-joeder/)  
+- [Det Jødiske Samfund i Danmark: Den jødiske drengeomskæring – Juridisk information (PDF)](https://djs.dk/wp-content/uploads/JURIDISK-INFORMATIONSop.pdf)  
 - [European Jewish Congress: Danish Parliament Rejects Ban on Religious Circumcision](https://eurojewcong.org/news/communities-news/denmark/danish-parliament-rejects-ban-on-religious-circumcision/)  
 - [U.S. Department of State: 2018 Report on International Religious Freedom - Denmark](https://www.state.gov/wp-content/uploads/2019/05/DENMARK-2018-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf)  
 
@@ -82,6 +89,7 @@ The Cologne ruling triggered an unprecedented joint defense by German Jewish and
 
 ### Documentation & Deep Source Links  
 *Pro-Ban / State Debates:*  
+- [Deutscher Bundestag Wissenschaftliche Dienste: Aktueller Begriff – Beschneidung und Strafrecht (PDF)](https://www.bundestag.de/resource/blob/192480/Beschneidung_und_Strafrecht.pdf)  
 - [Landgericht Köln Ruling (Az. 151 Ns 169/11) - Full Legal Text](https://openjur.de/u/415516.html)  
 - [Deutscher Bundestag Drucksache 17/11295: Gesetzentwurf der Bundesregierung](https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-den-umfang-der-personensorge-bei-einer-beschneidung-des/47943?f.deskriptor=Beschneidung&rows=25&pos=1&ctx=d)  
 - [German Civil Code: § 1631d BGB Beschneidung des männlichen Kindes](https://www.gesetze-im-internet.de/bgb/__1631d.html)  
@@ -89,9 +97,11 @@ The Cologne ruling triggered an unprecedented joint defense by German Jewish and
 - [Deutscher Bundestag Plenarprotokoll: Dec 12, 2012 Final Passage](https://www.bundestag.de/webarchiv/textarchiv/2012/41964402_kw50_sp_beschneidung-210212)  
 
 *Counter-Ban / Opposition Statements:*  
+- [Zentralrat der Juden in Deutschland: Erklärung zum Urteil des Kölner Landgerichts zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zum-urteil-des-koelner-landgerichts-zur-beschneidung-von-jungen/)  
+- [Zentralrat der Juden in Deutschland: Zur Verabschiedung des Gesetzes zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zur-verabschiedung-des-gesetzes-zur-beschneidung-von-jungen/)  
+- [Zentralrat der Juden in Deutschland: Dossier zum Thema Beschneidung](https://www.zentralratderjuden.de/dossier-des-zentralrats-der-juden-in-deutschland-zum-thema-beschneidung-2/)  
 - [Journal of Medical Ethics / BMJ: Religious Circumcision and the Law in Germany](https://jme.bmj.com/content/39/1/62.full.pdf)  
 - [World Jewish Congress: German Court Ruling on Circumcision Creates Uproar](https://www.worldjewishcongress.org/en/news/german-court-ruling-on-circumcision-creates-uproar)  
-- [Central Council of Jews in Germany: Resolution on the Protection of Brit Milah](https://www.zentralratderjuden.de/aktuelle-meldungen/beschneidung-ist-grundpfeiler-des-judentums/)  
 
 ---  
 
@@ -101,6 +111,8 @@ The Cologne ruling triggered an unprecedented joint defense by German Jewish and
 In 2017, the Belgian Federal Advisory Committee on Bioethics (*Comité consultatif de Bioéthique de Belgique*) issued **Advisory Opinion No. 70 (*Avis n° 70*)**, titled *"Avis relatif aux aspects éthiques de la circoncision non médicale"*. The advisory committee unanimously concluded that the non-medical circumcision of male minors infringes upon a child's bodily integrity and personal autonomy.  
 
 The committee recommended that the federal government re-evaluate whether non-therapeutic infant circumcision should be permitted without personal informed consent. It strongly recommended an immediate cessation of all national health insurance reimbursement (INAMI/RIZIV) for non-medical circumcisions to ensure public funds do not subsidize the practice. The Federal Minister for Social Affairs and Public Health, Maggie De Block, tightened billing rules but rejected an absolute criminal ban.  
+
+Later prosecutorial actions against mohels in Antwerp (2020s) further intensified the debate over whether the procedure can be performed legally outside clinical hospital operating theaters.  
 
 ### Jewish and Muslim Community Responses & Threats  
 Jewish organizations, specifically the European Jewish Association (EJA) headquartered in Brussels, characterized legal efforts to ban circumcision or prosecute mohels as a direct breach of the European Convention on Human Rights (ECHR). Community representatives warned that eliminating access to ritual circumcision creates an explicitly hostile state environment that marks minority groups as second-class citizens.  
@@ -283,23 +295,45 @@ The Executive Council of Australian Jewry (ECAJ) and the Australian Federation o
 
 ---  
 
-## Austria & Switzerland  
+## Austria  
 
 ### Background and Regulatory Moratoria  
-Immediately following the Cologne Regional Court decision in Germany in June 2012, health authorities in Austria and Switzerland initiated immediate administrative suspensions:  
-- **Austria:** In July 2012, the Governor of Vorarlberg instructed regional state hospitals to halt all non-therapeutic circumcisions. Hospitals in Vienna and Graz placed the practice under review. The Austrian Ministry of Justice subsequently issued a formal legal assessment confirming that religious circumcision remains fully lawful under parental proxy consent.  
-- **Switzerland:** In July 2012, the University Children's Hospital in Zurich suspended ritual circumcisions pending criminal and liability reviews. The Swiss Federal Office of Justice (*Bundesamt für Justiz*) subsequently clarified that the Swiss Civil Code authorizes parents to consent to customary religious circumcision provided standard medical safeguards are followed.  
+In July 2012, immediately following the Cologne Regional Court decision in Germany, the Governor of Vorarlberg, Markus Wallner, instructed state-run hospitals (*Landeskrankenhäuser*) to suspend elective, non-therapeutic circumcisions until legal clarity was established under Austrian law. Regional medical authorities in Vienna and Styria initiated reviews of their own surgical guidelines.  
+
+The Austrian Federal Ministry of Justice (*Bundesministerium für Justiz*) resolved the situation by issuing a formal legal decree (**Erlass vom 31. Juli 2012, GZ BMJ-LE12.0001/0003-IV 3/2012**). The ministry clarified that under Austrian penal law (§ 90 Abs. 1 StGB), customary religious circumcision performed with parental consent according to standard medical art does not constitute criminal bodily harm (*Körperverletzung*).  
 
 ### Community Responses  
-The Jewish Community of Vienna (*Israelitische Kultusgemeinde Wien* - IKG), the Islamic Religious Authority in Austria (*Islamische Glaubensgemeinschaft in Österreich* - IGGÖ), and the Swiss Federation of Jewish Communities (*Schweizerischer Israelitischer Gemeindebund* - SIG) rallied against the suspensions, describing hospital moratoria as discriminatory measures that cast immediate stigma over Abrahamic religious traditions.  
+The Jewish Community of Vienna (*Israelitische Kultusgemeinde Wien* - IKG) and the Islamic Religious Authority in Austria (*Islamische Glaubensgemeinschaft in Österreich* - IGGÖ) condemned the hospital suspension, arguing that hospital-level bans set an immediate precedent of religious discrimination and infringed upon the Austrian State Basic Law on the General Rights of Citizens (*Staatsgrundgesetz*).  
 
 ### Documentation & Deep Source Links  
-*Government Legal Opinions:*  
-- [Swiss Federal Office of Justice: Rechtliche Beurteilung der Knabenbeschneidung (Archival Guidance)](https://www.bj.admin.ch/bj/de/home/gesellschaft/gesetzgebung/archiv/beschneidung.html)  
-- [Austrian Federal Ministry of Justice: Erlass zum Thema Beschneidung (PDF)](https://www.justiz.gv.at/fileadmin/user_upload/BMJ/Erlass_Beschneidung_2012.pdf)  
+*Government Legal Opinions & Moratorium Directives:*  
+- [Rechtsinformationssystem des Bundes (RIS): Bundesministerium für Justiz Erlass vom 31. Juli 2012 (GZ BMJ-LE12.0001/0003-IV 3/2012)](https://www.ris.bka.gv.at/Dokumente/Erlaesse/ERL_BMJ_20120731_120001S_3_IV_12/ERL_BMJ_20120731_120001S_3_IV_12.html)  
+- [Deutsches Ärzteblatt: Vorarlberg empfiehlt Krankenhäusern Aussetzung von Beschneidungen](https://www.aerzteblatt.de/news/vorarlberg-empfiehlt-krankenhaeusern-aussetzung-von-beschneidungen-41270fba-12e5-43e9-bf61-a1da4d787112)  
+- [Die Presse: Vorarlberg – Beschneidung bleibt frei nach Stellungnahme des Justizministeriums](https://www.diepresse.com/1273549/vorarlberg-beschneidung-bleibt-frei)  
 
 *Opposition Statements:*  
-- [World Jewish Congress: Austria and Switzerland Clarify Religious Circumcision is Legal Following Protests](https://www.worldjewishcongress.org/en/news/austria-and-switzerland-clarify-religious-circumcision-is-legal-following-protests-10-1-2012)  
+- [World Jewish Congress: Austrian Justice Ministry Clarifies Circumcision is Legal Following Protests](https://www.worldjewishcongress.org/en/news/austria-and-switzerland-clarify-religious-circumcision-is-legal-following-protests-10-1-2012)  
+
+---  
+
+## Switzerland  
+
+### Background and Regulatory Moratoria  
+In July 2012, following the German court decision, the University Children's Hospital Zurich (*Kinderspital Zürich*) announced a temporary suspension of non-therapeutic religious circumcisions to evaluate whether doctors could face criminal liability for assault under the Swiss Criminal Code (*Schweizerisches Strafgesetzbuch*).  
+
+In September 2012, the Swiss Federal Office of Justice (*Bundesamt für Justiz* - BJ) concluded that parental proxy consent for religious circumcision remains valid under the Swiss Civil Code (*Zivilgesetzbuch* - ZGB), provided the surgery is performed professionally with effective analgesia, thereby ending the hospital moratorium without statutory changes.  
+
+### Community Responses  
+The Swiss Federation of Jewish Communities (*Schweizerischer Israelitischer Gemeindebund* - SIG) and the Federation of Islamic Organizations in Switzerland (FIOS) warned that clinical suspensions infringed on Article 15 of the Federal Constitution of the Swiss Confederation (Freedom of Religion and Conscience) and would push families to seek procedures outside sterile surgical settings.  
+
+### Documentation & Deep Source Links  
+*Hospital Moratorium & Legal Analysis:*  
+- [Child Rights International Network (CRIN): Swiss Legal Experts Divided Over Circumcision / Zurich Children's Hospital Moratorium](https://archive.crin.org/en/library/news-archive/male-circumcision-swiss-legal-experts-divided-over-circumcision.html)  
+- [Cambridge University Press Legal Review: Dialogue or Interaction – The Swiss Circumcision Moratorium](https://www.cambridge.org/core/books/judicial-dialogue-and-human-rights/dialogue-or-interaction/907AFA3E8FA40EF1ADE029A00F7D61C5)  
+
+*Opposition Statements:*  
+- [Schweizerischer Israelitischer Gemeindebund (SIG): Factsheet & Dossier zur Brit Mila im Judentum](https://swissjews.ch/de/themen/religionsfreiheit/britmila/)  
+- [World Jewish Congress: Austria and Switzerland Clarify Circumcision Legality Following Protests](https://www.worldjewishcongress.org/en/news/austria-and-switzerland-clarify-religious-circumcision-is-legal-following-protests-10-1-2012)  
 
 ---  
 
@@ -310,7 +344,7 @@ On October 1, 2013, the Parliamentary Assembly of the Council of Europe (PACE) a
 
 Drafted by rapporteur Marlene Rupprecht (Germany), the resolution explicitly grouped the *"circumcision of young boys for religious reasons"* alongside female genital mutilation, forced surgeries on intersex infants, and non-consensual tattoos or piercings. Resolution 1952 called upon Council of Europe member states to initiate public dialogue and define legal provisions ensuring that invasive procedures are not carried out before a child is old enough to be personally consulted.  
 
-In March 2014, the Committee of Ministers of the Council of Europe responded to PACE Recommendation 2023, issuing a clarification that female genital mutilation cannot be equated with religious male circumcision under international law and noting that no further European-wide standard-setting work would be pursued.  
+In March 2014, the Committee of Ministers of the Council of Europe responded to PACE Recommendation 2023, issuing a clarification that female genital mutilation cannot be equated with religious male circumcision under international law and noting that no further European-wide standard-setting work would be pursued. A later 2015 resolution (Resolution 2076) further clarified that the Assembly never called for a ban.  
 
 ### Jewish, Muslim, and Diplomatic Responses  
 PACE Resolution 1952 caused severe diplomatic friction. The Israeli Ministry of Foreign Affairs, the Organization of Islamic Cooperation (OIC), and European interfaith councils condemned the resolution as an intolerable attack on freedom of thought, conscience, and religion under Article 9 of the European Convention on Human Rights (ECHR).  
@@ -330,4 +364,10 @@ PACE Resolution 1952 caused severe diplomatic friction. The Israeli Ministry of 
 
 *Opposition / Diplomatic Rebuttals:*  
 - [World Jewish Congress: WJC Welcomes Council of Europe Resolution Protecting Circumcision](https://www.worldjewishcongress.org/en/news/wjc-welcomes-council-of-europe-resolution-protecting-circumcision-10-2-2015)  
-- [Times of Israel: Israel Slams Council of Europe Circumcision Ban](https://www.timesofisrael.com/israel-slams-council-of-europe-circumcision-ban/)
+- [The Times of Israel: Israel Slams Council of Europe Circumcision Ban](https://www.timesofisrael.com/israel-slams-council-of-europe-circumcision-ban/)  
+
+---  
+
+**End of Compendium**  
+
+This compilation prioritizes primary legislative texts, court rulings, official organizational statements, and contemporaneous reporting. All major proposals ultimately failed to produce nationwide criminal bans. Religious communities consistently framed age-minimum or prohibition measures as existential threats to Jewish and Muslim continuity in Europe.
