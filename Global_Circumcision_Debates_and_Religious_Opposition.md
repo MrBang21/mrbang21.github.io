@@ -1,151 +1,361 @@
-# Global Debates on Infant & Non-Therapeutic Male Circumcision Bans and Religious Opposition
+# Global Compendium: Legislative, Judicial, and Policy Debates on Non-Therapeutic Male Circumcision and Faith-Based Opposition
 
-While no sovereign state currently enforces an outright criminal ban on non-therapeutic male infant circumcision, several countries have engaged in formal legislative, judicial, or statutory debates regarding bans, moratoria, or minimum-age requirements. 
-
-Below is a comprehensive breakdown of every country where a ban or age limit has been officially proposed in parliament, recommended by state advisory bodies, subjected to judicial rulings, or enacted into statutory law, followed by the organized opposition from Jewish and Muslim advocacy groups.
+This document compiles every sovereign state, regional jurisdiction, and supranational body that has formally introduced, debated, litigated, or codified bans, moratoria, public health exclusions, or statutory age minimums on infant and non-therapeutic male circumcision. It details the legislative initiatives, judicial rulings, and medical policy papers alongside the specific legal, theological, and civil rights objections raised by Jewish and Muslim communities, complete with documented primary quotes and institutional source links.
 
 ---
 
-## Part 1: Country-by-Country Legislative & Judicial Breakdown
+## 1. Iceland
 
-### 1. Iceland
-* **The Debate:** In February 2018, Member of Parliament Silja Dögg Gunnarsdóttir (Progressive Party), alongside cross-party co-sponsors, introduced a bill to the Icelandic Parliament (*Alþingi*) to amend Article 218 of the General Penal Code. 
-* **The Proposal:** The bill proposed criminalizing non-therapeutic circumcision on boys under the age of 18, classifying it identically to female genital mutilation (banned in Iceland in 2005) and penalizing violators with up to six years of imprisonment.
-* **Outcome:** Following pushback from international human rights bodies, foreign governments, and religious organizations, the bill stalled in the Judicial Affairs and Education Committee and was ultimately dropped.
-* **Official Document:** [Alþingi Bill 183 (148th Legislative Session) – Bann við umskurði drengja](https://www.althingi.is/altext/148/s/0183.html)
+### Background and Legislative Action
+In February 2018, Member of Parliament Silja Dögg Gunnarsdóttir (Progressive Party), supported by co-sponsors across multiple parties, introduced **Bill 183 (148th Legislative Session)** in the Icelandic Parliament (*Alþingi*). The bill proposed amending Article 218 of the Icelandic General Penal Code (*Almenn hegningarlög nr. 19/1940*) to criminalize non-therapeutic circumcision of males under 18 years of age. 
 
-### 2. Denmark
-* **The Debate:** In 2018, a Danish national citizen initiative (*borgerforslag*) petitioned the Danish Parliament (*Folketinget*) to establish an 18-year minimum age limit for non-therapeutic circumcision. The petition garnered over 54,000 signatures, crossing the statutory threshold required to force a parliamentary vote.
-* **The Proposal:** The proposal sought to amend the Danish Penal Code (§ 245a) and Health Act (§ 17) to ensure that parental proxy consent cannot be granted for surgical alterations of healthy children's genitals without direct medical indication.
-* **Outcome:** The motion was formally debated under Parliamentary Resolution B 272. In May 2021, the *Folketing* voted against enacting a ban, citing religious freedom and diplomatic concerns, despite the Danish Medical Association (*Lægeforeningen*) publicly maintaining that non-therapeutic circumcision of minors is ethically indefensible.
-* **Official Document:** [Folketing Citizen Proposal FT-00124: Indførelse af 18 års mindstealder for omskæring af raske børn](https://www.borgerforslag.dk/se-og-stoet-forslag/?Id=FT-00124)
+The bill categorized the removal of all or part of a healthy minor boy's sexual organs under the same legal threshold as Female Genital Mutilation (criminalized in Iceland in 2005 under § 218a), punishable by up to six years of imprisonment. Gunnarsdóttir argued that while parents have rights regarding faith, a child’s right to bodily integrity under the United Nations Convention on the Rights of the Child (UNCRC) must take legal precedence. The bill stalled in the Judicial Affairs and Education Committee and lapsed without reaching a final plenary vote following coordinated international diplomatic and interfaith resistance.
 
-### 3. Germany
-* **The Debate:** In May 2012, the Cologne Regional Court (*Landgericht Köln*, Az. 151 Ns 169/11) ruled that performing non-therapeutic circumcision on a young male child constituted unlawful bodily harm (*Körperverletzung*), stating that parental rights and religious freedom do not override a child's fundamental right to bodily integrity.
-* **The Proposal:** The ruling initiated a national legislative crisis. Pediatric groups, child welfare organizations, and several opposition MPs called for an age limit (postponing the procedure until age 14 or 18).
-* **Outcome:** The German Bundestag intervened to restore legal certainty. In December 2012, the federal government enacted § 1631d of the German Civil Code (*BGB*), explicitly legalizing parental consent for ritual male circumcision under certified medical standards and formally rejecting a ban.
-* **Official Document:** [German Bundestag Legislative Documentation: Drucksache 17/11295](https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-den-umfang-der-personensorge-bei-einer-beschneidung-des/47943)
+### Jewish and Muslim Community Responses & Threats
+Jewish organizations globally condemned the measure, emphasizing that an outright ban would make permanent Jewish life in Iceland legally impossible. Because Jewish law (*Halakha*) mandates *Brit Milah* on the eighth day of an infant boy's life, an 18-year age minimum acts as a de facto exclusion of practicing Jewish families from the territory. Muslim groups warned that criminalization would set an anti-pluralist precedent in Europe, delegitimizing *Khitan* (an established prophetic tradition / *Sunnah*) and fostering Islamophobic state control.
 
-### 4. Belgium
-* **The Debate:** In 2017, the Belgian Federal Advisory Committee on Bioethics (*Comité consultatif de Bioéthique de Belgique*) completed a comprehensive ethical review of non-therapeutic circumcision of minors.
-* **The Proposal:** In Advisory Opinion No. 70, the committee unanimously concluded that the physical integrity of a child takes precedence over parental religious preferences. It advised the federal government to reconsider the legality of performing the procedure on non-consenting minors and recommended an immediate halt to public health insurance (INAMI/RIZIV) reimbursements for non-medical circumcisions.
-* **Outcome:** Federal Minister of Social Affairs and Health Maggie De Block declined to pursue a criminal ban, but public funding rules were tightened.
-* **Official Document:** [Belgian Federal Advisory Committee on Bioethics: Avis n° 70](https://news.belgium.be/fr/lavis-ndeg70-relatif-aux-aspects-ethiques-de-la-circoncision-non-medicale)
-
-### 5. Slovenia
-* **The Debate:** In February 2012, the Human Rights Ombudsman of the Republic of Slovenia (*Varuh človekovih pravic*) issued a formal constitutional assessment regarding ritual circumcision of boys.
-* **The Proposal:** The Ombudsman ruled that circumcising boys for non-medical reasons constitutes an illegal interference with the child’s bodily integrity under Article 35 of the Slovenian Constitution and violates the UN Convention on the Rights of the Child. The Ombudsman declared the practice to be an impermissible form of physical injury under existing Slovenian criminal statutes.
-* **Outcome:** While the Slovenian Parliament did not create a new standalone penal statute, the Ombudsman's decision led public hospitals across Slovenia to cease performing elective ritual circumcisions.
-* **Official Document:** [Slovenian Human Rights Ombudsman Official Finding](https://arhiv.varuh-rs.si/obravnavane-pobude/primer/obrezovanje-fantkov-iz-nemedicinskih-razlogov-je-krsitev-otrokovih-pravic/)
-
-### 6. Sweden
-* **The Debate:** Sweden passed the Act concerning Circumcision of Boys (*Lag 2001:499*) in 2001, which restricted circumcision of minors to licensed doctors or mohels licensed by the National Board of Health and Welfare (*Socialstyrelsen*), mandating clinical pain relief.
-* **The Proposal:** Between 2011 and 2013, the Swedish Children’s Ombudsman (*Barnombudsmannen*) and the Swedish Medical Association (*Läkarförbundet*) demanded that Swedish law be amended to require the boy's personal informed consent, effectively calling for a ban on minors. In October 2018, the Sweden Democrats submitted a parliamentary motion to ban non-therapeutic circumcision of minors, followed in 2019 by a vote at the Centre Party's national congress in favor of an under-18 ban.
-* **Outcome:** The Swedish Parliament (*Riksdag*) did not advance the motions into law, leaving the 2001 regulatory framework in place.
-* **Official Document:** [Sveriges Riksdag: Lag (2001:499) om omskärelse av pojkar](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2001499-om-omskarelse-av-pojkar_sfs-2001-499/)
-
-### 7. Norway
-* **The Debate:** Between 2011 and 2014, the Norwegian Children’s Ombudsman (*Barneombudet*) campaigned to establish a statutory minimum age (proposing ages 15 or 18) for non-therapeutic circumcision. 
-* **The Proposal:** In May 2017, the Progress Party (*Fremskrittspartiet* – FrP), then a coalition governing party, voted at its national party convention to support an outright ban on circumcision for boys under 16. The Centre Party (*Senterpartiet*) similarly supported a minimum age of 18.
-* **Outcome:** In 2014, the Norwegian Parliament (*Stortinget*) rejected an age limit and instead passed the *Act on Ritual Circumcision of Boys*, which required regional public health trusts to offer the service with anesthesia to keep it within safe clinical environments.
-* **Official Document:** [Nordic Ombudspersons for Children: Joint Resolution](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html)
-
-### 8. Finland
-* **The Debate:** In 2014, Finnish lawmakers gathered cross-party support to draft legislation prohibiting the non-medical circumcision of boys. 
-* **The Proposal:** In November 2020, during the Finnish Parliament's committee review of a bill criminalizing Female Genital Mutilation, an amendment was submitted proposing to expand the statutory protection to outlaw or restrict non-medical circumcision of male minors.
-* **Outcome:** The amendment addressing male circumcision was removed by lawmakers before final passage of the FGM legislation due to legal complexities and freedom-of-religion considerations.
-
-### 9. Netherlands
-* **The Debate:** In 2010, the Royal Dutch Medical Association (*KNMG*) issued a major policy paper on non-therapeutic circumcision of male minors.
-* **The Proposal:** The KNMG declared the procedure an unjustifiable violation of a child's bodily integrity and autonomy. The association called for a strict policy of deterrence and urged that if self-regulation and medical discouragement failed, a legal ban should be pursued.
-* **Outcome:** While parliamentary parties (such as the Christian Union in earlier sessions and several political youth wings) debated statutory limits, the Dutch Ministry of Health opted for guidance and information campaigns over a legislative prohibition.
-* **Official Document:** [KNMG Policy Document](https://www.knmg.nl/download/knmg-viewpoint-non-therapeutic-circumcision-of-male-minors)
-
-### 10. South Africa
-* **The Debate & Legal Ban:** South Africa has an active statutory restriction governing non-therapeutic circumcision of minors.
-* **The Law:** Under **Section 12 of the Children's Act No. 38 of 2005**, male circumcision of children under the age of 16 is explicitly prohibited by law, unless it is performed for specific religious purposes or for medical reasons certified by a medical practitioner. For youths aged 16 and 17, circumcision is only permitted with the boy's own informed consent following formal counseling.
-* **Outcome:** In 2009, the Eastern Cape High Court at Bhisho (sitting as an Equality Court) ruled that forced cultural circumcision of boys without their personal consent is unlawful.
-
-### 11. United States (Local/Municipal Initiatives)
-* **The Debate:** In 2011, municipal ballot initiatives were launched by genital autonomy activists in California.
-* **The Proposal:** In San Francisco, an initiative successfully collected sufficient signatures to qualify for the November 2011 city ballot, proposing to make circumcising a male under 18 a misdemeanor offense punishable by up to a year in county jail (with a sister initiative attempted in Santa Monica).
-* **Outcome:** In July 2011, a California Superior Court judge struck the measure from the ballot, ruling that California state law preempts local municipalities from regulating medical procedures. California Governor Jerry Brown subsequently signed **Assembly Bill 768**, preemptively forbidding any city or county in California from passing laws that restrict circumcision.
-
-### 12. Australia
-* **The Debate:** Beginning in 2007, health authorities and medical advisory boards across Australian states debated the role of public resources in performing non-therapeutic infant procedures.
-* **The Policy Ban:** Between 2007 and 2009, public hospital networks in every Australian state and territory (including New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania) banned elective, non-therapeutic infant male circumcision within public healthcare facilities. 
-* **Outcome:** While the procedure remains legal in private clinics, public health referrals for non-therapeutic circumcision on infants without pathology are prohibited nationwide.
-
-### 13. Austria & Switzerland
-* **The Debate:** Following the June 2012 German court ruling, both nations experienced administrative moratoria.
-* **Austria:** In July 2012, the Governor of Vorarlberg directed state hospitals to suspend non-medical circumcisions pending legal clarification, with hospitals in Vienna and Graz reviewing their practices. The Austrian Ministry of Justice subsequently issued a legal opinion stating that religious circumcision remains lawful under parental proxy consent.
-* **Switzerland:** In July 2012, the University Children's Hospital Zurich temporarily suspended ritual circumcisions to assess criminal liability. The Swiss Federal Council later confirmed that existing family law permitted parents to authorize the procedure provided standard medical care was observed.
-
-### 14. Council of Europe (Supranational)
-* **The Resolution:** In October 2013, the Parliamentary Assembly of the Council of Europe (PACE) adopted **Resolution 1952 (2013)** titled *"Children’s right to physical integrity"*.
-* **The Scope:** The resolution categorized non-medically justified circumcision of young boys alongside female genital mutilation and non-consensual intersex surgery, calling upon member states to define conditions ensuring that non-therapeutic interventions are not carried out until a child is of sufficient age to be consulted.
-
----
-
-## Part 2: Religious Opposition & Advocacy Groups
-
-Jewish and Muslim advocacy groups and leadership councils have consistently unified to oppose proposed bans or age limits on male circumcision across Europe. Rather than viewing it as a minor regulatory issue, these communities consider circumcision bans an existential threat to religious pluralism.
-
-### Key Groups Opposing Legislation
-* **Joint Nordic Jewish Communities:** Representing Jewish communities in Denmark, Norway, Finland, and Sweden.
-* **The Central Council of Jews in Germany & The Central Council of Muslims in Germany (ZMD):** Formed a unified front against the 2012 Cologne court ruling.
-* **European Jewish Association (EJA):** A prominent advocacy group that lobbied extensively during the Belgian and Scandinavian debates.
-* **Interfaith Coalitions in Denmark:** Joint working groups of the Jewish Society in Denmark and various Danish Islamic organizations.
-* **Conference of European Rabbis (CER):** Mobilized European governments against bans under the leadership of Rabbi Pinchas Goldschmidt.
-
-### Core Arguments Against Bans
-1. **Extinction of Jewish and Muslim Life:** Circumcision on the eighth day (*Brit Milah*) is an immutable covenant in Judaism, and male circumcision (*Khitan*) is a central religious tradition (*Sunnah*) in Islam. Delaying to age 18 is religiously invalid. An age-based ban acts as an effective expulsion, forcing observant families to leave or preventing them from settling.
-2. **Historical Echoes of Persecution:** State-mandated bans on circumcision in Europe historically occurred only under oppressive totalitarian regimes (e.g., the Soviet Union). Leaders warn that anti-circumcision debates are often driven by Islamophobia and anti-Semitism masked as secular humanism.
-3. **Violation of International Human Rights:** Groups cite Article 9 of the European Convention on Human Rights (ECHR) and Article 18 of the UN International Covenant on Civil and Political Rights, arguing that overriding parental rights to transmit religious identity sets a dangerous precedent for state control over familial and religious life.
-4. **Public Health Risks:** Outlawing the procedure within standard healthcare systems drives parents to unregulated, "back-alley" practitioners, or forces them to travel abroad for "circumcision tourism" with no medical oversight, ultimately endangering children.
-
----
-
-## Part 3: Verbatim Quotes and Warnings
-
-### The Central Quote on Jews Being "No Longer Welcome"
-The explicit declaration that a circumcision ban signals an expulsion of Jewish life originated in an **Open Letter from European Jewish Leaders** issued by the **European Jewish Association (EJA)** and its chairman, Rabbi Menachem Margolin, responding to restrictions in Belgium:
-
-> *"We remind Belgium that Freedom of religion is a fundamental right. This decision stands in direct contradiction to it. **The message being sent here is clear: Jews are no longer welcome in Belgium. And Belgian Jews are now second-class citizens with limited rights.** ... All the words of politicians about the importance of Jewish life in Europe mean nothing if they do not act immediately to stop this injustice. We urge them and the Belgian Government to stop this madness. Circumcision is not a crime."*
-
-In an accompanying declaration, Rabbi Margolin compared the legal logic directly to pre-Holocaust persecution:
-
-> *"Another red line has been crossed. This prosecution is antisemitic in nature. Not borderline, not ambiguous, but antisemitic. It is a clear attempt to misuse irrelevant constitutional provisions in order to effectively ban circumcision, **in a manner reminiscent of efforts taken in Europe against Jewish practice prior to the Second World War. Not similar. Not comparable. Identical in its logic of restriction.**"*
-
-### Extreme Warnings by Region
-
-#### Germany: Existential Threats to the Community (2012)
-* **Rabbi Pinchas Goldschmidt (President, Conference of European Rabbis):**
-  > *"Calling it the **'worst attack on Jewish life since the Holocaust,'** the Conference of European Rabbis strongly condemned a recent German court decision... If the ruling is allowed to stand, then **I don't see a future for Jews in Germany.** It is an existential question for the Jewish community in Germany."*
-
-* **Dieter Graumann (President, Central Council of Jews in Germany):**
-  > *"I always readily carried this burden because I was firmly convinced that this country and these people deserved it. Now, for the first time my basic convictions are starting to shake. For the first time I feel resignation. **I seriously ask if the country still wants us.**"*
-
-* **Aiman Mazyek (The Central Council of Muslims in Germany):**
-  > Condemned the ruling as a *"blatant and inadmissible interference"* and warned it would push families into *"unregulated, dangerous back-alley procedures or force them abroad to protect their faith."*
-
-#### Denmark: "The Worst Threat Since World War II" (2018–2021)
-* **Henri Goldstein (President of The Jewish Community in Denmark):**
-  > *"The legislation is **the worst threat since World War II as far as Danish Jews are concerned.** Circumcision is absolutely essential for being Jewish... It is an existential threat to our continued existence in this country."*
-
-* **Dan Rosenberg Asmussen (Former Chairman of the Jewish Community in Denmark):**
-  > *"If a ban is introduced in Denmark, it would mean that Jewish life in Denmark is completely closed down. You cannot live a Jewish life without circumcising your boys on the eighth day. It is an ultimatum."*
-
-#### Iceland: Attacking Judaism Worldwide (2018)
-* **Joint Declaration of Nordic Jewish Communities:**
-  > *"Banning Brit Milah will be an effective deterrent and will guarantee that no Jewish community will ever be established in Iceland. ... The reason this concerns us is that **you are about to attack Judaism in a way that concerns Jews all over the world.** You will be the only country to ban one of the most central rites of our religion."*
-
-* **Rabbi Menachem Margolin (European Jewish Association):**
+### Direct Quotes
+* **Joint Nordic Jewish Communities (Official Letter to the Alþingi, 2018):**
+  > *"Banning Brit Milah will be an effective deterrent and will guarantee that no Jewish community will ever be established in Iceland. ... The reason this concerns us is that you are about to attack Judaism in a way that concerns Jews all over the world. You will be the only country to ban one of the most central rites of our religion."*
+* **Rabbi Menachem Margolin (Chairman, European Jewish Association):**
   > *"Iceland would make itself the first modern democracy to outlaw a foundational Jewish practice. It sends an undeniable signal of intolerance that will isolate Iceland internationally and bar Jewish families from ever calling Iceland their home."*
 
-#### International Muslim Authorities
-* **Mehmet Görmez (President of the Turkish Directorate of Religious Affairs / Diyanet):**
-  > *"No secular court or legal authority possesses the right to place foundational religious obligations on trial. Treating an essential tenet of Abrahamic religions—practiced safely for millennia—as a criminal assault is a manifestation of an aggressive secular fundamentalism that seeks to eradicate Islamic identity from Europe."*
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Alþingi Bill 183 (148th Session): Bann við umskurði drengja](https://www.althingi.is/altext/148/s/0183.html)
+2. [Alþingi Parliamentary Proceedings & 1st Reading Debate Records](https://www.althingi.is/altext/148/02/l08184709.sgml)
+3. [Alþingi Committee Case File 413: Ministry of Foreign Affairs Briefing](https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/148/413/?ltg=148&mnr=413)
 
+*Counter-Ban / Opposition Statements:*
+4. [Joint Nordic Jewish Communities Statement on Iceland's Legislation](https://eurojewcong.org/news/communities-news/joint-statement-nordic-jewish-communities-concerning-proposed-anti-circumcision-legislation-iceland/)
+5. [European Jewish Association Official Policy Statements on Nordic Bans](https://ejassociation.eu/statements/)
+6. [Anti-Defamation League (ADL) International Advocacy Letter to Iceland](https://www.adl.org)
+7. [World Jewish Congress (WJC) Diplomatic Interventions on Iceland](https://www.worldjewishcongress.org)
+
+---
+
+## 2. Denmark
+
+### Background and Legislative Action
+In 2018, Danish citizen group *Intakt Danmark* launched a national citizens' initiative (*Borgerforslag FT-00124*) titled *"Indførelse af 18 års mindstealder for omskæring af raske børn"* (Introduction of an 18-year minimum age for circumcision of healthy children). The proposal gathered over 54,000 verified signatures, forcing the Danish Parliament (*Folketinget*) to formally register and debate the bill (Resolution B 7 / B 272). The initiative proposed amending the Danish Penal Code (§ 245a) to make the excision of healthy genital tissue on minors an offense punishable by up to six years in prison, while modifying the Health Act (§ 17) to prohibit parental proxy consent for non-therapeutic interventions.
+
+The Danish Medical Association (*Lægeforeningen*) endorsed the principle, maintaining that non-therapeutic circumcision of boys without informed personal consent is ethically untenable. Danish political party leaders (including the Social Democrats, Liberals, and Conservatives) warned of severe diplomatic, economic, and security repercussions reminiscent of the 2005 cartoon controversy, and the *Folketing* voted against the ban in May 2021.
+
+### Jewish and Muslim Community Responses & Threats
+The Danish Jewish Community (*Det Jødiske Samfund i Danmark*) and prominent Danish Muslim organizations formed an unprecedented united coalition. Community leaders framed the initiative as the single greatest threat to Danish Jewry since Nazi occupation, emphasizing that observant Jews and Muslims would be forced to flee or surrender their faith. The groups stressed that forcing families underground would drive parents to seek unqualified underground operators or travel abroad.
+
+### Direct Quotes
+* **Henri Goldstein (President, Det Jødiske Samfund i Danmark):**
+  > *"The legislation is the worst threat since World War II as far as Danish Jews are concerned. Circumcision is absolutely essential for being Jewish... It is an existential threat to our continued existence in this country."*
+* **Dan Rosenberg Asmussen (Former Chairman, Det Jødiske Samfund i Danmark):**
+  > *"If a ban is introduced in Denmark, it would mean that Jewish life in Denmark is completely closed down. You cannot live a Jewish life without circumcising your boys on the eighth day. It is an ultimatum."*
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Borgerforslag FT-00124: Indførelse af 18 års mindstealder for omskæring af raske børn](https://www.borgerforslag.dk/se-og-stoet-forslag/?Id=FT-00124)
+2. [Folketinget Resolution B 7: Official Parliamentary Consideration](https://www.ft.dk/samling/20201/beslutningsforslag/B7/baggrund.htm)
+3. [Lægeforeningen (Danish Medical Association) Ethical Policy on Circumcision](https://www.laeger.dk)
+4. [Børnerådet (Danish National Council for Children) Position Paper](https://www.boerneraad.dk)
+
+*Counter-Ban / Opposition Statements:*
+5. [Det Jødiske Samfund i Danmark Official Archive and Defense of Brit Milah](https://mosaiske.dk)
+6. [U.S. Department of State International Religious Freedom Report: Denmark](https://www.state.gov/wp-content/uploads/2019/05/DENMARK-2018-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf)
+7. [European Jewish Congress (EJC) Documentation on Danish Parliamentary Debates](https://eurojewcong.org)
+8. [Muslim Council of Denmark Press Statements on Religious Freedom](https://www.vakil.dk)
+
+---
+
+## 3. Germany
+
+### Background and Legislative Action
+On May 7, 2012, the Cologne Regional Court (*Landgericht Köln*, Az. 151 Ns 169/11) ruled on a case involving a four-year-old Muslim boy who suffered post-operative bleeding following a religious circumcision by a licensed physician. The court determined that non-therapeutic circumcision performed on a minor constitutes unlawful physical harm / assault (*rechtswidrige Körperverletzung* under § 223 StGB). The court held that a child's fundamental right to bodily integrity and self-determination (*Recht auf körperliche Unversehrtheit*, Art. 2 Basic Law) supersedes parental rights (Art. 6 Basic Law) and religious freedom (Art. 4 Basic Law).
+
+The ruling brought non-therapeutic circumcisions across Germany to a sudden halt as medical facilities and doctors refused to perform the operation out of fear of prosecution. In response, 66 opposition MPs submitted a motion demanding a minimum age of 14. To prevent systemic legal paralysis and protect religious minorities, the German Federal Government (*Bundesregierung*) drafted emergency legislation. On December 12, 2012, the *Bundestag* passed **§ 1631d of the German Civil Code (*BGB*)**, formally enshrining parental proxy consent for male infant circumcision provided the procedure is performed within certified medical and hygienic standards.
+
+### Jewish and Muslim Community Responses & Threats
+The Cologne ruling triggered an unprecedented joint defense by German Jewish and Muslim leaders. Major bodies—including the Central Council of Jews in Germany, the Central Council of Muslims in Germany, and the Conference of European Rabbis—issued furious public condemnations. They argued that Germany’s judicial system had effectively criminalized Abrahamic identity, warning that German society was communicating that Jews and Muslims were no longer compatible with the German republic.
+
+### Direct Quotes
+* **Rabbi Pinchas Goldschmidt (President, Conference of European Rabbis):**
+  > *"Calling it the 'worst attack on Jewish life since the Holocaust,' the Conference of European Rabbis strongly condemned a recent German court decision... If the ruling is allowed to stand, then I don't see a future for Jews in Germany. It is an existential question for the Jewish community in Germany."*
+* **Dieter Graumann (President, Central Council of Jews in Germany):**
+  > *"I always readily carried this burden because I was firmly convinced that this country and these people deserved it. Now, for the first time my basic convictions are starting to shake. For the first time I feel resignation. I seriously ask if the country still wants us."*
+* **Aiman Mazyek (Chairman, Central Council of Muslims in Germany - ZMD):**
+  > Condemned the ruling as a *"blatant and inadmissible interference"* in fundamental religious freedom and parental autonomy, warning that criminalizing circumcision would alienate millions of law-abiding citizens and *"inevitably push families into unregulated, dangerous back-alley procedures or force them abroad to protect their faith."*
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Landgericht Köln Ruling (Az. 151 Ns 169/11) - Full Text Archive](https://openjur.de/u/415516.html)
+2. [Deutscher Bundestag Drucksache 17/11295: Gesetzentwurf zur Beschneidung](https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-den-umfang-der-personensorge-bei-einer-beschneidung-des/47943?f.deskriptor=Beschneidung&rows=25&pos=1&ctx=d)
+3. [Deutscher Bundestag Plenarprotokoll: Dec 12, 2012 Passage of § 1631d BGB](https://www.bundestag.de/webarchiv/textarchiv/2012/41964402_kw50_sp_beschneidung-210212)
+4. [German Ethics Council (Deutscher Ethikrat) Formal Assessment on Circumcision](https://www.ethikrat.org/en/press-releases/press-releases/2012/german-ethics-council-presents-statement-on-circumcision/)
+
+*Counter-Ban / Opposition Statements:*
+5. [Central Council of Jews in Germany (Zentralrat der Juden) Press Archives](https://www.zentralratderjuden.de)
+6. [Central Council of Muslims in Germany (Zentralrat der Muslime in Deutschland) Statements](https://islam.de)
+7. [Conference of European Rabbis (CER) Berlin Emergency Summit Manifestos](https://cer-online.org)
+8. [Journal of Medical Ethics / BMJ: Religious Circumcision and the Law in Germany](https://jme.bmj.com/content/39/1/62.full.pdf)
+
+---
+
+## 4. Belgium
+
+### Background and Legislative Action
+In 2017, the Belgian Federal Advisory Committee on Bioethics (*Comité consultatif de Bioéthique de Belgique*) issued **Advisory Opinion No. 70 (*Avis n° 70*)**, titled *"Avis relatif aux aspects éthiques de la circoncision non médicale"*. The advisory committee unanimously concluded that the non-medical circumcision of male minors infringes upon a child's bodily integrity and personal autonomy. 
+
+The committee recommended that the federal government re-evaluate whether non-therapeutic infant circumcision should be permitted without personal informed consent. It strongly recommended an immediate cessation of all national health insurance reimbursement (INAMI/RIZIV) for non-medical circumcisions to ensure public funds do not subsidize the practice. The Federal Minister for Social Affairs and Public Health, Maggie De Block, tightened billing rules but rejected an absolute criminal ban.
+
+### Jewish and Muslim Community Responses & Threats
+Jewish organizations, specifically the European Jewish Association (EJA) headquartered in Brussels, characterized legal efforts to ban circumcision or prosecute mohels as a direct breach of the European Convention on Human Rights (ECHR). Community representatives warned that eliminating access to ritual circumcision creates an explicitly hostile state environment that marks minority groups as second-class citizens.
+
+### Direct Quotes
+* **Open Letter from European Jewish Leaders to the Governments of Europe, Belgium, and EU Institutions (Rabbi Menachem Margolin, EJA):**
+  > *"We remind Belgium that Freedom of religion is a fundamental right. This decision stands in direct contradiction to it. **The message being sent here is clear: Jews are no longer welcome in Belgium. And Belgian Jews are now second-class citizens with limited rights.** ... All the words of politicians about the importance of Jewish life in Europe mean nothing if they do not act immediately to stop this injustice. We urge them and the Belgian Government to stop this madness. Circumcision is not a crime."*
+* **Rabbi Menachem Margolin on Legal Prosecutions & Measures:**
+  > *"Another red line has been crossed. This prosecution is antisemitic in nature. Not borderline, not ambiguous, but antisemitic. It is a clear attempt to misuse irrelevant constitutional provisions in order to effectively ban circumcision, in a manner reminiscent of efforts taken in Europe against Jewish practice prior to the Second World War. Not similar. Not comparable. Identical in its logic of restriction."*
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Comité consultatif de Bioéthique de Belgique: Avis n° 70](https://news.belgium.be/fr/lavis-ndeg70-relatif-aux-aspects-ethiques-de-la-circoncision-non-medicale)
+2. [INAMI / RIZIV Federal Healthcare Nomenclature Directives](https://www.riziv.fgov.be)
+
+*Counter-Ban / Opposition Statements:*
+3. [European Jewish Association (EJA) Official Declarations](https://ejassociation.eu/statements/)
+4. [Consistoire Central Israélite de Belgique (Central Jewish Consistory of Belgium)](https://www.jewishcom.be)
+5. [Executive of Muslims in Belgium (Exécutif des Musulmans de Belgique)](https://www.embnet.be)
+
+---
+
+## 5. Slovenia
+
+### Background and Legislative Action
+In February 2012, the Human Rights Ombudsman of the Republic of Slovenia (*Varuh človekovih pravic*) issued a formal constitutional ruling on ritual circumcision of young boys (*Obrezovanje fantkov iz nemedicinskih razlogov je kršitev otrokovih pravic*). The Ombudsman ruled that performing non-therapeutic circumcision on boys unable to grant consent violates Article 35 (Protection of Right to Personal Dignity and Safety) and Article 56 (Rights of Children) of the Slovenian Constitution, as well as the UN Convention on the Rights of the Child. 
+
+The Ombudsman declared that religious ritual does not justify inflicting permanent physical alteration or bodily injury. Consequently, Slovenian state medical facilities and public hospitals halted the elective performance of ritual circumcisions.
+
+### Jewish and Muslim Community Responses & Threats
+The Islamic Community in the Republic of Slovenia (*Islamska skupnost v Republiki Sloveniji*) and the Jewish Community of Slovenia protested the Ombudsman's interpretation. Mufti Nedžad Grabus and regional Jewish representatives warned that classifying ancient religious rites as criminal bodily harm effectively criminalized normal family life for two established religious traditions. Leaders stressed that parents would seek unregulated surgical services in neighboring countries or use illicit back-room operators within Slovenia.
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Slovenian Human Rights Ombudsman (Varuh): Official Case Assessment on Child Circumcision](https://arhiv.varuh-rs.si/obravnavane-pobude/primer/obrezovanje-fantkov-iz-nemedicinskih-razlogov-je-krsitev-otrokovih-pravic/)
+2. [Constitution of the Republic of Slovenia (Articles 35 and 56)](https://www.us-rs.si/en/about-the-court/legal-basis/constitution/)
+
+*Counter-Ban / Opposition Statements:*
+3. [Islamska Skupnost v Republiki Sloveniji Official Statements](https://islamska-skupnost.si)
+4. [Judovska Skupnost Slovenije (Jewish Community of Slovenia) Archive](https://judovska-skupnost.si)
+5. [European Jewish Congress Intervention in Slovenia](https://eurojewcong.org)
+
+---
+
+## 6. Sweden
+
+### Background and Legislative Action
+In 2001, Sweden enacted the **Act concerning Circumcision of Boys (*Lag 2001:499 om omskärelse av pojkar*)**. This statute mandated that circumcision on boys under two months must be performed with pain relief and by a licensed medical professional, or by a ritual practitioner (*mohel*) certified by the National Board of Health and Welfare (*Socialstyrelsen*).
+
+Between 2011 and 2013, the Swedish Children's Ombudsman (*Barnombudsmannen*) and the Swedish Medical Association (*Läkarförbundet*) demanded that Swedish law be amended to establish a complete ban on performing the procedure without the personal, informed consent of the minor. In 2018, the Sweden Democrats (*Sverigedemokraterna*) submitted a parliamentary motion in the *Riksdag* demanding a total ban on non-therapeutic circumcision for minors. In 2019, the Centre Party (*Centerpartiet*) passed a national party congress resolution endorsing an 18-year age minimum, though party leadership subsequently walked back support for criminal legislation following immediate backlash.
+
+### Jewish and Muslim Community Responses & Threats
+The Official Council of Swedish Jewish Communities (*Judiska Centralrådet*) and Muslim federations stated that a ban would directly end Jewish life in Sweden. The community emphasized that Sweden would become the first Western nation since World War II to effectively purge its Jewish population through statutory interference with foundational covenantal duties.
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Sveriges Riksdag: Lag (2001:499) om omskärelse av pojkar](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2001499-om-omskarelse-av-pojkar_sfs-2001-499/)
+2. [Barnombudsmannen & Nordic Ombudsmen Joint Resolution](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html)
+3. [Sveriges Läkarförbund (Swedish Medical Association) Policy Resolution](https://slf.se)
+
+*Counter-Ban / Opposition Statements:*
+4. [Judiska Centralrådet i Sverige (Council of Swedish Jewish Communities)](https://judiskaradet.se)
+5. [Judiska Församlingen i Stockholm Statements on Bodily Rites](https://jfst.se)
+6. [Islamic Association in Sweden (Islamiska Förbundet i Sverige)](https://www.islamiskaforbundet.se)
+
+---
+
+## 7. Norway
+
+### Background and Legislative Action
+Beginning in 2011, Norwegian Children’s Ombudsman (*Barneombudet*) Anne Lindboe campaigned extensively across Scandinavia to outlaw ritual circumcision on boys under 15 or 18 years of age. In May 2017, the Progress Party (*Fremskrittspartiet* – FrP), then a key member of Norway’s ruling governing coalition, voted at its annual convention to adopt a national platform plank supporting a total ban on non-therapeutic circumcision for boys under the age of 16. The Centre Party (*Senterpartiet*) similarly supported an age limit of 18.
+
+In 2014, the Norwegian Parliament (*Stortinget*) resolved the jurisdictional impasse by passing the **Act on Ritual Circumcision of Boys (*Lov om rituell omskjæring av gutter*, Lov-2014-06-20-40)**. The statute rejected an outright ban or age limit; instead, it obligated regional health authorities to provide access to ritual circumcision within public healthcare infrastructure under sterile conditions with certified anesthesia.
+
+### Jewish and Muslim Community Responses & Threats
+The Jewish Community in Oslo (*Det Mosaiske Trossamfund*) and the Islamic Council of Norway (*Islamsk Råd Norge*) warned that an age-based ban was tantamount to a statutory decree expelling observant religious minorities. Ervin Kohn, former president of the Jewish Community in Oslo, argued that placing an age restriction on *Brit Milah* would make Norway the only country outside the Soviet Union and ancient totalitarian empires to prohibit Jewish families from welcoming newborn boys into their religious heritage.
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Lovdata: Lov om rituell omskjæring av gutter (Lov-2014-06-20-40)](https://lovdata.no/dokument/NL/lov/2014-06-20-40)
+2. [Barneombudet (Norwegian Ombudsman for Children) Recommendations](https://www.barneombudet.no)
+3. [Fremskrittspartiet (FrP) National Platform Debates on Age Limits](https://www.frp.no)
+
+*Counter-Ban / Opposition Statements:*
+4. [Det Mosaiske Trossamfund (Oslo Jewish Community) Position Documents](https://www.dmt.oslo.no)
+5. [Islamsk Råd Norge (Islamic Council of Norway)](https://irn.no)
+6. [European Jewish Congress Statements on Norwegian Legislation](https://eurojewcong.org)
+
+---
+
+## 8. Finland
+
+### Background and Legislative Action
+Finnish judicial precedents regarding male circumcision have historically rested upon Supreme Court decisions (e.g., KKO 2008:93 and KKO 2016:24), which ruled that medically performed ritual circumcision on boys did not constitute criminal assault provided it was carried out properly with parental consent and in accordance with the best interests of the child. 
+
+However, in 2014 and again in November 2020, during parliamentary committee drafting of legislation criminalizing Female Genital Mutilation, cross-party factions within the Finnish Parliament (*Eduskunta*) introduced amendments to encompass non-therapeutic circumcision of young boys. The Finnish Medical Association (*Suomen Lääkäriliitto*) maintained that male non-therapeutic circumcision violates the child's physical integrity. Lawmakers ultimately decoupled male circumcision from the FGM penal bill due to explicit constitutional protections of religious freedom.
+
+### Jewish and Muslim Community Responses & Threats
+The Central Council of Jewish Communities in Finland (*Suomen Juutalaisten Seurakuntien Keskusneuvosto*) and the Islamic Council of Finland (*Suomen Islamilainen Neuvosto*) voiced sharp alarm. Jewish leadership warned that passing statutory restrictions would extinguish an unbroken Jewish presence in Finland dating back to the 19th-century Cantonists.
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [Eduskunta (Finnish Parliament) Committee Records on FGM Legislation](https://www.eduskunta.fi)
+2. [Suomen Lääkäriliitto (Finnish Medical Association) Ethical Guidelines](https://www.laakariliitto.fi)
+3. [Finnish Supreme Court Precedent Case KKO 2016:24](https://korkeinoikeus.fi)
+
+*Counter-Ban / Opposition Statements:*
+4. [Suomen Juutalaisten Seurakuntien Keskusneuvosto (Jewish Community of Helsinki)](https://jchelsinki.fi)
+5. [Suomen Islamilainen Neuvosto (Islamic Council of Finland)](https://sine.fi)
+
+---
+
+## 9. Netherlands
+
+### Background and Legislative Action
+In May 2010, the Royal Dutch Medical Association (*Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst* - KNMG) published an influential policy viewpoint: **"The Non-Therapeutic Circumcision of Male Minors"** (*Niet-therapeutische circumcisie bij minderjarige jongens*). 
+
+The KNMG argued that non-therapeutic circumcision of boys is a medically non-essential, painful surgical procedure that violates a child's bodily integrity and right to self-determination. The KNMG called for a firm policy of deterrence, asserting that doctors should actively dissuade parents from performing the procedure. While noting that an outright criminal ban might drive the practice underground into unsafe conditions, the KNMG called on the government and medical community to pursue progressive restriction and eventual phase-out.
+
+### Jewish and Muslim Community Responses & Threats
+The Dutch-Jewish Community (*Nederlands-Israëlitisch Kerkgenootschap* - NIK) and the Muslim Coordination Organization (*Contactorgaan Moslims en Overheid* - CMO) vigorously opposed the KNMG stance. Leaders emphasized that portraying Abrahamic ritual traditions as mutilation or child abuse demonized over a million Dutch citizens and undermined integration by questioning their basic morality as parents.
+
+### Documentation & Sources
+*Pro-Ban / State Debates:*
+1. [KNMG Policy Document: The Non-Therapeutic Circumcision of Male Minors](https://www.knmg.nl/actueel/dossiers/zorg-voor-mensen-in-een-kwetsbare-positie/jongensbesnijdenis)
+2. [KNMG Publications Archive on Minor Bodily Integrity](https://www.knmg.nl/actueel/publicaties/publicaties-per-onderwerp/circumcisie-jongensbesnijdenis-1)
+
+*Counter-Ban / Opposition Statements:*
+3. [Nederlands-Israëlitisch Kerkgenootschap (NIK) Position Papers](https://nik.nl)
+4. [Contactorgaan Moslims en Overheid (CMO)](https://www.cmo-overheid.nl)
+5. [European Jewish Congress Netherlands Defense Briefs](https://eurojewcong.org)
+
+---
+
+## 10. South Africa
+
+### Background and Statutory Action
+South Africa is one of the few nations with an explicit, statutory prohibition regarding child circumcision written into federal law: **Section 12 of the Children's Act No. 38 of 2005**. 
+
+Under Section 12(8), the circumcision of male children under the age of 16 is prohibited by law, except when performed for specific, recognized religious purposes or for medical reasons certified by a medical doctor. For youth aged 16 and 17 (the traditional age for Xhosa initiation / *Ulwaluko*), circumcision may only be conducted with the boy's personal informed consent in writing (Form 2, General Regulations), prohibiting forced cultural circumcision. In 2009, the Eastern Cape High Court at Bhisho affirmed that forced cultural circumcision of minors without personal consent violates the Bill of Rights.
+
+### Community Perspectives & Adaptations
+While the statutory exemption for religious circumcision insulated Jewish (*Brit Milah*) and Muslim (*Khitan*) communities from criminal prosecution, South African human rights bodies and traditional cultural organizations (such as the Congress of Traditional Leaders of South Africa - CONTRALESA) continuously navigate tensions between the Act, bodily autonomy, and indigenous initiation rites.
+
+### Documentation & Sources
+*Statutory Legislation & Court Judgments:*
+1. [South African Children's Act No. 38 of 2005 - Section 12](https://www.justice.gov.za/legislation/acts/2005-038%20childrensact.pdf)
+2. [Government Gazette Notice R261: General Regulations Regarding Children / Form 2](https://www.justice.gov.za/legislation/notices/2010/20100401_gg33076_noticer261-childrensact-reg.pdf)
+3. [South African Government Information Portal: Children's Rights Overview](https://www.sanews.gov.za/south-africa/international-childrens-day-caring-societys-most-vulnerable)
+4. [Southern African Legal Information Institute (SAFLII) Children's Act Jurisprudence](http://www.saflii.org)
+
+*Community Responses:*
+5. [South African Jewish Board of Deputies (SAJBD)](https://www.sajbd.org)
+6. [Muslim Judicial Council of South Africa (MJC)](https://mjc.org.za)
+7. [Congress of Traditional Leaders of South Africa (CONTRALESA)](https://www.contralesa.org)
+
+---
+
+## 11. United States (Municipal & State Preemption)
+
+### Background and Legislative Action
+In 2011, anti-circumcision activist organizations qualified a ballot measure for the November municipal ballot in San Francisco, California. The proposed municipal ordinance would have made performing a circumcision on a male under 18 within the City and County of San Francisco a misdemeanor criminal offense punishable by a fine of up to $1,000 and one year in county jail, with no exception for religious practice. A similar ballot campaign was initiated in Santa Monica.
+
+In July 2011, California Superior Court Judge Loretta Giorgi struck the measure from the ballot, ruling that the California Business and Professions Code expressly preempts local municipal jurisdictions from regulating lawful medical and surgical procedures. In October 2011, California Governor Jerry Brown signed **Assembly Bill 768 (AB 768)** into law, which established state preemption over circumcision across California and permanently barred any city, county, or local district from enacting restrictions or bans on male circumcision.
+
+### Jewish and Muslim Community Responses & Threats
+A coalition including the Anti-Defamation League (ADL), the American Jewish Committee (AJC), the Council on American-Islamic Relations (CAIR), and legal societies intervened in the litigation. They asserted that a criminal ban directly infringed upon the First Amendment's Free Exercise Clause and characterized the municipal effort as an unconstitutional assault on religious minorities designed to turn parents and doctors into criminals.
+
+### Documentation & Sources
+*Municipal Initiative & Legal Rulings:*
+1. [California Legislative Information: Assembly Bill 768 (AB 768)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120AB768)
+2. [California Superior Court Ruling Preempting San Francisco Circumcision Measure](https://www.courts.ca.gov)
+
+*Opposition & Interfaith Coalitions:*
+3. [Anti-Defamation League (ADL) San Francisco Legal Interventions](https://www.adl.org)
+4. [Council on American-Islamic Relations (CAIR) California Civil Rights Action](https://ca.cair.com)
+5. [American Jewish Committee (AJC) Legal Briefs on Religious Liberty](https://www.ajc.org)
+
+---
+
+## 12. Australia
+
+### Background and Policy Action
+Across Australia, debate did not center on a criminal prohibition, but on systemic public health defunding and service elimination. Between 2007 and 2009, public hospital boards across New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania enacted policy directives banning elective, non-therapeutic infant male circumcision within public healthcare networks. 
+
+The policy shift followed recommendations by the Royal Australasian College of Physicians (RACP), which concluded that the medical evidence was insufficient to warrant routine infant circumcision funded by the public healthcare system. Consequently, the procedure was moved entirely into the private medical sector and community settings.
+
+### Community Perspectives & Responses
+The Executive Council of Australian Jewry (ECAJ) and the Australian Federation of Islamic Councils (AFIC) engaged health authorities to ensure that private ritual practice and accredited community circumcisers (*mohelim*) remained fully protected under state medical regulations, warning against any escalation from hospital procedure elimination to statutory bans.
+
+### Documentation & Sources
+*Public Hospital Bans & Medical Policies:*
+1. [Royal Australasian College of Physicians (RACP): Circumcision Policy](https://www.racp.edu.au)
+2. [NSW Health Policy Directive: Non-Therapeutic Infant Male Circumcision Restriction](https://www.health.nsw.gov.au)
+3. [Queensland Health Guidelines on Circumcision Policy](https://www.health.qld.gov.au)
+
+*Community Advocacy:*
+4. [Executive Council of Australian Jewry (ECAJ) Policy Statements](https://www.ecaj.org.au)
+5. [Australian Federation of Islamic Councils (AFIC)](https://www.afic.com.au)
+
+---
+
+## 13. Austria & Switzerland
+
+### Background and Regulatory Moratoria
+Immediately following the Cologne Regional Court decision in Germany in June 2012, health authorities in Austria and Switzerland initiated immediate administrative suspensions:
+* **Austria:** In July 2012, the Governor of Vorarlberg instructed regional state hospitals to halt all non-therapeutic circumcisions. Hospitals in Vienna and Graz placed the practice under review. The Austrian Ministry of Justice subsequently issued a formal legal assessment confirming that religious circumcision remains fully lawful under parental proxy consent.
+* **Switzerland:** In July 2012, the University Children's Hospital in Zurich suspended ritual circumcisions pending criminal and liability reviews. The Swiss Federal Office of Justice (*Bundesamt für Justiz*) subsequently clarified that the Swiss Civil Code authorizes parents to consent to customary religious circumcision provided standard medical safeguards are followed.
+
+### Community Responses
+The Jewish Community of Vienna (*Israelitische Kultusgemeinde Wien* - IKG), the Islamic Religious Authority in Austria (*Islamische Glaubensgemeinschaft in Österreich* - IGGÖ), and the Swiss Federation of Jewish Communities (*Schweizerischer Israelitischer Gemeindebund* - SIG) rallied against the suspensions, describing hospital moratoria as discriminatory measures that cast immediate stigma over Abrahamic religious traditions.
+
+### Documentation & Sources
+*Official Government & Hospital Files:*
+1. [Austrian Ministry of Justice Legal Guidance on Religious Circumcision](https://www.justiz.gv.at)
+2. [Swiss Federal Office of Justice (BJ) Guidance on Minor Circumcision](https://www.bj.admin.ch)
+3. [Vorarlberg State Government Hospital Policy Directives (July 2012)](https://vorarlberg.at)
+
+*Community Opposition:*
+4. [Israelitische Kultusgemeinde Wien (IKG Vienna)](https://www.ikg-wien.at)
+5. [Islamische Glaubensgemeinschaft in Österreich (IGGÖ)](https://www.derislam.at)
+6. [Schweizerischer Israelitischer Gemeindebund (SIG)](https://www.swissjews.ch)
+7. [Federation of Islamic Organizations in Switzerland (FIOS)](https://fios.ch)
+
+---
+
+## 14. Council of Europe (Supranational)
+
+### Background and Parliamentary Action
+On October 1, 2013, the Parliamentary Assembly of the Council of Europe (PACE) adopted **Resolution 1952 (2013)**, titled *"Children’s right to physical integrity"*. 
+
+Drafted by rapporteur Marlene Rupprecht (Germany), the resolution explicitly grouped the *"circumcision of young boys for religious reasons"* alongside female genital mutilation, forced surgeries on intersex infants, and non-consensual tattoos or piercings. Resolution 1952 called upon Council of Europe member states to initiate public dialogue and define legal provisions ensuring that invasive procedures are not carried out before a child is old enough to be personally consulted. 
+
+In March 2014, the Committee of Ministers of the Council of Europe responded to PACE Recommendation 2023, issuing a clarification that female genital mutilation cannot be equated with religious male circumcision under international law and noting that no further European-wide standard-setting work would be pursued.
+
+### Jewish, Muslim, and Diplomatic Responses
+PACE Resolution 1952 caused severe diplomatic friction. The Israeli Ministry of Foreign Affairs, the Organization of Islamic Cooperation (OIC), and European interfaith councils condemned the resolution as an intolerable attack on freedom of thought, conscience, and religion under Article 9 of the European Convention on Human Rights (ECHR).
+
+### Direct Quotes
+* **Mehmet Görmez (President, Directorate of Religious Affairs / Diyanet, Turkey):**
+  > *"No secular court or legal authority possesses the right to place foundational religious obligations on trial. Treating an essential tenet of Abrahamic religions—practiced safely for millennia—as a criminal assault is a manifestation of an aggressive secular fundamentalism that seeks to eradicate Islamic identity from Europe."*
 * **The European Council for Fatwa and Research (ECFR):**
-  > Concluded that banning circumcision constitutes *"an assault on religious heritage and parental rights that threatens the basic conditions of coexistence between religious minorities and Western states."*
+  > Banning circumcision constitutes *"an assault on religious heritage and parental rights that threatens the basic conditions of coexistence between religious minorities and Western states."*
+
+### Documentation & Sources
+*PACE Official Assembly Proceedings:*
+1. [PACE Resolution 1952 (2013): Children’s Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20174)
+2. [PACE Recommendation 2023 (2013): Children’s Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20176&lang=en)
+3. [Council of Europe Committee of Ministers Official Reply to Recommendation 2023](http://www.assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20583)
+4. [PACE Resolution 2076 (2015): Freedom of Religion and Living Together](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=22199&lang=en)
+
+*Counter-Ban / Institutional Opposition:*
+5. [Conference of European Rabbis (CER) Formal Protest to PACE](https://cer-online.org)
+6. [Organization of Islamic Cooperation (OIC) Permanent Delegation Statements](https://www.oic-oci.org)
+7. [World Jewish Congress Diplomatic Memoranda on PACE Resolution 1952](https://www.worldjewishcongress.org)
