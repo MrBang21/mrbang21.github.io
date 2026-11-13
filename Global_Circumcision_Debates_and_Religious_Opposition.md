@@ -18,11 +18,11 @@ The Dutch-Jewish Community (*Nederlands-Israëlitisch Kerkgenootschap* – NIK) 
 
 ### Documentation & Deep Source Links
 *Pro-Ban / Deterrence Policy:*
-- [KNMG: Viewpoint on Non-Therapeutic Circumcision of Male Minors](https://www.knmg.nl/download/knmg-viewpoint-non-therapeutic-circumcision-of-male-minors) [ [Google](https://www.google.com/search?q="KNMG:+Viewpoint+on+Non-Therapeutic+Circumcision+of+Male+Minors") ]
-- [KNMG: Dossier Jongensbesnijdenis](https://www.knmg.nl/actueel/dossiers/zorg-voor-mensen-in-een-kwetsbare-positie/jongensbesnijdenis) [ [Google](https://www.google.com/search?q="KNMG:+Dossier+Jongensbesnijdenis") ]
+- [KNMG: Viewpoint on Non-Therapeutic Circumcision of Male Minors](https://www.knmg.nl/download/knmg-viewpoint-non-therapeutic-circumcision-of-male-minors) [ [Google](https://www.google.com/search?q=KNMG:+Viewpoint+on+Non-Therapeutic+Circumcision+of+Male+Minors) ]
+- [KNMG: Dossier Jongensbesnijdenis](https://www.knmg.nl/actueel/dossiers/zorg-voor-mensen-in-een-kwetsbare-positie/jongensbesnijdenis) [ [Google](https://www.google.com/search?q=KNMG:+Dossier+Jongensbesnijdenis) ]
 
 *Counter-Ban / Opposition Statements:*
-- [U.S. Department of State: 2011 Report on International Religious Freedom - Netherlands](https://2009-2017.state.gov/j/drl/rls/irf/2011/eur/192845.htm) [ [Google](https://www.google.com/search?q="2011+Report+on+International+Religious+Freedom+-+Netherlands") ]
+- [U.S. Department of State: 2011 Report on International Religious Freedom - Netherlands](https://2009-2017.state.gov/j/drl/rls/irf/2011/eur/192845.htm) [ [Google](https://www.google.com/search?q=2011+Report+on+International+Religious+Freedom+Netherlands) ]
 
 ---
 
@@ -38,11 +38,11 @@ A broad coalition—including the Anti-Defamation League (ADL), the American Jew
 
 ### Documentation & Deep Source Links
 *Ban Measure & Preemption Legislation:*
-- [California Legislative Information: Assembly Bill 768 Complete Bill Text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120AB768) [ [Google](https://www.google.com/search?q="California+Legislative+Information:+Assembly+Bill+768+Complete+Bill+Text") ]
-- [California Senate Committee Analysis: AB 768 Local Regulation of Male Circumcision](http://www.leginfo.ca.gov/pub/11-12/bill/asm/ab_0751-0800/ab_768_cfa_20110822_104137_sen_comm.html) [ [Google](https://www.google.com/search?q="California+Senate+Committee+Analysis:+AB+768+Local+Regulation+of+Male+Circumcision") ]
+- [California Legislative Information: Assembly Bill 768 Complete Bill Text](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201120120AB768) [ [Google](https://www.google.com/search?q=California+Legislative+Information:+Assembly+Bill+768+Complete+Bill+Text) ]
+- [California Senate Committee Analysis: AB 768 Local Regulation of Male Circumcision](http://www.leginfo.ca.gov/pub/11-12/bill/asm/ab_0751-0800/ab_768_cfa_20110822_104137_sen_comm.html) [ [Google](https://www.google.com/search?q=California+Senate+Committee+Analysis:+AB+768+Local+Regulation+of+Male+Circumcision) ]
 
 *Counter-Ban / Coalition Statements:*
-- [CBC News: Circumcision Bill Seeks Rules in California](https://www.cbc.ca/news/health/circumcision-bill-seeks-rules-in-california-1.1085480) [ [Google](https://www.google.com/search?q="Circumcision+Bill+Seeks+Rules+in+California") ]
+- [CBC News: Circumcision Bill Seeks Rules in California](https://www.cbc.ca/news/health/circumcision-bill-seeks-rules-in-california-1.1085480) [ [Google](https://www.google.com/search?q=Circumcision+Bill+Seeks+Rules+in+California) ]
 
 ---
 
@@ -58,12 +58,12 @@ The Jewish Community in Oslo (*Det Mosaiske Trossamfund*) and the Islamic Counci
 
 ### Documentation & Deep Source Links
 *Pro-Ban / Age-Limit Campaigns:*
-- [CRIN: Nordic Ombudspersons Seek Ban on Non-Therapeutic Male Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html) [ [Google](https://www.google.com/search?q="Nordic+Ombudspersons+Seek+Ban+on+Non-Therapeutic+Male+Circumcision") ]
-- [TV2 Norway: Vil ha aldersgrense for omskjæring av gutter](https://www.tv2.no/nyheter/innenriks/vil-ha-aldersgrense-for-omskjaering-av-gutter/13143719/) [ [Google](https://www.google.com/search?q="Vil+ha+aldersgrense+for+omskjæring+av+gutter") ]
+- [CRIN: Nordic Ombudspersons Seek Ban on Non-Therapeutic Male Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html) [ [Google](https://www.google.com/search?q=Nordic+Ombudspersons+Seek+Ban+on+Non-Therapeutic+Male+Circumcision) ]
+- [TV2 Norway: Vil ha aldersgrense for omskjæring av gutter](https://www.tv2.no/nyheter/innenriks/vil-ha-aldersgrense-for-omskjaering-av-gutter/13143719/) [ [Google](https://www.google.com/search?q=Vil+ha+aldersgrense+for+omskjæring+av+gutter) ]
 
 *Counter-Ban / Opposition Statements:*
-- [European Jewish Congress: Norwegian Socialist Party Split on Whether to Back Circumcision Ban](https://eurojewcong.org/news/communities-news/norway/norwegian-socialist-party-split-on-whether-to-back-circumcision-ban/) [ [Google](https://www.google.com/search?q="Norwegian+Socialist+Party+Split+on+Whether+to+Back+Circumcision+Ban") ]
-- [World Jewish Congress: On UNHRC Floor, WJC Urges Council to Reaffirm Jewish Right to Circumcision](https://www.worldjewishcongress.org/en/news/on-unhrc-floor-wjc-urges-council-to-reaffirm-jewish-right-to-circumcision-and-ritual-slaughter-9-2-2017) [ [Google](https://www.google.com/search?q="WJC+Urges+Council+to+Reaffirm+Jewish+Right+to+Circumcision") ]
+- [European Jewish Congress: Norwegian Socialist Party Split on Whether to Back Circumcision Ban](https://eurojewcong.org/news/communities-news/norway/norwegian-socialist-party-split-on-whether-to-back-circumcision-ban/) [ [Google](https://www.google.com/search?q=Norwegian+Socialist+Party+Split+on+Whether+to+Back+Circumcision+Ban) ]
+- [World Jewish Congress: On UNHRC Floor, WJC Urges Council to Reaffirm Jewish Right to Circumcision](https://www.worldjewishcongress.org/en/news/on-unhrc-floor-wjc-urges-council-to-reaffirm-jewish-right-to-circumcision-and-ritual-slaughter-9-2-2017) [ [Google](https://www.google.com/search?q=WJC+Urges+Council+to+Reaffirm+Jewish+Right+to+Circumcision) ]
 
 ---
 
@@ -79,11 +79,11 @@ The Islamic Community in the Republic of Slovenia (*Islamska skupnost v Republik
 
 ### Documentation & Deep Source Links
 *Pro-Ban / Institutional Ruling:*
-- [Slovenian Human Rights Ombudsman: Obrezovanje fantkov iz nemedicinskih razlogov je kršitev otrokovih pravic](https://arhiv.varuh-rs.si/obravnavane-pobude/primer/obrezovanje-fantkov-iz-nemedicinskih-razlogov-je-krsitev-otrokovih-pravic/) [ [Google](https://www.google.com/search?q="Obrezovanje+fantkov+iz+nemedicinskih+razlogov+je+kršitev+otrokovih+pravic") ]
-- [Constitutional Court of the Republic of Slovenia: Constitution of the Republic of Slovenia](https://www.us-rs.si/assets/Datoteke/CONSTITUTION.pdf) [ [Google](https://www.google.com/search?q="Constitution+of+the+Republic+of+Slovenia"+Varuh) ]
+- [Slovenian Human Rights Ombudsman: Obrezovanje fantkov iz nemedicinskih razlogov je kršitev otrokovih pravic](https://arhiv.varuh-rs.si/obravnavane-pobude/primer/obrezovanje-fantkov-iz-nemedicinskih-razlogov-je-krsitev-otrokovih-pravic/) [ [Google](https://www.google.com/search?q=Obrezovanje+fantkov+iz+nemedicinskih+razlogov+je+kršitev+otrokovih+pravic) ]
+- [Constitutional Court of the Republic of Slovenia: Constitution of the Republic of Slovenia](https://www.us-rs.si/assets/Datoteke/CONSTITUTION.pdf) [ [Google](https://www.google.com/search?q=Constitution+of+the+Republic+of+Slovenia+Varu) ]
 
 *Counter-Ban / Opposition Statements:*
-- [U.S. Department of State: 2017 Report on International Religious Freedom - Slovenia](https://www.state.gov/reports/2017-report-on-international-religious-freedom/slovenia) [ [Google](https://www.google.com/search?q="2017+Report+on+International+Religious+Freedom+-+Slovenia") ]
+- [U.S. Department of State: 2017 Report on International Religious Freedom - Slovenia](https://www.state.gov/reports/2017-report-on-international-religious-freedom/slovenia) [ [Google](https://www.google.com/search?q=2017+Report+on+International+Religious+Freedom+Slovenia) ]
 
 ---
 
@@ -107,15 +107,15 @@ German Jewish and Muslim leadership formed an unprecedented united front against
 
 ### Documentation & Deep Source Links
 *Judicial Ban & Counter-Legislation:*
-- [Landgericht Köln Ruling Az. 151 Ns 169/11: Full Legal Text](https://openjur.de/u/429887.html) [ [Google](https://www.google.com/search?q="Landgericht+Köln"+151+Ns+169/11) ]
-- [German Civil Code: § 1631d BGB Beschneidung des männlichen Kindes](https://www.gesetze-im-internet.de/bgb/__1631d.html) [ [Google](https://www.google.com/search?q="1631d+BGB+Beschneidung+des+männlichen+Kindes") ]
-- [Deutscher Bundestag Drucksache 17/11295: Gesetzentwurf der Bundesregierung](https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-den-umfang-der-personensorge-bei-einer-beschneidung-des/47943?f.deskriptor=Beschneidung&rows=25&pos=1&ctx=d) [ [Google](https://www.google.com/search?q="Deutscher+Bundestag+Drucksache+17/11295"+Beschneidung) ]
-- [Deutscher Bundestag Textarchiv: Beschneidung von Jungen jetzt gesetzlich geregelt](https://www.bundestag.de/webarchiv/textarchiv/2012/42042381_kw50_de_beschneidung-210238) [ [Google](https://www.google.com/search?q="Beschneidung+von+Jungen+jetzt+gesetzlich+geregelt") ]
+- [Landgericht Köln Ruling Az. 151 Ns 169/11: Full Legal Text](https://openjur.de/u/429887.html) [ [Google](https://www.google.com/search?q=Landgericht+Köln+151+Ns+169/1) ]
+- [German Civil Code: § 1631d BGB Beschneidung des männlichen Kindes](https://www.gesetze-im-internet.de/bgb/__1631d.html) [ [Google](https://www.google.com/search?q=1631d+BGB+Beschneidung+des+männlichen+Kindes) ]
+- [Deutscher Bundestag Drucksache 17/11295: Gesetzentwurf der Bundesregierung](https://dip.bundestag.de/vorgang/gesetz-%C3%BCber-den-umfang-der-personensorge-bei-einer-beschneidung-des/47943?f.deskriptor=Beschneidung&rows=25&pos=1&ctx=d) [ [Google](https://www.google.com/search?q=Deutscher+Bundestag+Drucksache+17/11295+Beschneidun) ]
+- [Deutscher Bundestag Textarchiv: Beschneidung von Jungen jetzt gesetzlich geregelt](https://www.bundestag.de/webarchiv/textarchiv/2012/42042381_kw50_de_beschneidung-210238) [ [Google](https://www.google.com/search?q=Beschneidung+von+Jungen+jetzt+gesetzlich+geregelt) ]
 
 *Counter-Ban / Opposition Statements:*
-- [Zentralrat der Juden in Deutschland: Zum Urteil des Kölner Landgerichts zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zum-urteil-des-koelner-landgerichts-zur-beschneidung-von-jungen/) [ [Google](https://www.google.com/search?q="Zum+Urteil+des+Kölner+Landgerichts+zur+Beschneidung+von+Jungen") ]
-- [Zentralrat der Juden in Deutschland: Zur Verabschiedung des Gesetzes zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zur-verabschiedung-des-gesetzes-zur-beschneidung-von-jungen/) [ [Google](https://www.google.com/search?q="Zur+Verabschiedung+des+Gesetzes+zur+Beschneidung+von+Jungen") ]
-- [World Jewish Congress: Jews, Muslims Outraged After German Court Rules That Religious Circumcision of Minors Is Against the Law](https://www.worldjewishcongress.org/en/news/jews-muslims-outraged-after-german-court-rules-that-religious-circumcision-of-minors-is-against-the-law) [ [Google](https://www.google.com/search?q="Jews,+Muslims+Outraged+After+German+Court+Rules+That+Religious+Circumcision+of+Minors+Is+Against+the+Law") ]
+- [Zentralrat der Juden in Deutschland: Zum Urteil des Kölner Landgerichts zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zum-urteil-des-koelner-landgerichts-zur-beschneidung-von-jungen/) [ [Google](https://www.google.com/search?q=Zum+Urteil+des+Kölner+Landgerichts+zur+Beschneidung+von+Jungen) ]
+- [Zentralrat der Juden in Deutschland: Zur Verabschiedung des Gesetzes zur Beschneidung von Jungen](https://www.zentralratderjuden.de/presseerklaerungen/zur-verabschiedung-des-gesetzes-zur-beschneidung-von-jungen/) [ [Google](https://www.google.com/search?q=Zur+Verabschiedung+des+Gesetzes+zur+Beschneidung+von+Jungen) ]
+- [World Jewish Congress: Jews, Muslims Outraged After German Court Rules That Religious Circumcision of Minors Is Against the Law](https://www.worldjewishcongress.org/en/news/jews-muslims-outraged-after-german-court-rules-that-religious-circumcision-of-minors-is-against-the-law) [ [Google](https://www.google.com/search?q=Jews,+Muslims+Outraged+After+German+Court+Rules+That+Religious+Circumcision+of+Minors+Is+Against+the+Law) ]
 
 ---
 
@@ -131,7 +131,7 @@ The Jewish Community of Vienna (*Israelitische Kultusgemeinde Wien* – IKG) and
 
 ### Documentation & Deep Source Links
 *Counter-Ban / Regional Context:*
-- [World Jewish Congress: Kantor Urges Europeans to Enter into Dialogue over Assault on Religion](https://www.worldjewishcongress.org/en/news/kantor-urges-europeans-to-enter-into-dialogue-over-assault-on-religion) [ [Google](https://www.google.com/search?q="Kantor+Urges+Europeans+to+Enter+into+Dialogue+over+Assault+on+Religion") ]
+- [World Jewish Congress: Kantor Urges Europeans to Enter into Dialogue over Assault on Religion](https://www.worldjewishcongress.org/en/news/kantor-urges-europeans-to-enter-into-dialogue-over-assault-on-religion) [ [Google](https://www.google.com/search?q=Kantor+Urges+Europeans+to+Enter+into+Dialogue+over+Assault+on+Religion) ]
 
 ---
 
@@ -147,8 +147,8 @@ The Swiss Federation of Jewish Communities (*Schweizerischer Israelitischer Geme
 
 ### Documentation & Deep Source Links
 *Moratorium & Counter-Ban Statements:*
-- [CRIN: Swiss Legal Experts Divided Over Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-swiss-legal-experts-divided-over-circumcision.html) [ [Google](https://www.google.com/search?q="Swiss+Legal+Experts+Divided+Over+Circumcision") ]
-- [World Jewish Congress: Kantor Urges Europeans to Enter into Dialogue over Assault on Religion](https://www.worldjewishcongress.org/en/news/kantor-urges-europeans-to-enter-into-dialogue-over-assault-on-religion) [ [Google](https://www.google.com/search?q="Kantor+Urges+Europeans+to+Enter+into+Dialogue+over+Assault+on+Religion") ]
+- [CRIN: Swiss Legal Experts Divided Over Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-swiss-legal-experts-divided-over-circumcision.html) [ [Google](https://www.google.com/search?q=Swiss+Legal+Experts+Divided+Over+Circumcision) ]
+- [World Jewish Congress: Kantor Urges Europeans to Enter into Dialogue over Assault on Religion](https://www.worldjewishcongress.org/en/news/kantor-urges-europeans-to-enter-into-dialogue-over-assault-on-religion) [ [Google](https://www.google.com/search?q=Kantor+Urges+Europeans+to+Enter+into+Dialogue+over+Assault+on+Religion) ]
 
 ---
 
@@ -162,10 +162,10 @@ During the inquiry and following the report's release, the Executive Council of 
 
 ### Documentation & Deep Source Links
 *Pro-Ban / Law Reform Inquiry:*
-- [Darbon Institute: Tasmanian Law Report Recommends Regulation of Circumcision](https://www.darboninstitute.org/tasmanian_law_report_recommends_regulation_of_circumcision) [ [Google](https://www.google.com/search?q="Tasmania+Law+Reform+Institute"+"Non-Therapeutic+Male+Circumcision"+"Final+Report+No.+17") ]
+- [Darbon Institute: Tasmanian Law Report Recommends Regulation of Circumcision](https://www.darboninstitute.org/tasmanian_law_report_recommends_regulation_of_circumcision) [ [Google](https://www.google.com/search?q=Tasmania+Law+Reform+Institute+"Non-Therapeutic+Male+Circumcision+"Final+Report+No.+17) ]
 
 *Counter-Ban / Opposition Statements:*
-- [The Australian Jewish News: Circumcision Under Threat in Tasmania](https://www.australianjewishnews.com/circumcision-under-threat-in-tasmania/) [ [Google](https://www.google.com/search?q="Circumcision+Under+Threat+in+Tasmania") ]
+- [The Australian Jewish News: Circumcision Under Threat in Tasmania](https://www.australianjewishnews.com/circumcision-under-threat-in-tasmania/) [ [Google](https://www.google.com/search?q=Circumcision+Under+Threat+in+Tasmania) ]
 
 ---
 
@@ -181,13 +181,13 @@ The Official Council of Swedish Jewish Communities (*Judiska Centralrådet*) and
 
 ### Documentation & Deep Source Links
 *Pro-Ban Motions & Ombudsman Demands:*
-- [Sveriges Riksdag Motion 2014/15:2118: Förbud mot omskärelser av icke-medicinska skäl på omyndiga](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forbud-mot-omskarelser-av-icke-medicinska-skal-pa_h2022118/) [ [Google](https://www.google.com/search?q="Förbud+mot+omskärelser+av+icke-medicinska+skäl+på+omyndiga") ]
-- [Sveriges Riksdag Motion 2018/19:35: Förbud mot icke-medicinsk omskärelse](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forbud-mot-icke-medicinsk-omskarelse_h60235/) [ [Google](https://www.google.com/search?q="Förbud+mot+icke-medicinsk+omskärelse"+"2018/19:35") ]
-- [CRIN: Nordic Ombudspersons Seek Ban on Non-Therapeutic Male Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html) [ [Google](https://www.google.com/search?q="Nordic+Ombudspersons+Seek+Ban+on+Non-Therapeutic+Male+Circumcision") ]
+- [Sveriges Riksdag Motion 2014/15:2118: Förbud mot omskärelser av icke-medicinska skäl på omyndiga](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forbud-mot-omskarelser-av-icke-medicinska-skal-pa_h2022118/) [ [Google](https://www.google.com/search?q=Förbud+mot+omskärelser+av+icke-medicinska+skäl+på+omyndiga) ]
+- [Sveriges Riksdag Motion 2018/19:35: Förbud mot icke-medicinsk omskärelse](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/motion/forbud-mot-icke-medicinsk-omskarelse_h60235/) [ [Google](https://www.google.com/search?q=Förbud+mot+icke-medicinsk+omskärelse+"2018/19:35) ]
+- [CRIN: Nordic Ombudspersons Seek Ban on Non-Therapeutic Male Circumcision](https://archive.crin.org/en/library/news-archive/male-circumcision-nordic-ombudspersons-seek-ban-non-therapeutic-male.html) [ [Google](https://www.google.com/search?q=Nordic+Ombudspersons+Seek+Ban+on+Non-Therapeutic+Male+Circumcision) ]
 
 *Counter-Ban / Opposition Statements:*
-- [European Jewish Congress: Jews Fight Against Swedish Party's Call to Ban Circumcision](https://eurojewcong.org/news/communities-news/sweden/jews-fight-against-swedish-partys-call-to-ban-circumcision/) [ [Google](https://www.google.com/search?q="Jews+Fight+Against+Swedish+Party's+Call+to+Ban+Circumcision") ]
-- [World Jewish Congress: WJC Condemns Decision at Sweden's Center Party Conference to Progress Circumcision Ban](https://www.worldjewishcongress.org/en/news/wjc-condemns-decision-at-swedens-center-party-conference-to-progress-circumcision-ban-9-6-2019) [ [Google](https://www.google.com/search?q="WJC+Condemns+Decision+at+Sweden's+Center+Party+Conference+to+Progress+Circumcision+Ban") ]
+- [European Jewish Congress: Jews Fight Against Swedish Party's Call to Ban Circumcision](https://eurojewcong.org/news/communities-news/sweden/jews-fight-against-swedish-partys-call-to-ban-circumcision/) [ [Google](https://www.google.com/search?q=Jews+Fight+Against+Swedish+Party's+Call+to+Ban+Circumcision) ]
+- [World Jewish Congress: WJC Condemns Decision at Sweden's Center Party Conference to Progress Circumcision Ban](https://www.worldjewishcongress.org/en/news/wjc-condemns-decision-at-swedens-center-party-conference-to-progress-circumcision-ban-9-6-2019) [ [Google](https://www.google.com/search?q=WJC+Condemns+Decision+at+Sweden's+Center+Party+Conference+to+Progress+Circumcision+Ban) ]
 
 ---
 
@@ -209,10 +209,10 @@ Resolution 1952 provoked immediate diplomatic condemnation from the Israeli Mini
 
 ### Documentation & Deep Source Links
 *PACE Resolutions & Replies:*
-- [PACE: Resolution 1952 Children's Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20174) [ [Google](https://www.google.com/search?q="Resolution+1952"+"Children's+right+to+physical+integrity") ]
-- [PACE: Recommendation 2023 Children's Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20176&lang=en) [ [Google](https://www.google.com/search?q="Recommendation+2023"+"Children's+right+to+physical+integrity") ]
-- [Council of Europe Committee of Ministers: Reply to PACE Recommendation 2023](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20583) [ [Google](https://www.google.com/search?q="Reply+to+Recommendation+2023"+"Children's+right+to+physical+integrity") ]
-- [PACE: Resolution 2076 Freedom of Religion and Living Together in a Democratic Society](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=22199&lang=en) [ [Google](https://www.google.com/search?q="Resolution+2076"+"Freedom+of+religion+and+living+together+in+a+democratic+society") ]
+- [PACE: Resolution 1952 Children's Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20174) [ [Google](https://www.google.com/search?q=Resolution+1952+"Children's+right+to+physical+integrity) ]
+- [PACE: Recommendation 2023 Children's Right to Physical Integrity](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20176&lang=en) [ [Google](https://www.google.com/search?q=Recommendation+2023+"Children's+right+to+physical+integrity) ]
+- [Council of Europe Committee of Ministers: Reply to PACE Recommendation 2023](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=20583) [ [Google](https://www.google.com/search?q=Reply+to+Recommendation+2023+"Children's+right+to+physical+integrity) ]
+- [PACE: Resolution 2076 Freedom of Religion and Living Together in a Democratic Society](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=22199&lang=en) [ [Google](https://www.google.com/search?q=Resolution+2076+"Freedom+of+religion+and+living+together+in+a+democratic+society) ]
 
 ---
 
@@ -228,12 +228,12 @@ The Central Council of Jewish Communities in Finland (*Suomen Juutalaisten Seura
 
 ### Documentation & Deep Source Links
 *Pro-Ban Debates & Constitutional Precedents:*
-- [Eduskunta: Plenary Debate Record PTK 139/2020/9 vp](https://www.eduskunta.fi/taysistunnot-ja-tapahtumat/poytakirja-asiakohdat/PTK%20139%2F2020%2F9%20vp) [ [Google](https://www.google.com/search?q="PTK+139/2020/9+vp"+Eduskunta) ]
-- [Eduskunta: Legal Affairs Committee Report LaVM 6/2020 vp](https://www.eduskunta.fi/fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2020-AK-317792) [ [Google](https://www.google.com/search?q="LaVM+6/2020+vp"+Eduskunta) ]
-- [Supreme Court of Finland: Precedent Ruling KKO 2008:93](https://www.korkeinoikeus.fi/ennakkopaatokset/eurooppaoikeudelliset-ratkaisut/kko200893-in-english/) [ [Google](https://www.google.com/search?q="KKO:2008:93"+"Supreme+Court+of+Finland") ]
+- [Eduskunta: Plenary Debate Record PTK 139/2020/9 vp](https://www.eduskunta.fi/taysistunnot-ja-tapahtumat/poytakirja-asiakohdat/PTK%20139%2F2020%2F9%20vp) [ [Google](https://www.google.com/search?q=PTK+139/2020/9+vp+Eduskunt) ]
+- [Eduskunta: Legal Affairs Committee Report LaVM 6/2020 vp](https://www.eduskunta.fi/fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2020-AK-317792) [ [Google](https://www.google.com/search?q=LaVM+6/2020+vp+Eduskunt) ]
+- [Supreme Court of Finland: Precedent Ruling KKO 2008:93](https://www.korkeinoikeus.fi/ennakkopaatokset/eurooppaoikeudelliset-ratkaisut/kko200893-in-english/) [ [Google](https://www.google.com/search?q=KKO:2008:93+"Supreme+Court+of+Finland) ]
 
 *Counter-Ban / Opposition Statements:*
-- [U.S. Department of State: 2020 Report on International Religious Freedom - Finland](https://www.state.gov/reports/2020-report-on-international-religious-freedom/finland/) [ [Google](https://www.google.com/search?q="2020+Report+on+International+Religious+Freedom+-+Finland") ]
+- [U.S. Department of State: 2020 Report on International Religious Freedom - Finland](https://www.state.gov/reports/2020-report-on-international-religious-freedom/finland/) [ [Google](https://www.google.com/search?q=2020+Report+on+International+Religious+Freedom+Finland) ]
 
 ---
 
@@ -255,12 +255,12 @@ The Coordinating Committee of Jewish Organizations in Belgium (CCOJB), the Europ
 
 ### Documentation & Deep Source Links
 *Pro-Ban Bioethics Opinion:*
-- [Comité consultatif de Bioéthique de Belgique: L'avis n°70 relatif aux aspects éthiques de la circoncision non médicale](https://news.belgium.be/fr/lavis-ndeg70-relatif-aux-aspects-ethiques-de-la-circoncision-non-medicale) [ [Google](https://www.google.com/search?q="L'avis+n°70+relatif+aux+aspects+éthiques+de+la+circoncision+non+médicale") ]
+- [Comité consultatif de Bioéthique de Belgique: L'avis n°70 relatif aux aspects éthiques de la circoncision non médicale](https://news.belgium.be/fr/lavis-ndeg70-relatif-aux-aspects-ethiques-de-la-circoncision-non-medicale) [ [Google](https://www.google.com/search?q=L'avis+n°70+relatif+aux+aspects+éthiques+de+la+circoncision+non+médicale) ]
 
 *Counter-Ban / Opposition Statements:*
-- [European Jewish Association: Open Letter from European Jewish Leaders on Criminalisation of Circumcision in Belgium](https://ejassociation.eu/eja/open-letter-from-european-jewish-leaders-to-the-governments-of-europe-belgium-and-the-leaders-of-the-european-institutions-criminalisation-of-circumcision-in-belgium/) [ [Google](https://www.google.com/search?q="Open+Letter+from+European+Jewish+Leaders"+"Criminalisation+of+Circumcision+in+Belgium") ]
-- [European Jewish Congress: Belgian Jewish Community Deplores Violation of Religious Freedom Following Police Raids on Mohels' Homes in Antwerp](https://eurojewcong.org/news/communities-news/belgium/belgian-jewish-community-deplores-violation-of-religious-freedom-following-police-raids-on-mohels-homes-in-antwerp/) [ [Google](https://www.google.com/search?q="Belgian+Jewish+Community+Deplores+Violation+of+Religious+Freedom+Following+Police+Raids+on+Mohels'+Homes+in+Antwerp") ]
-- [European Jewish Congress: CCOJB President Yves Oschinsky: Circumcision Is Fundamental to the Preservation of Jewish Life in Belgium](https://eurojewcong.org/news/communities-news/belgium/ccojb-president-yves-oschinsky-circumcision-is-fundamental-to-the-preservation-of-jewish-life-in-belgium/) [ [Google](https://www.google.com/search?q="Circumcision+Is+Fundamental+to+the+Preservation+of+Jewish+Life+in+Belgium") ]
+- [European Jewish Association: Open Letter from European Jewish Leaders on Criminalisation of Circumcision in Belgium](https://ejassociation.eu/eja/open-letter-from-european-jewish-leaders-to-the-governments-of-europe-belgium-and-the-leaders-of-the-european-institutions-criminalisation-of-circumcision-in-belgium/) [ [Google](https://www.google.com/search?q=Open+Letter+from+European+Jewish+Leaders+"Criminalisation+of+Circumcision+in+Belgium) ]
+- [European Jewish Congress: Belgian Jewish Community Deplores Violation of Religious Freedom Following Police Raids on Mohels' Homes in Antwerp](https://eurojewcong.org/news/communities-news/belgium/belgian-jewish-community-deplores-violation-of-religious-freedom-following-police-raids-on-mohels-homes-in-antwerp/) [ [Google](https://www.google.com/search?q=Belgian+Jewish+Community+Deplores+Violation+of+Religious+Freedom+Following+Police+Raids+on+Mohels'+Homes+in+Antwerp) ]
+- [European Jewish Congress: CCOJB President Yves Oschinsky: Circumcision Is Fundamental to the Preservation of Jewish Life in Belgium](https://eurojewcong.org/news/communities-news/belgium/ccojb-president-yves-oschinsky-circumcision-is-fundamental-to-the-preservation-of-jewish-life-in-belgium/) [ [Google](https://www.google.com/search?q=Circumcision+Is+Fundamental+to+the+Preservation+of+Jewish+Life+in+Belgium) ]
 
 ---
 
@@ -282,16 +282,16 @@ Nordic Jewish communities, the European Jewish Association (EJA), the European J
 
 ### Documentation & Deep Source Links
 *Pro-Ban Legislation & Proceedings:*
-- [Alþingi Bill 183 148th Session: Frumvarp til laga um breytingu á almennum hegningarlögum](https://www.althingi.is/altext/148/s/0183.html) [ [Google](https://www.google.com/search?q="Frumvarp+til+laga+um+breytingu+á+almennum+hegningarlögum"+183+148) ]
-- [Alþingi Parliamentary Proceedings: 1st Reading Debate Records](https://www.althingi.is/altext/148/02/l08184709.sgml) [ [Google](https://www.google.com/search?q="l08184709.sgml"+althingi) ]
-- [Alþingi Committee Case 114 Submission: Umsögn 148-1039](https://www.althingi.is/altext/erindi/148/148-1039.pdf) [ [Google](https://www.google.com/search?q="148-1039.pdf"+althingi) ]
-- [The Guardian: Iceland Law to Outlaw Male Circumcision Sparks Row over Religious Freedom](https://www.theguardian.com/society/2018/feb/18/iceland-ban-male-circumcision-first-european-country) [ [Google](https://www.google.com/search?q="Iceland+Law+to+Outlaw+Male+Circumcision+Sparks+Row+over+Religious+Freedom") ]
+- [Alþingi Bill 183 148th Session: Frumvarp til laga um breytingu á almennum hegningarlögum](https://www.althingi.is/altext/148/s/0183.html) [ [Google](https://www.google.com/search?q=Frumvarp+til+laga+um+breytingu+á+almennum+hegningarlögum+183+14) ]
+- [Alþingi Parliamentary Proceedings: 1st Reading Debate Records](https://www.althingi.is/altext/148/02/l08184709.sgml) [ [Google](https://www.google.com/search?q=l08184709.sgml+althing) ]
+- [Alþingi Committee Case 114 Submission: Umsögn 148-1039](https://www.althingi.is/altext/erindi/148/148-1039.pdf) [ [Google](https://www.google.com/search?q=148-1039.pdf+althing) ]
+- [The Guardian: Iceland Law to Outlaw Male Circumcision Sparks Row over Religious Freedom](https://www.theguardian.com/society/2018/feb/18/iceland-ban-male-circumcision-first-european-country) [ [Google](https://www.google.com/search?q=Iceland+Law+to+Outlaw+Male+Circumcision+Sparks+Row+over+Religious+Freedom) ]
 
 *Counter-Ban / Opposition Statements:*
-- [European Jewish Congress: Joint Statement by the Nordic Jewish Communities Concerning the Proposed Anti-Circumcision Legislation in Iceland](https://eurojewcong.org/news/communities-news/joint-statement-nordic-jewish-communities-concerning-proposed-anti-circumcision-legislation-iceland/) [ [Google](https://www.google.com/search?q="Joint+Statement+by+the+Nordic+Jewish+Communities+Concerning+the+Proposed+Anti-Circumcision+Legislation+in+Iceland") ]
-- [European Jewish Association: Iceland Ambassador Meeting Constructive Over Circumcision Bill](https://ejassociation.eu/eja/iceland-ambassador-meeting-constructive-over-circumcision-bill-says-jewish-association-head/) [ [Google](https://www.google.com/search?q="Iceland+Ambassador+Meeting+Constructive+Over+Circumcision+Bill") ]
-- [The Times of Israel: Circumcision Ban Will Prevent Jewish Life in Iceland, Leaders Warn](https://www.timesofisrael.com/circumcision-ban-will-prevent-jewish-life-in-iceland-leaders-warn/) [ [Google](https://www.google.com/search?q="Circumcision+Ban+Will+Prevent+Jewish+Life+in+Iceland,+Leaders+Warn") ]
-- [The Times of Israel: Rabbi, Imam Defend Circumcision in Face of Iceland Bill to Ban It](https://www.timesofisrael.com/rabbi-imam-defend-circumcision-in-face-of-iceland-bill-to-ban-it/) [ [Google](https://www.google.com/search?q="Rabbi,+Imam+Defend+Circumcision+in+Face+of+Iceland+Bill+to+Ban+It") ]
+- [European Jewish Congress: Joint Statement by the Nordic Jewish Communities Concerning the Proposed Anti-Circumcision Legislation in Iceland](https://eurojewcong.org/news/communities-news/joint-statement-nordic-jewish-communities-concerning-proposed-anti-circumcision-legislation-iceland/) [ [Google](https://www.google.com/search?q=Joint+Statement+by+the+Nordic+Jewish+Communities+Concerning+the+Proposed+Anti-Circumcision+Legislation+in+Iceland) ]
+- [European Jewish Association: Iceland Ambassador Meeting Constructive Over Circumcision Bill](https://ejassociation.eu/eja/iceland-ambassador-meeting-constructive-over-circumcision-bill-says-jewish-association-head/) [ [Google](https://www.google.com/search?q=Iceland+Ambassador+Meeting+Constructive+Over+Circumcision+Bill) ]
+- [The Times of Israel: Circumcision Ban Will Prevent Jewish Life in Iceland, Leaders Warn](https://www.timesofisrael.com/circumcision-ban-will-prevent-jewish-life-in-iceland-leaders-warn/) [ [Google](https://www.google.com/search?q=Circumcision+Ban+Will+Prevent+Jewish+Life+in+Iceland,+Leaders+Warn) ]
+- [The Times of Israel: Rabbi, Imam Defend Circumcision in Face of Iceland Bill to Ban It](https://www.timesofisrael.com/rabbi-imam-defend-circumcision-in-face-of-iceland-bill-to-ban-it/) [ [Google](https://www.google.com/search?q=Rabbi,+Imam+Defend+Circumcision+in+Face+of+Iceland+Bill+to+Ban+It) ]
 
 ---
 
@@ -313,14 +313,14 @@ The Danish Jewish Community (*Det Jødiske Samfund i Danmark*) and Danish Muslim
 
 ### Documentation & Deep Source Links
 *Pro-Ban Citizens' Initiative & Parliamentary Debates:*
-- [Borgerforslag FT-00124: Indførelse af 18 års mindstealder for omskæring af raske børn](https://www.borgerforslag.dk/se-og-stoet-forslag/?Id=FT-00124) [ [Google](https://www.google.com/search?q="Borgerforslag+FT-00124:+Indførelse+af+18+års+mindstealder+for+omskæring+af+raske+børn") ]
-- [Folketinget Resolution B 7: Official Parliamentary Case File](https://www.ft.dk/samling/20201/beslutningsforslag/b7/index.htm) [ [Google](https://www.google.com/search?q="Beslutningsforslag+B+7"+"omskæring"+Folketinget) ]
-- [Folketinget Resolution B 7 Debate Record: BEH1-21 Forhandling](https://www.ft.dk/samling/20201/beslutningsforslag/B7/BEH1-21/forhandling.htm) [ [Google](https://www.google.com/search?q="B+7"+"BEH1-21"+Folketinget+omskæring) ]
-- [Lægeforeningen: Omskæring af drenge uden medicinsk indikation er etisk uacceptabelt](https://laeger.dk/foreninger/laegeforeningen/etik/omskaering-af-drenge-uden-medicinsk-indikation) [ [Google](https://www.google.com/search?q="Omskæring+af+drenge+uden+medicinsk+indikation"+Lægeforeningen) ]
+- [Borgerforslag FT-00124: Indførelse af 18 års mindstealder for omskæring af raske børn](https://www.borgerforslag.dk/se-og-stoet-forslag/?Id=FT-00124) [ [Google](https://www.google.com/search?q=Borgerforslag+FT-00124:+Indførelse+af+18+års+mindstealder+for+omskæring+af+raske+børn) ]
+- [Folketinget Resolution B 7: Official Parliamentary Case File](https://www.ft.dk/samling/20201/beslutningsforslag/b7/index.htm) [ [Google](https://www.google.com/search?q=Beslutningsforslag+B+7+omskæring+Folketinge) ]
+- [Folketinget Resolution B 7 Debate Record: BEH1-21 Forhandling](https://www.ft.dk/samling/20201/beslutningsforslag/B7/BEH1-21/forhandling.htm) [ [Google](https://www.google.com/search?q=B+7+BEH1-21+Folketinget+omskærin) ]
+- [Lægeforeningen: Omskæring af drenge uden medicinsk indikation er etisk uacceptabelt](https://laeger.dk/foreninger/laegeforeningen/etik/omskaering-af-drenge-uden-medicinsk-indikation) [ [Google](https://www.google.com/search?q=Omskæring+af+drenge+uden+medicinsk+indikation+Lægeforeninge) ]
 
 *Counter-Ban / Opposition Statements:*
-- [European Jewish Association: Danish Parliament to Consider Becoming First Country to Ban Circumcision of Boys](https://ejassociation.eu/eja/danish-parliament-to-consider-becoming-first-country-to-ban-circumcision-of-boys/) [ [Google](https://www.google.com/search?q="Danish+Parliament+to+Consider+Becoming+First+Country+to+Ban+Circumcision+of+Boys") ]
-- [Det Jødiske Samfund i Danmark: Omskæring – Hvorfor er det vigtigt for jøder?](https://mosaiske.dk/omskaering-hvorfor-er-det-vigtigt-for-joeder/) [ [Google](https://www.google.com/search?q="Omskæring+–+Hvorfor+er+det+vigtigt+for+jøder?") ]
-- [Det Jødiske Samfund i Danmark: Den jødiske drengeomskæring – Juridisk information](https://djs.dk/wp-content/uploads/JURIDISK-INFORMATIONSop.pdf) [ [Google](https://www.google.com/search?q="Den+jødiske+drengeomskæring+–+Juridisk+information") ]
-- [U.S. Department of State: 2018 Report on International Religious Freedom - Denmark](https://www.state.gov/wp-content/uploads/2019/05/DENMARK-2018-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf) [ [Google](https://www.google.com/search?q="DENMARK+2018+INTERNATIONAL+RELIGIOUS+FREEDOM+REPORT") ]
+- [European Jewish Association: Danish Parliament to Consider Becoming First Country to Ban Circumcision of Boys](https://ejassociation.eu/eja/danish-parliament-to-consider-becoming-first-country-to-ban-circumcision-of-boys/) [ [Google](https://www.google.com/search?q=Danish+Parliament+to+Consider+Becoming+First+Country+to+Ban+Circumcision+of+Boys) ]
+- [Det Jødiske Samfund i Danmark: Omskæring – Hvorfor er det vigtigt for jøder?](https://mosaiske.dk/omskaering-hvorfor-er-det-vigtigt-for-joeder/) [ [Google](https://www.google.com/search?q=Omskæring+–+Hvorfor+er+det+vigtigt+for+jøder?) ]
+- [Det Jødiske Samfund i Danmark: Den jødiske drengeomskæring – Juridisk information](https://djs.dk/wp-content/uploads/JURIDISK-INFORMATIONSop.pdf) [ [Google](https://www.google.com/search?q=Den+jødiske+drengeomskæring+–+Juridisk+information) ]
+- [U.S. Department of State: 2018 Report on International Religious Freedom - Denmark](https://www.state.gov/wp-content/uploads/2019/05/DENMARK-2018-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf) [ [Google](https://www.google.com/search?q=DENMARK+2018+INTERNATIONAL+RELIGIOUS+FREEDOM+REPORT) ]
 
